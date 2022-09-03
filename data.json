@@ -1,8 +1,26 @@
 [
   {
+    "full_name": "divkit/divkit",
+    "stargazers_count": 1359,
+    "open_issues_count": 5,
+    "forks_count": 54
+  },
+  {
+    "full_name": "google-research/multinerf",
+    "stargazers_count": 1964,
+    "open_issues_count": 19,
+    "forks_count": 147
+  },
+  {
+    "full_name": "adrianhajdin/project_youtube_clone",
+    "stargazers_count": 161,
+    "open_issues_count": 1,
+    "forks_count": 47
+  },
+  {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 763,
+    "stargazers_count": 766,
     "open_issues_count": 18,
-    "forks_count": 368
+    "forks_count": 370
   }
 ]
