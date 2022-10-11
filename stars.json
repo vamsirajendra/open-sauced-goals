@@ -1,63 +1,63 @@
 [
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 14174,
-    "open_issues_count": 289,
-    "forks_count": 1546
+    "stargazers_count": 14185,
+    "open_issues_count": 285,
+    "forks_count": 1551
   },
   {
     "full_name": "zju3dv/NeuralRecon",
-    "stargazers_count": 1324,
-    "open_issues_count": 36,
-    "forks_count": 201
+    "stargazers_count": 1332,
+    "open_issues_count": 37,
+    "forks_count": 202
   },
   {
     "full_name": "apple/ml-neuman",
-    "stargazers_count": 821,
-    "open_issues_count": 12,
+    "stargazers_count": 829,
+    "open_issues_count": 15,
     "forks_count": 90
   },
   {
     "full_name": "nianticlabs/simplerecon",
-    "stargazers_count": 758,
-    "open_issues_count": 8,
+    "stargazers_count": 768,
+    "open_issues_count": 7,
     "forks_count": 52
   },
   {
     "full_name": "adrianhajdin/project_youtube_clone",
-    "stargazers_count": 327,
+    "stargazers_count": 340,
     "open_issues_count": 3,
-    "forks_count": 97
+    "forks_count": 99
   },
   {
     "full_name": "google-research/multinerf",
-    "stargazers_count": 2302,
+    "stargazers_count": 2315,
     "open_issues_count": 31,
-    "forks_count": 182
+    "forks_count": 184
   },
   {
     "full_name": "divkit/divkit",
-    "stargazers_count": 1522,
+    "stargazers_count": 1527,
     "open_issues_count": 6,
     "forks_count": 62
   },
   {
     "full_name": "vista-simulator/vista",
-    "stargazers_count": 192,
+    "stargazers_count": 196,
     "open_issues_count": 12,
     "forks_count": 27
   },
   {
     "full_name": "NVIDIA/open-gpu-kernel-modules",
-    "stargazers_count": 12552,
-    "open_issues_count": 95,
-    "forks_count": 880
+    "stargazers_count": 12566,
+    "open_issues_count": 96,
+    "forks_count": 879
   },
   {
     "full_name": "obsproject/obs-websocket",
-    "stargazers_count": 3064,
+    "stargazers_count": 3071,
     "open_issues_count": 53,
-    "forks_count": 582
+    "forks_count": 581
   },
   {
     "full_name": "IRLToolkit/obs-websocket-http",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "shiftkey/desktop",
-    "stargazers_count": 4987,
-    "open_issues_count": 43,
+    "stargazers_count": 5004,
+    "open_issues_count": 47,
     "forks_count": 416
   },
   {
     "full_name": "bycloudai/instant-ngp-Windows",
-    "stargazers_count": 318,
+    "stargazers_count": 321,
     "open_issues_count": 2,
     "forks_count": 50
   },
   {
     "full_name": "Phyronnaz/VoxelPlugin",
-    "stargazers_count": 1271,
+    "stargazers_count": 1274,
     "open_issues_count": 275,
     "forks_count": 253
   },
@@ -97,39 +97,39 @@
   },
   {
     "full_name": "EpicGames/PixelStreamingInfrastructure",
-    "stargazers_count": 57,
+    "stargazers_count": 60,
     "open_issues_count": 8,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "NVIDIA/nvidia-docker",
-    "stargazers_count": 15234,
-    "open_issues_count": 238,
-    "forks_count": 1971
+    "stargazers_count": 15257,
+    "open_issues_count": 239,
+    "forks_count": 1972
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 14494,
-    "open_issues_count": 42,
-    "forks_count": 486
+    "stargazers_count": 14683,
+    "open_issues_count": 43,
+    "forks_count": 493
   },
   {
     "full_name": "alicevision/AliceVision",
-    "stargazers_count": 2297,
-    "open_issues_count": 73,
-    "forks_count": 693
+    "stargazers_count": 2302,
+    "open_issues_count": 76,
+    "forks_count": 696
   },
   {
     "full_name": "bmild/nerf",
-    "stargazers_count": 5901,
+    "stargazers_count": 5936,
     "open_issues_count": 82,
-    "forks_count": 885
+    "forks_count": 886
   },
   {
     "full_name": "CRED-CLUB/neopop-android",
     "stargazers_count": 238,
     "open_issues_count": 3,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "E66666666/GTAVManualTransmission",
@@ -146,32 +146,32 @@
   {
     "full_name": "ydrive/EasySynth",
     "stargazers_count": 84,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 11
   },
   {
     "full_name": "sergey-dryabzhinsky/nginx-rtmp-module",
-    "stargazers_count": 931,
+    "stargazers_count": 933,
     "open_issues_count": 145,
     "forks_count": 201
   },
   {
     "full_name": "withastro/astro",
-    "stargazers_count": 20897,
-    "open_issues_count": 88,
-    "forks_count": 968
+    "stargazers_count": 21053,
+    "open_issues_count": 75,
+    "forks_count": 981
   },
   {
     "full_name": "mxgmn/WaveFunctionCollapse",
-    "stargazers_count": 20010,
+    "stargazers_count": 20032,
     "open_issues_count": 1,
     "forks_count": 1065
   },
   {
     "full_name": "NVlabs/instant-ngp",
-    "stargazers_count": 9225,
-    "open_issues_count": 184,
-    "forks_count": 1032
+    "stargazers_count": 9273,
+    "open_issues_count": 185,
+    "forks_count": 1044
   },
   {
     "full_name": "VaramIshitha/amazon-kinesis-video-streams-webrtc-sdk-js",
