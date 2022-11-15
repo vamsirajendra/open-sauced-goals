@@ -1,81 +1,81 @@
 [
   {
     "full_name": "nerfstudio-project/nerfstudio",
-    "stargazers_count": 2144,
-    "open_issues_count": 91,
-    "forks_count": 121
+    "stargazers_count": 2304,
+    "open_issues_count": 78,
+    "forks_count": 126
   },
   {
     "full_name": "emomilol1213/Unreal-Diffusion",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "runwayml/guided-inpainting",
-    "stargazers_count": 149,
+    "stargazers_count": 156,
     "open_issues_count": 6,
     "forks_count": 13
   },
   {
     "full_name": "runwayml/stable-diffusion",
-    "stargazers_count": 1407,
+    "stargazers_count": 1443,
     "open_issues_count": 15,
-    "forks_count": 118
+    "forks_count": 124
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 3291,
-    "open_issues_count": 226,
-    "forks_count": 156
+    "stargazers_count": 3304,
+    "open_issues_count": 228,
+    "forks_count": 158
   },
   {
     "full_name": "deforum/stable-diffusion",
-    "stargazers_count": 550,
-    "open_issues_count": 22,
-    "forks_count": 98
+    "stargazers_count": 554,
+    "open_issues_count": 21,
+    "forks_count": 99
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 14285,
-    "open_issues_count": 302,
-    "forks_count": 1584
+    "stargazers_count": 14305,
+    "open_issues_count": 288,
+    "forks_count": 1587
   },
   {
     "full_name": "zju3dv/NeuralRecon",
-    "stargazers_count": 1382,
+    "stargazers_count": 1387,
     "open_issues_count": 41,
-    "forks_count": 210
+    "forks_count": 212
   },
   {
     "full_name": "apple/ml-neuman",
-    "stargazers_count": 874,
-    "open_issues_count": 18,
-    "forks_count": 101
+    "stargazers_count": 879,
+    "open_issues_count": 19,
+    "forks_count": 102
   },
   {
     "full_name": "nianticlabs/simplerecon",
-    "stargazers_count": 862,
+    "stargazers_count": 868,
     "open_issues_count": 2,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "adrianhajdin/project_youtube_clone",
-    "stargazers_count": 411,
+    "stargazers_count": 419,
     "open_issues_count": 6,
-    "forks_count": 111
+    "forks_count": 114
   },
   {
     "full_name": "google-research/multinerf",
-    "stargazers_count": 2438,
-    "open_issues_count": 38,
-    "forks_count": 199
+    "stargazers_count": 2444,
+    "open_issues_count": 39,
+    "forks_count": 200
   },
   {
     "full_name": "divkit/divkit",
-    "stargazers_count": 1566,
+    "stargazers_count": 1572,
     "open_issues_count": 7,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "vista-simulator/vista",
@@ -85,37 +85,37 @@
   },
   {
     "full_name": "NVIDIA/open-gpu-kernel-modules",
-    "stargazers_count": 12679,
-    "open_issues_count": 101,
-    "forks_count": 888
+    "stargazers_count": 12691,
+    "open_issues_count": 103,
+    "forks_count": 889
   },
   {
     "full_name": "obsproject/obs-websocket",
-    "stargazers_count": 3100,
-    "open_issues_count": 60,
-    "forks_count": 596
+    "stargazers_count": 3106,
+    "open_issues_count": 52,
+    "forks_count": 594
   },
   {
     "full_name": "IRLToolkit/obs-websocket-http",
     "stargazers_count": 36,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "shiftkey/desktop",
-    "stargazers_count": 5105,
-    "open_issues_count": 46,
-    "forks_count": 428
+    "stargazers_count": 5115,
+    "open_issues_count": 50,
+    "forks_count": 429
   },
   {
     "full_name": "bycloudai/instant-ngp-Windows",
-    "stargazers_count": 349,
+    "stargazers_count": 350,
     "open_issues_count": 4,
     "forks_count": 52
   },
   {
     "full_name": "Phyronnaz/VoxelPlugin",
-    "stargazers_count": 1288,
+    "stargazers_count": 1292,
     "open_issues_count": 273,
     "forks_count": 257
   },
@@ -127,45 +127,45 @@
   },
   {
     "full_name": "adamrehn/ue4-runtime",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "EpicGames/PixelStreamingInfrastructure",
     "stargazers_count": 72,
-    "open_issues_count": 12,
+    "open_issues_count": 6,
     "forks_count": 37
   },
   {
     "full_name": "NVIDIA/nvidia-docker",
-    "stargazers_count": 15387,
+    "stargazers_count": 15413,
     "open_issues_count": 249,
-    "forks_count": 1981
+    "forks_count": 1983
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 16289,
-    "open_issues_count": 46,
-    "forks_count": 569
+    "stargazers_count": 16441,
+    "open_issues_count": 44,
+    "forks_count": 576
   },
   {
     "full_name": "alicevision/AliceVision",
-    "stargazers_count": 2330,
-    "open_issues_count": 70,
+    "stargazers_count": 2338,
+    "open_issues_count": 72,
     "forks_count": 702
   },
   {
     "full_name": "bmild/nerf",
-    "stargazers_count": 6155,
+    "stargazers_count": 6196,
     "open_issues_count": 81,
-    "forks_count": 922
+    "forks_count": 926
   },
   {
     "full_name": "CRED-CLUB/neopop-android",
-    "stargazers_count": 244,
+    "stargazers_count": 247,
     "open_issues_count": 4,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "E66666666/GTAVManualTransmission",
