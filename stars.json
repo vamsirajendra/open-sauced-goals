@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "autodesk-forks/USD",
+    "stargazers_count": 82,
+    "open_issues_count": 4,
+    "forks_count": 16
+  },
+  {
     "full_name": "penpot/penpot",
-    "stargazers_count": 20734,
-    "open_issues_count": 244,
-    "forks_count": 941
+    "stargazers_count": 20790,
+    "open_issues_count": 250,
+    "forks_count": 945
   },
   {
     "full_name": "OpenModelica/OpenModelica",
-    "stargazers_count": 571,
-    "open_issues_count": 1612,
-    "forks_count": 240
+    "stargazers_count": 573,
+    "open_issues_count": 1614,
+    "forks_count": 241
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 1861,
-    "open_issues_count": 7,
+    "stargazers_count": 1876,
+    "open_issues_count": 8,
     "forks_count": 166
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 1649,
-    "open_issues_count": 8,
-    "forks_count": 121
+    "stargazers_count": 1683,
+    "open_issues_count": 11,
+    "forks_count": 123
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 9996,
-    "open_issues_count": 67,
-    "forks_count": 1375
+    "stargazers_count": 10059,
+    "open_issues_count": 73,
+    "forks_count": 1391
   },
   {
     "full_name": "android/architecture-components-samples",
-    "stargazers_count": 22596,
+    "stargazers_count": 22601,
     "open_issues_count": 186,
-    "forks_count": 8302
+    "forks_count": 8306
   },
   {
     "full_name": "android/architecture-samples",
-    "stargazers_count": 42241,
+    "stargazers_count": 42270,
     "open_issues_count": 213,
-    "forks_count": 11445
+    "forks_count": 11452
   },
   {
     "full_name": "android/sunflower",
-    "stargazers_count": 16539,
-    "open_issues_count": 141,
-    "forks_count": 4368
+    "stargazers_count": 16557,
+    "open_issues_count": 140,
+    "forks_count": 4370
   },
   {
     "full_name": "aws/deep-learning-containers",
-    "stargazers_count": 617,
-    "open_issues_count": 236,
-    "forks_count": 336
+    "stargazers_count": 620,
+    "open_issues_count": 235,
+    "forks_count": 339
   },
   {
     "full_name": "VaramIshitha/librealsense",
@@ -61,122 +67,116 @@
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 14732,
-    "open_issues_count": 12,
-    "forks_count": 3540
+    "stargazers_count": 14769,
+    "open_issues_count": 11,
+    "forks_count": 3553
   },
   {
     "full_name": "wasabeef/awesome-android-ui",
-    "stargazers_count": 45447,
-    "open_issues_count": 21,
-    "forks_count": 10263
+    "stargazers_count": 45487,
+    "open_issues_count": 22,
+    "forks_count": 10264
   },
   {
     "full_name": "ArduPilot/MissionPlanner",
-    "stargazers_count": 1368,
-    "open_issues_count": 1154,
-    "forks_count": 2107
+    "stargazers_count": 1369,
+    "open_issues_count": 1156,
+    "forks_count": 2110
   },
   {
     "full_name": "ultralytics/yolov5",
-    "stargazers_count": 35345,
-    "open_issues_count": 292,
-    "forks_count": 12825
+    "stargazers_count": 35438,
+    "open_issues_count": 290,
+    "forks_count": 12861
   },
   {
     "full_name": "ColinKennedy/USD-Cookbook",
-    "stargazers_count": 422,
+    "stargazers_count": 424,
     "open_issues_count": 2,
     "forks_count": 75
   },
   {
     "full_name": "PixarAnimationStudios/USD",
-    "stargazers_count": 4083,
-    "open_issues_count": 631,
-    "forks_count": 947
+    "stargazers_count": 4093,
+    "open_issues_count": 643,
+    "forks_count": 948
   },
   {
     "full_name": "xianfei/SysMocap",
-    "stargazers_count": 1761,
+    "stargazers_count": 1766,
     "open_issues_count": 24,
-    "forks_count": 310
+    "forks_count": 313
   },
   {
     "full_name": "nv-tlabs/GET3D",
-    "stargazers_count": 2909,
-    "open_issues_count": 24,
-    "forks_count": 231
+    "stargazers_count": 2934,
+    "open_issues_count": 21,
+    "forks_count": 234
   },
   {
     "full_name": "nerfstudio-project/nerfstudio",
-    "stargazers_count": 3622,
-    "open_issues_count": 185,
-    "forks_count": 333
+    "stargazers_count": 3656,
+    "open_issues_count": 188,
+    "forks_count": 343
   },
   {
     "full_name": "emomilol1213/Unreal-Diffusion",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "runwayml/guided-inpainting",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "runwayml/stable-diffusion",
-    "stargazers_count": 1849,
+    "stargazers_count": 1868,
     "open_issues_count": 19,
-    "forks_count": 179
+    "forks_count": 187
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 3719,
-    "open_issues_count": 240,
-    "forks_count": 192
+    "stargazers_count": 3743,
+    "open_issues_count": 242,
+    "forks_count": 194
   },
   {
     "full_name": "deforum/stable-diffusion",
-    "stargazers_count": 634,
+    "stargazers_count": 639,
     "open_issues_count": 24,
-    "forks_count": 120
+    "forks_count": 121
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 14659,
-    "open_issues_count": 313,
+    "stargazers_count": 14671,
+    "open_issues_count": 303,
     "forks_count": 1638
   },
   {
     "full_name": "zju3dv/NeuralRecon",
-    "stargazers_count": 1493,
+    "stargazers_count": 1498,
     "open_issues_count": 45,
-    "forks_count": 230
+    "forks_count": 231
   },
   {
     "full_name": "apple/ml-neuman",
-    "stargazers_count": 967,
-    "open_issues_count": 25,
+    "stargazers_count": 972,
+    "open_issues_count": 26,
     "forks_count": 118
   },
   {
     "full_name": "nianticlabs/simplerecon",
-    "stargazers_count": 964,
+    "stargazers_count": 965,
     "open_issues_count": 3,
     "forks_count": 80
   },
   {
     "full_name": "adrianhajdin/project_youtube_clone",
-    "stargazers_count": 726,
+    "stargazers_count": 736,
     "open_issues_count": 13,
-    "forks_count": 216
-  },
-  {
-    "full_name": "google-research/multinerf",
-    "stargazers_count": 2652,
-    "open_issues_count": 64,
-    "forks_count": 249
+    "forks_count": 219
   }
 ]
