@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "mRemoteNG/mRemoteNG",
+    "stargazers_count": 7435,
+    "open_issues_count": 762,
+    "forks_count": 1336
+  },
+  {
     "full_name": "vercel/next.js",
-    "stargazers_count": 105096,
-    "open_issues_count": 1829,
-    "forks_count": 23699
+    "stargazers_count": 105309,
+    "open_issues_count": 1834,
+    "forks_count": 23732
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 5,
     "forks_count": 14
   },
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1108,
+    "stargazers_count": 1112,
     "open_issues_count": 36,
     "forks_count": 115
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6744,
-    "open_issues_count": 406,
-    "forks_count": 4706
+    "stargazers_count": 6747,
+    "open_issues_count": 408,
+    "forks_count": 4711
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13673,
-    "open_issues_count": 91,
-    "forks_count": 586
+    "stargazers_count": 13681,
+    "open_issues_count": 92,
+    "forks_count": 588
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 693,
+    "stargazers_count": 695,
     "open_issues_count": 0,
     "forks_count": 65
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 188,
+    "stargazers_count": 190,
     "open_issues_count": 2,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "sideeffects/SideFXLabs",
     "stargazers_count": 784,
     "open_issues_count": 6,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
     "stargazers_count": 1054,
     "open_issues_count": 84,
-    "forks_count": 323
+    "forks_count": 325
   },
   {
     "full_name": "syntway/model_exploder",
@@ -109,57 +115,57 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 21570,
-    "open_issues_count": 252,
-    "forks_count": 998
+    "stargazers_count": 21594,
+    "open_issues_count": 260,
+    "forks_count": 1000
   },
   {
     "full_name": "OpenModelica/OpenModelica",
-    "stargazers_count": 593,
-    "open_issues_count": 1637,
+    "stargazers_count": 595,
+    "open_issues_count": 1642,
     "forks_count": 253
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 2151,
+    "stargazers_count": 2167,
     "open_issues_count": 9,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 1891,
-    "open_issues_count": 9,
-    "forks_count": 157
+    "stargazers_count": 1898,
+    "open_issues_count": 11,
+    "forks_count": 158
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 11026,
-    "open_issues_count": 85,
-    "forks_count": 1615
+    "stargazers_count": 11091,
+    "open_issues_count": 88,
+    "forks_count": 1621
   },
   {
     "full_name": "android/architecture-components-samples",
-    "stargazers_count": 22744,
+    "stargazers_count": 22754,
     "open_issues_count": 189,
-    "forks_count": 8322
+    "forks_count": 8323
   },
   {
     "full_name": "android/architecture-samples",
-    "stargazers_count": 42580,
-    "open_issues_count": 181,
-    "forks_count": 11477
+    "stargazers_count": 42598,
+    "open_issues_count": 182,
+    "forks_count": 11480
   },
   {
     "full_name": "android/sunflower",
-    "stargazers_count": 16748,
+    "stargazers_count": 16754,
     "open_issues_count": 144,
-    "forks_count": 4430
+    "forks_count": 4432
   },
   {
     "full_name": "aws/deep-learning-containers",
     "stargazers_count": 681,
-    "open_issues_count": 131,
-    "forks_count": 371
+    "open_issues_count": 132,
+    "forks_count": 374
   },
   {
     "full_name": "VaramIshitha/librealsense",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 15535,
-    "open_issues_count": 16,
-    "forks_count": 3791
-  },
-  {
-    "full_name": "wasabeef/awesome-android-ui",
-    "stargazers_count": 46136,
-    "open_issues_count": 23,
-    "forks_count": 10292
+    "stargazers_count": 15571,
+    "open_issues_count": 20,
+    "forks_count": 3810
   }
 ]
