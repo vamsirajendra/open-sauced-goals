@@ -1,27 +1,27 @@
 [
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 41828,
-    "open_issues_count": 3761,
-    "forks_count": 6215
+    "stargazers_count": 41859,
+    "open_issues_count": 3785,
+    "forks_count": 6221
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 2,
     "forks_count": 24
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7543,
-    "open_issues_count": 767,
-    "forks_count": 1351
+    "stargazers_count": 7553,
+    "open_issues_count": 766,
+    "forks_count": 1350
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 107031,
-    "open_issues_count": 2079,
-    "forks_count": 23978
+    "stargazers_count": 107224,
+    "open_issues_count": 2111,
+    "forks_count": 24001
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1123,
+    "stargazers_count": 1124,
     "open_issues_count": 37,
     "forks_count": 116
   },
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6817,
-    "open_issues_count": 404,
-    "forks_count": 4726
+    "stargazers_count": 6827,
+    "open_issues_count": 408,
+    "forks_count": 4728
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13793,
+    "stargazers_count": 13806,
     "open_issues_count": 76,
-    "forks_count": 593
+    "forks_count": 591
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
-    "stargazers_count": 99,
+    "stargazers_count": 100,
     "open_issues_count": 2,
     "forks_count": 39
   },
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 1,
     "forks_count": 59
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 801,
+    "stargazers_count": 802,
     "open_issues_count": 6,
-    "forks_count": 174
+    "forks_count": 175
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
-    "stargazers_count": 1088,
-    "open_issues_count": 89,
-    "forks_count": 333
+    "stargazers_count": 1090,
+    "open_issues_count": 88,
+    "forks_count": 332
   },
   {
     "full_name": "syntway/model_exploder",
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 21897,
-    "open_issues_count": 272,
-    "forks_count": 1023
+    "stargazers_count": 21928,
+    "open_issues_count": 271,
+    "forks_count": 1022
   },
   {
     "full_name": "OpenModelica/OpenModelica",
-    "stargazers_count": 605,
-    "open_issues_count": 1653,
+    "stargazers_count": 606,
+    "open_issues_count": 1658,
     "forks_count": 258
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 2255,
+    "stargazers_count": 2258,
     "open_issues_count": 12,
     "forks_count": 222
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 1968,
+    "stargazers_count": 1974,
     "open_issues_count": 9,
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 11540,
-    "open_issues_count": 86,
-    "forks_count": 1711
+    "stargazers_count": 11577,
+    "open_issues_count": 92,
+    "forks_count": 1716
   },
   {
     "full_name": "android/architecture-components-samples",
-    "stargazers_count": 22825,
+    "stargazers_count": 22835,
     "open_issues_count": 190,
-    "forks_count": 8332
+    "forks_count": 8335
   },
   {
     "full_name": "android/architecture-samples",
-    "stargazers_count": 42726,
+    "stargazers_count": 42746,
     "open_issues_count": 188,
-    "forks_count": 11512
+    "forks_count": 11516
   },
   {
     "full_name": "android/sunflower",
-    "stargazers_count": 16825,
+    "stargazers_count": 16829,
     "open_issues_count": 147,
     "forks_count": 4463
   },
   {
     "full_name": "aws/deep-learning-containers",
-    "stargazers_count": 724,
-    "open_issues_count": 122,
+    "stargazers_count": 728,
+    "open_issues_count": 116,
     "forks_count": 384
   }
 ]
