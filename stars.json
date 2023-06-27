@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "aws/aws-gamekit-unreal",
+    "stargazers_count": 63,
+    "open_issues_count": 9,
+    "forks_count": 16
+  },
+  {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 1832,
+    "stargazers_count": 1906,
     "open_issues_count": 12,
-    "forks_count": 317
+    "forks_count": 329
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 42131,
-    "open_issues_count": 3842,
-    "forks_count": 6243
+    "stargazers_count": 42187,
+    "open_issues_count": 3862,
+    "forks_count": 6255
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7607,
-    "open_issues_count": 768,
+    "stargazers_count": 7617,
+    "open_issues_count": 770,
     "forks_count": 1357
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 108090,
-    "open_issues_count": 2070,
-    "forks_count": 24185
+    "stargazers_count": 108246,
+    "open_issues_count": 2066,
+    "forks_count": 24224
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -37,19 +43,19 @@
   },
   {
     "full_name": "aelzeiny/Animoji",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "Autodesk/LiveLink",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 5,
     "forks_count": 20
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1129,
+    "stargazers_count": 1131,
     "open_issues_count": 37,
     "forks_count": 116
   },
@@ -61,45 +67,45 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6866,
-    "open_issues_count": 396,
+    "stargazers_count": 6872,
+    "open_issues_count": 397,
     "forks_count": 4733
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13852,
+    "stargazers_count": 13866,
     "open_issues_count": 80,
-    "forks_count": 591
+    "forks_count": 592
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
-    "stargazers_count": 101,
+    "stargazers_count": 102,
     "open_issues_count": 2,
     "forks_count": 40
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 704,
+    "stargazers_count": 705,
     "open_issues_count": 1,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 230,
+    "stargazers_count": 231,
     "open_issues_count": 2,
     "forks_count": 63
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 805,
+    "stargazers_count": 806,
     "open_issues_count": 6,
     "forks_count": 176
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
-    "stargazers_count": 1101,
+    "stargazers_count": 1102,
     "open_issues_count": 89,
-    "forks_count": 335
+    "forks_count": 336
   },
   {
     "full_name": "syntway/model_exploder",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 22126,
-    "open_issues_count": 279,
-    "forks_count": 1034
+    "stargazers_count": 22170,
+    "open_issues_count": 282,
+    "forks_count": 1036
   },
   {
     "full_name": "OpenModelica/OpenModelica",
     "stargazers_count": 612,
-    "open_issues_count": 1652,
+    "open_issues_count": 1654,
     "forks_count": 259
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 2299,
-    "open_issues_count": 11,
-    "forks_count": 229
+    "stargazers_count": 2307,
+    "open_issues_count": 12,
+    "forks_count": 232
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 2004,
+    "stargazers_count": 2009,
     "open_issues_count": 11,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 11817,
-    "open_issues_count": 93,
-    "forks_count": 1775
+    "stargazers_count": 11865,
+    "open_issues_count": 94,
+    "forks_count": 1792
   },
   {
     "full_name": "android/architecture-components-samples",
     "stargazers_count": 22865,
     "open_issues_count": 190,
-    "forks_count": 8342
+    "forks_count": 8339
   },
   {
     "full_name": "android/architecture-samples",
-    "stargazers_count": 42816,
-    "open_issues_count": 194,
-    "forks_count": 11522
-  },
-  {
-    "full_name": "android/sunflower",
-    "stargazers_count": 16867,
-    "open_issues_count": 151,
-    "forks_count": 4484
+    "stargazers_count": 42836,
+    "open_issues_count": 193,
+    "forks_count": 11527
   }
 ]
