@@ -7,15 +7,15 @@
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 1941,
-    "open_issues_count": 14,
-    "forks_count": 333
+    "stargazers_count": 1985,
+    "open_issues_count": 15,
+    "forks_count": 335
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 42211,
-    "open_issues_count": 3875,
-    "forks_count": 6257
+    "stargazers_count": 42402,
+    "open_issues_count": 3889,
+    "forks_count": 6283
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7625,
+    "stargazers_count": 7633,
     "open_issues_count": 771,
-    "forks_count": 1360
+    "forks_count": 1361
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 108399,
-    "open_issues_count": 2081,
-    "forks_count": 24256
+    "stargazers_count": 108560,
+    "open_issues_count": 2110,
+    "forks_count": 24298
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1132,
+    "stargazers_count": 1131,
     "open_issues_count": 37,
     "forks_count": 116
   },
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6874,
-    "open_issues_count": 407,
+    "stargazers_count": 6879,
+    "open_issues_count": 405,
     "forks_count": 4734
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13868,
-    "open_issues_count": 80,
+    "stargazers_count": 13879,
+    "open_issues_count": 77,
     "forks_count": 592
   },
   {
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 705,
+    "stargazers_count": 706,
     "open_issues_count": 1,
     "forks_count": 66
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 235,
+    "stargazers_count": 238,
     "open_issues_count": 2,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 806,
+    "stargazers_count": 807,
     "open_issues_count": 6,
     "forks_count": 176
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "CoSMoSoftware/OBS-studio-webrtc",
-    "stargazers_count": 542,
+    "stargazers_count": 543,
     "open_issues_count": 30,
     "forks_count": 126
   },
@@ -134,49 +134,49 @@
   {
     "full_name": "autodesk-forks/USD",
     "stargazers_count": 95,
-    "open_issues_count": 5,
+    "open_issues_count": 7,
     "forks_count": 17
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 22199,
-    "open_issues_count": 281,
-    "forks_count": 1039
+    "stargazers_count": 22268,
+    "open_issues_count": 282,
+    "forks_count": 1044
   },
   {
     "full_name": "OpenModelica/OpenModelica",
-    "stargazers_count": 611,
-    "open_issues_count": 1658,
-    "forks_count": 259
+    "stargazers_count": 613,
+    "open_issues_count": 1662,
+    "forks_count": 260
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 2311,
+    "stargazers_count": 2320,
     "open_issues_count": 12,
-    "forks_count": 231
+    "forks_count": 233
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 2014,
+    "stargazers_count": 2025,
     "open_issues_count": 11,
-    "forks_count": 179
+    "forks_count": 181
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 11892,
-    "open_issues_count": 92,
-    "forks_count": 1801
+    "stargazers_count": 11939,
+    "open_issues_count": 91,
+    "forks_count": 1813
   },
   {
     "full_name": "android/architecture-components-samples",
     "stargazers_count": 22870,
     "open_issues_count": 190,
-    "forks_count": 8340
+    "forks_count": 8338
   },
   {
     "full_name": "android/architecture-samples",
-    "stargazers_count": 42847,
-    "open_issues_count": 193,
-    "forks_count": 11531
+    "stargazers_count": 42852,
+    "open_issues_count": 195,
+    "forks_count": 11535
   }
 ]
