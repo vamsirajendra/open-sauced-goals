@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "nv-tlabs/NKSR",
+    "stargazers_count": 425,
+    "open_issues_count": 4,
+    "forks_count": 17
+  },
+  {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 36022,
-    "open_issues_count": 323,
-    "forks_count": 4067
+    "stargazers_count": 36175,
+    "open_issues_count": 327,
+    "forks_count": 4094
   },
   {
     "full_name": "aws/aws-gamekit-unreal",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 9,
     "forks_count": 16
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2085,
-    "open_issues_count": 14,
-    "forks_count": 351
+    "stargazers_count": 2117,
+    "open_issues_count": 15,
+    "forks_count": 356
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 42896,
-    "open_issues_count": 3977,
-    "forks_count": 6369
+    "stargazers_count": 42984,
+    "open_issues_count": 3985,
+    "forks_count": 6386
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7667,
-    "open_issues_count": 772,
-    "forks_count": 1368
+    "stargazers_count": 7678,
+    "open_issues_count": 773,
+    "forks_count": 1369
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 109010,
-    "open_issues_count": 2145,
-    "forks_count": 24367
+    "stargazers_count": 109161,
+    "open_issues_count": 2177,
+    "forks_count": 24379
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -49,14 +55,14 @@
   },
   {
     "full_name": "aelzeiny/Animoji",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "Autodesk/LiveLink",
-    "stargazers_count": 89,
-    "open_issues_count": 5,
+    "stargazers_count": 90,
+    "open_issues_count": 6,
     "forks_count": 20
   },
   {
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6902,
-    "open_issues_count": 407,
-    "forks_count": 4738
+    "stargazers_count": 6907,
+    "open_issues_count": 410,
+    "forks_count": 4739
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13924,
-    "open_issues_count": 80,
-    "forks_count": 592
+    "stargazers_count": 13932,
+    "open_issues_count": 82,
+    "forks_count": 591
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
@@ -91,25 +97,25 @@
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 711,
+    "stargazers_count": 713,
     "open_issues_count": 1,
     "forks_count": 66
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 3,
     "forks_count": 67
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 811,
+    "stargazers_count": 812,
     "open_issues_count": 6,
     "forks_count": 177
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
-    "stargazers_count": 1110,
+    "stargazers_count": 1111,
     "open_issues_count": 90,
     "forks_count": 336
   },
@@ -141,42 +147,36 @@
     "full_name": "autodesk-forks/USD",
     "stargazers_count": 98,
     "open_issues_count": 5,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 22383,
-    "open_issues_count": 286,
-    "forks_count": 1045
+    "stargazers_count": 22413,
+    "open_issues_count": 279,
+    "forks_count": 1046
   },
   {
     "full_name": "OpenModelica/OpenModelica",
     "stargazers_count": 617,
-    "open_issues_count": 1671,
-    "forks_count": 261
+    "open_issues_count": 1680,
+    "forks_count": 262
   },
   {
     "full_name": "huggingface/diffusion-models-class",
-    "stargazers_count": 2341,
+    "stargazers_count": 2345,
     "open_issues_count": 12,
     "forks_count": 235
   },
   {
     "full_name": "android/architecture-templates",
-    "stargazers_count": 2048,
+    "stargazers_count": 2055,
     "open_issues_count": 11,
-    "forks_count": 183
+    "forks_count": 186
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 12070,
-    "open_issues_count": 96,
-    "forks_count": 1834
-  },
-  {
-    "full_name": "android/architecture-components-samples",
-    "stargazers_count": 22894,
-    "open_issues_count": 192,
-    "forks_count": 8341
+    "stargazers_count": 12106,
+    "open_issues_count": 97,
+    "forks_count": 1848
   }
 ]
