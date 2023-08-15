@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Bismuth-Consultancy-BV/MLOPs",
+    "stargazers_count": 244,
+    "open_issues_count": 42,
+    "forks_count": 36
+  },
+  {
     "full_name": "aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -7,21 +13,21 @@
   },
   {
     "full_name": "OvertureMaps/data",
-    "stargazers_count": 646,
-    "open_issues_count": 14,
-    "forks_count": 13
+    "stargazers_count": 659,
+    "open_issues_count": 15,
+    "forks_count": 14
   },
   {
     "full_name": "AcademySoftwareFoundation/xstudio",
-    "stargazers_count": 527,
-    "open_issues_count": 27,
+    "stargazers_count": 530,
+    "open_issues_count": 28,
     "forks_count": 77
   },
   {
     "full_name": "matiascodesal/awesome-openusd",
-    "stargazers_count": 234,
+    "stargazers_count": 236,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "mikeroyal/Photogrammetry-Guide",
@@ -31,15 +37,15 @@
   },
   {
     "full_name": "nv-tlabs/NKSR",
-    "stargazers_count": 461,
-    "open_issues_count": 8,
+    "stargazers_count": 468,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 37112,
-    "open_issues_count": 348,
-    "forks_count": 4223
+    "stargazers_count": 37215,
+    "open_issues_count": 351,
+    "forks_count": 4244
   },
   {
     "full_name": "aws/aws-gamekit-unreal",
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2165,
-    "open_issues_count": 17,
-    "forks_count": 362
+    "stargazers_count": 2172,
+    "open_issues_count": 18,
+    "forks_count": 363
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 43558,
-    "open_issues_count": 4041,
-    "forks_count": 6475
+    "stargazers_count": 43587,
+    "open_issues_count": 4058,
+    "forks_count": 6483
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7748,
+    "stargazers_count": 7752,
     "open_issues_count": 780,
     "forks_count": 1373
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 110098,
-    "open_issues_count": 2336,
-    "forks_count": 24534
+    "stargazers_count": 110228,
+    "open_issues_count": 2350,
+    "forks_count": 24541
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1135,
+    "stargazers_count": 1136,
     "open_issues_count": 37,
     "forks_count": 117
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6941,
-    "open_issues_count": 406,
-    "forks_count": 4753
+    "stargazers_count": 6946,
+    "open_issues_count": 405,
+    "forks_count": 4751
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13992,
-    "open_issues_count": 83,
-    "forks_count": 594
+    "stargazers_count": 14009,
+    "open_issues_count": 84,
+    "forks_count": 595
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 717,
+    "stargazers_count": 718,
     "open_issues_count": 1,
     "forks_count": 66
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 261,
-    "open_issues_count": 3,
+    "stargazers_count": 265,
+    "open_issues_count": 2,
     "forks_count": 72
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 817,
+    "stargazers_count": 818,
     "open_issues_count": 6,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
-    "stargazers_count": 1123,
+    "stargazers_count": 1124,
     "open_issues_count": 94,
-    "forks_count": 337
+    "forks_count": 336
   },
   {
     "full_name": "syntway/model_exploder",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "CoSMoSoftware/OBS-studio-webrtc",
-    "stargazers_count": 546,
+    "stargazers_count": 545,
     "open_issues_count": 30,
     "forks_count": 126
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 88,
     "open_issues_count": 11,
     "forks_count": 20
-  },
-  {
-    "full_name": "autodesk-forks/USD",
-    "stargazers_count": 106,
-    "open_issues_count": 6,
-    "forks_count": 19
   }
 ]
