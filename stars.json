@@ -1,69 +1,69 @@
 [
   {
     "full_name": "Bismuth-Consultancy-BV/MLOPs",
-    "stargazers_count": 249,
+    "stargazers_count": 257,
     "open_issues_count": 43,
     "forks_count": 37
   },
   {
     "full_name": "aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "OvertureMaps/data",
-    "stargazers_count": 678,
-    "open_issues_count": 14,
-    "forks_count": 14
+    "stargazers_count": 690,
+    "open_issues_count": 11,
+    "forks_count": 15
   },
   {
     "full_name": "AcademySoftwareFoundation/xstudio",
-    "stargazers_count": 533,
+    "stargazers_count": 535,
     "open_issues_count": 30,
     "forks_count": 77
   },
   {
     "full_name": "matiascodesal/awesome-openusd",
-    "stargazers_count": 240,
+    "stargazers_count": 241,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "mikeroyal/Photogrammetry-Guide",
-    "stargazers_count": 814,
+    "stargazers_count": 815,
     "open_issues_count": 0,
     "forks_count": 52
   },
   {
     "full_name": "nv-tlabs/NKSR",
-    "stargazers_count": 489,
-    "open_issues_count": 6,
+    "stargazers_count": 496,
+    "open_issues_count": 7,
     "forks_count": 20
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 37396,
-    "open_issues_count": 359,
-    "forks_count": 4275
+    "stargazers_count": 37512,
+    "open_issues_count": 363,
+    "forks_count": 4283
   },
   {
     "full_name": "aws/aws-gamekit-unreal",
     "stargazers_count": 65,
     "open_issues_count": 9,
-    "forks_count": 18
+    "forks_count": 17
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2186,
-    "open_issues_count": 19,
-    "forks_count": 365
+    "stargazers_count": 2189,
+    "open_issues_count": 21,
+    "forks_count": 366
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 43682,
-    "open_issues_count": 4094,
-    "forks_count": 6505
+    "stargazers_count": 43719,
+    "open_issues_count": 4093,
+    "forks_count": 6507
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7769,
+    "stargazers_count": 7781,
     "open_issues_count": 781,
-    "forks_count": 1375
+    "forks_count": 1376
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 110626,
-    "open_issues_count": 2370,
-    "forks_count": 24572
+    "stargazers_count": 110739,
+    "open_issues_count": 2394,
+    "forks_count": 24596
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "Autodesk/LiveLink",
-    "stargazers_count": 96,
+    "stargazers_count": 99,
     "open_issues_count": 7,
     "forks_count": 22
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1138,
+    "stargazers_count": 1140,
     "open_issues_count": 37,
     "forks_count": 118
   },
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 6957,
-    "open_issues_count": 403,
-    "forks_count": 4748
+    "stargazers_count": 6963,
+    "open_issues_count": 400,
+    "forks_count": 4749
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 14031,
-    "open_issues_count": 83,
-    "forks_count": 594
+    "stargazers_count": 14038,
+    "open_issues_count": 79,
+    "forks_count": 595
   },
   {
     "full_name": "JimWest/PyLiveLinkFace",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "toadstorm/MOPS",
-    "stargazers_count": 719,
+    "stargazers_count": 720,
     "open_issues_count": 1,
     "forks_count": 67
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 267,
-    "open_issues_count": 1,
-    "forks_count": 72
+    "stargazers_count": 269,
+    "open_issues_count": 3,
+    "forks_count": 74
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 820,
+    "stargazers_count": 822,
     "open_issues_count": 6,
     "forks_count": 180
   },
   {
     "full_name": "sideeffects/HoudiniEngineForUnreal",
-    "stargazers_count": 1131,
+    "stargazers_count": 1133,
     "open_issues_count": 96,
     "forks_count": 338
   },
@@ -170,12 +170,12 @@
   {
     "full_name": "CoSMoSoftware/OBS-studio-webrtc",
     "stargazers_count": 545,
-    "open_issues_count": 33,
+    "open_issues_count": 31,
     "forks_count": 126
   },
   {
     "full_name": "adamrehn/conan-ue4cli",
-    "stargazers_count": 88,
+    "stargazers_count": 87,
     "open_issues_count": 11,
     "forks_count": 20
   }
