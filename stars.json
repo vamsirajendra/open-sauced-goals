@@ -1,81 +1,81 @@
 [
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 101810,
-    "open_issues_count": 2800,
-    "forks_count": 37841
+    "stargazers_count": 101895,
+    "open_issues_count": 2828,
+    "forks_count": 37915
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 49806,
-    "open_issues_count": 130,
-    "forks_count": 3803
+    "stargazers_count": 49851,
+    "open_issues_count": 131,
+    "forks_count": 3808
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 61128,
-    "open_issues_count": 829,
-    "forks_count": 5046
+    "stargazers_count": 61240,
+    "open_issues_count": 828,
+    "forks_count": 5057
   },
   {
     "full_name": "JSBSim-Team/jsbsim",
-    "stargazers_count": 988,
-    "open_issues_count": 36,
-    "forks_count": 371
+    "stargazers_count": 992,
+    "open_issues_count": 35,
+    "forks_count": 373
   },
   {
     "full_name": "xjorma/EarthMeshHoudini",
-    "stargazers_count": 127,
+    "stargazers_count": 131,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "Bismuth-Consultancy-BV/MLOPs",
-    "stargazers_count": 267,
+    "stargazers_count": 268,
     "open_issues_count": 42,
     "forks_count": 40
   },
   {
     "full_name": "aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "stargazers_count": 8,
+    "open_issues_count": 2,
+    "forks_count": 5
   },
   {
     "full_name": "OvertureMaps/data",
-    "stargazers_count": 728,
+    "stargazers_count": 732,
     "open_issues_count": 12,
     "forks_count": 17
   },
   {
     "full_name": "AcademySoftwareFoundation/xstudio",
-    "stargazers_count": 542,
+    "stargazers_count": 544,
     "open_issues_count": 36,
     "forks_count": 81
   },
   {
     "full_name": "matiascodesal/awesome-openusd",
-    "stargazers_count": 257,
+    "stargazers_count": 260,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "mikeroyal/Photogrammetry-Guide",
-    "stargazers_count": 827,
+    "stargazers_count": 830,
     "open_issues_count": 0,
     "forks_count": 54
   },
   {
     "full_name": "nv-tlabs/NKSR",
-    "stargazers_count": 537,
-    "open_issues_count": 6,
-    "forks_count": 26
+    "stargazers_count": 539,
+    "open_issues_count": 8,
+    "forks_count": 25
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 38504,
-    "open_issues_count": 385,
-    "forks_count": 4408
+    "stargazers_count": 38603,
+    "open_issues_count": 389,
+    "forks_count": 4424
   },
   {
     "full_name": "aws/aws-gamekit-unreal",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2223,
+    "stargazers_count": 2230,
     "open_issues_count": 23,
-    "forks_count": 366
+    "forks_count": 367
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 44023,
-    "open_issues_count": 4154,
-    "forks_count": 6571
+    "stargazers_count": 44129,
+    "open_issues_count": 4193,
+    "forks_count": 6581
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7854,
-    "open_issues_count": 786,
-    "forks_count": 1381
+    "stargazers_count": 7861,
+    "open_issues_count": 788,
+    "forks_count": 1382
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 111959,
-    "open_issues_count": 2451,
-    "forks_count": 24757
+    "stargazers_count": 112296,
+    "open_issues_count": 2487,
+    "forks_count": 24791
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1142,
-    "open_issues_count": 37,
-    "forks_count": 118
+    "stargazers_count": 1145,
+    "open_issues_count": 38,
+    "forks_count": 119
   },
   {
     "full_name": "NVIDIA-AI-IOT/deepstream_pose_estimation",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 7006,
-    "open_issues_count": 397,
+    "stargazers_count": 7008,
+    "open_issues_count": 402,
     "forks_count": 4755
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 14122,
+    "stargazers_count": 14137,
     "open_issues_count": 79,
     "forks_count": 600
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "EpicGames/MetaHuman-DNA-Calibration",
-    "stargazers_count": 288,
+    "stargazers_count": 291,
     "open_issues_count": 2,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "sideeffects/SideFXLabs",
-    "stargazers_count": 839,
+    "stargazers_count": 843,
     "open_issues_count": 6,
     "forks_count": 182
   }
