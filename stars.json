@@ -1,80 +1,122 @@
 [
   {
+    "full_name": "gohugoio/hugo",
+    "stargazers_count": 69273,
+    "open_issues_count": 651,
+    "forks_count": 7378
+  },
+  {
+    "full_name": "spf13/cobra",
+    "stargazers_count": 33576,
+    "open_issues_count": 237,
+    "forks_count": 2770
+  },
+  {
+    "full_name": "avamsi/climate",
+    "stargazers_count": 137,
+    "open_issues_count": 9,
+    "forks_count": 4
+  },
+  {
+    "full_name": "vitessio/vitess",
+    "stargazers_count": 16852,
+    "open_issues_count": 826,
+    "forks_count": 2006
+  },
+  {
+    "full_name": "prometheus/prometheus",
+    "stargazers_count": 50118,
+    "open_issues_count": 900,
+    "forks_count": 8542
+  },
+  {
+    "full_name": "etcd-io/etcd",
+    "stargazers_count": 44610,
+    "open_issues_count": 236,
+    "forks_count": 9494
+  },
+  {
+    "full_name": "mislav/hub",
+    "stargazers_count": 22539,
+    "open_issues_count": 291,
+    "forks_count": 2411
+  },
+  {
     "full_name": "Allar/ue5-style-guide",
-    "stargazers_count": 4348,
+    "stargazers_count": 4356,
     "open_issues_count": 40,
-    "forks_count": 1023
+    "forks_count": 1026
   },
   {
     "full_name": "eembc/coremark",
-    "stargazers_count": 754,
+    "stargazers_count": 758,
     "open_issues_count": 8,
     "forks_count": 283
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 102027,
-    "open_issues_count": 2849,
-    "forks_count": 38019
+    "stargazers_count": 102097,
+    "open_issues_count": 2855,
+    "forks_count": 38040
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 49956,
-    "open_issues_count": 141,
-    "forks_count": 3818
+    "stargazers_count": 50001,
+    "open_issues_count": 144,
+    "forks_count": 3819
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 61494,
-    "open_issues_count": 842,
-    "forks_count": 5127
+    "stargazers_count": 61589,
+    "open_issues_count": 846,
+    "forks_count": 5160
   },
   {
     "full_name": "JSBSim-Team/jsbsim",
-    "stargazers_count": 995,
+    "stargazers_count": 997,
     "open_issues_count": 35,
-    "forks_count": 376
+    "forks_count": 377
   },
   {
     "full_name": "xjorma/EarthMeshHoudini",
-    "stargazers_count": 134,
-    "open_issues_count": 2,
+    "stargazers_count": 136,
+    "open_issues_count": 3,
     "forks_count": 17
   },
   {
     "full_name": "Bismuth-Consultancy-BV/MLOPs",
-    "stargazers_count": 272,
-    "open_issues_count": 44,
+    "stargazers_count": 273,
+    "open_issues_count": 42,
     "forks_count": 41
   },
   {
     "full_name": "aws-solutions-library-samples/guidance-for-custom-game-backend-hosting-on-aws",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
+    "stargazers_count": 9,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "OvertureMaps/data",
-    "stargazers_count": 737,
+    "stargazers_count": 739,
     "open_issues_count": 12,
     "forks_count": 19
   },
   {
     "full_name": "AcademySoftwareFoundation/xstudio",
-    "stargazers_count": 545,
+    "stargazers_count": 548,
     "open_issues_count": 37,
     "forks_count": 82
   },
   {
     "full_name": "matiascodesal/awesome-openusd",
-    "stargazers_count": 261,
+    "stargazers_count": 263,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "mikeroyal/Photogrammetry-Guide",
-    "stargazers_count": 834,
-    "open_issues_count": 0,
+    "stargazers_count": 838,
+    "open_issues_count": 1,
     "forks_count": 55
   },
   {
@@ -85,9 +127,9 @@
   },
   {
     "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 38737,
-    "open_issues_count": 394,
-    "forks_count": 4433
+    "stargazers_count": 38813,
+    "open_issues_count": 395,
+    "forks_count": 4446
   },
   {
     "full_name": "aws/aws-gamekit-unreal",
@@ -97,33 +139,33 @@
   },
   {
     "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2235,
+    "stargazers_count": 2241,
     "open_issues_count": 23,
     "forks_count": 368
   },
   {
     "full_name": "mastodon/mastodon",
-    "stargazers_count": 44202,
-    "open_issues_count": 4236,
-    "forks_count": 6599
+    "stargazers_count": 44229,
+    "open_issues_count": 4238,
+    "forks_count": 6604
   },
   {
     "full_name": "Chrizey91/RuntimeMeshLoader",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 3,
     "forks_count": 29
   },
   {
     "full_name": "mRemoteNG/mRemoteNG",
-    "stargazers_count": 7875,
-    "open_issues_count": 789,
-    "forks_count": 1383
+    "stargazers_count": 7887,
+    "open_issues_count": 792,
+    "forks_count": 1384
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 112588,
-    "open_issues_count": 2494,
-    "forks_count": 24839
+    "stargazers_count": 112690,
+    "open_issues_count": 2546,
+    "forks_count": 24854
   },
   {
     "full_name": "stephen-w-bailey/fast-n-deep-faces",
@@ -136,47 +178,5 @@
     "stargazers_count": 28,
     "open_issues_count": 2,
     "forks_count": 7
-  },
-  {
-    "full_name": "Autodesk/LiveLink",
-    "stargazers_count": 105,
-    "open_issues_count": 10,
-    "forks_count": 26
-  },
-  {
-    "full_name": "ProbableTrain/MapGenerator",
-    "stargazers_count": 1147,
-    "open_issues_count": 37,
-    "forks_count": 120
-  },
-  {
-    "full_name": "NVIDIA-AI-IOT/deepstream_pose_estimation",
-    "stargazers_count": 284,
-    "open_issues_count": 4,
-    "forks_count": 66
-  },
-  {
-    "full_name": "IntelRealSense/librealsense",
-    "stargazers_count": 7020,
-    "open_issues_count": 398,
-    "forks_count": 4756
-  },
-  {
-    "full_name": "foambubble/foam",
-    "stargazers_count": 14157,
-    "open_issues_count": 79,
-    "forks_count": 600
-  },
-  {
-    "full_name": "JimWest/PyLiveLinkFace",
-    "stargazers_count": 111,
-    "open_issues_count": 2,
-    "forks_count": 44
-  },
-  {
-    "full_name": "toadstorm/MOPS",
-    "stargazers_count": 733,
-    "open_issues_count": 1,
-    "forks_count": 68
   }
 ]
