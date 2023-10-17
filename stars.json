@@ -1,115 +1,145 @@
 [
   {
+    "full_name": "cdcseacave/openMVS",
+    "stargazers_count": 2825,
+    "open_issues_count": 288,
+    "forks_count": 860
+  },
+  {
+    "full_name": "mapillary/OpenSfM",
+    "stargazers_count": 3046,
+    "open_issues_count": 185,
+    "forks_count": 817
+  },
+  {
+    "full_name": "OpenDroneMap/ClusterODM",
+    "stargazers_count": 71,
+    "open_issues_count": 10,
+    "forks_count": 62
+  },
+  {
+    "full_name": "OpenDroneMap/ODM",
+    "stargazers_count": 4313,
+    "open_issues_count": 29,
+    "forks_count": 1021
+  },
+  {
+    "full_name": "UCANR-IGIS/uasimg",
+    "stargazers_count": 12,
+    "open_issues_count": 3,
+    "forks_count": 8
+  },
+  {
     "full_name": "Azure/Unreal-Pixel-Streaming",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 13,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 14456,
-    "open_issues_count": 144,
-    "forks_count": 477
+    "stargazers_count": 14677,
+    "open_issues_count": 141,
+    "forks_count": 489
   },
   {
     "full_name": "duplicati/duplicati",
-    "stargazers_count": 9349,
-    "open_issues_count": 933,
+    "stargazers_count": 9370,
+    "open_issues_count": 931,
     "forks_count": 836
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 54711,
-    "open_issues_count": 333,
+    "stargazers_count": 54791,
+    "open_issues_count": 327,
     "forks_count": 3906
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 69355,
-    "open_issues_count": 661,
-    "forks_count": 7387
+    "stargazers_count": 69404,
+    "open_issues_count": 668,
+    "forks_count": 7388
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 33658,
+    "stargazers_count": 33696,
     "open_issues_count": 238,
-    "forks_count": 2778
+    "forks_count": 2780
   },
   {
     "full_name": "avamsi/climate",
     "stargazers_count": 138,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
     "full_name": "vitessio/vitess",
-    "stargazers_count": 16879,
-    "open_issues_count": 820,
-    "forks_count": 2012
+    "stargazers_count": 16894,
+    "open_issues_count": 821,
+    "forks_count": 2013
   },
   {
     "full_name": "prometheus/prometheus",
-    "stargazers_count": 50220,
-    "open_issues_count": 913,
-    "forks_count": 8550
+    "stargazers_count": 50254,
+    "open_issues_count": 915,
+    "forks_count": 8554
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 44665,
-    "open_issues_count": 236,
-    "forks_count": 9506
+    "stargazers_count": 44694,
+    "open_issues_count": 249,
+    "forks_count": 9512
   },
   {
     "full_name": "mislav/hub",
     "stargazers_count": 22540,
     "open_issues_count": 290,
-    "forks_count": 2414
+    "forks_count": 2415
   },
   {
     "full_name": "Allar/ue5-style-guide",
-    "stargazers_count": 4372,
+    "stargazers_count": 4380,
     "open_issues_count": 40,
-    "forks_count": 1026
+    "forks_count": 1025
   },
   {
     "full_name": "eembc/coremark",
-    "stargazers_count": 765,
+    "stargazers_count": 769,
     "open_issues_count": 10,
     "forks_count": 285
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 102267,
-    "open_issues_count": 2888,
-    "forks_count": 38067
+    "stargazers_count": 102306,
+    "open_issues_count": 2870,
+    "forks_count": 38100
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50098,
-    "open_issues_count": 133,
-    "forks_count": 3828
+    "stargazers_count": 50132,
+    "open_issues_count": 131,
+    "forks_count": 3834
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 61809,
-    "open_issues_count": 857,
-    "forks_count": 5230
+    "stargazers_count": 61917,
+    "open_issues_count": 858,
+    "forks_count": 5248
   },
   {
     "full_name": "JSBSim-Team/jsbsim",
-    "stargazers_count": 1007,
+    "stargazers_count": 1009,
     "open_issues_count": 35,
     "forks_count": 378
   },
   {
     "full_name": "xjorma/EarthMeshHoudini",
-    "stargazers_count": 136,
+    "stargazers_count": 140,
     "open_issues_count": 3,
     "forks_count": 17
   },
   {
     "full_name": "Bismuth-Consultancy-BV/MLOPs",
-    "stargazers_count": 274,
+    "stargazers_count": 275,
     "open_issues_count": 42,
     "forks_count": 41
   },
@@ -121,15 +151,15 @@
   },
   {
     "full_name": "OvertureMaps/data",
-    "stargazers_count": 742,
-    "open_issues_count": 12,
+    "stargazers_count": 747,
+    "open_issues_count": 13,
     "forks_count": 20
   },
   {
     "full_name": "AcademySoftwareFoundation/xstudio",
-    "stargazers_count": 549,
+    "stargazers_count": 550,
     "open_issues_count": 37,
-    "forks_count": 84
+    "forks_count": 86
   },
   {
     "full_name": "matiascodesal/awesome-openusd",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "mikeroyal/Photogrammetry-Guide",
-    "stargazers_count": 848,
+    "stargazers_count": 856,
     "open_issues_count": 0,
     "forks_count": 55
   },
   {
     "full_name": "nv-tlabs/NKSR",
-    "stargazers_count": 552,
+    "stargazers_count": 555,
     "open_issues_count": 7,
     "forks_count": 26
-  },
-  {
-    "full_name": "facebookresearch/segment-anything",
-    "stargazers_count": 39023,
-    "open_issues_count": 401,
-    "forks_count": 4476
-  },
-  {
-    "full_name": "aws/aws-gamekit-unreal",
-    "stargazers_count": 67,
-    "open_issues_count": 9,
-    "forks_count": 19
-  },
-  {
-    "full_name": "facebookresearch/ijepa",
-    "stargazers_count": 2253,
-    "open_issues_count": 24,
-    "forks_count": 369
-  },
-  {
-    "full_name": "mastodon/mastodon",
-    "stargazers_count": 44261,
-    "open_issues_count": 4253,
-    "forks_count": 6618
-  },
-  {
-    "full_name": "Chrizey91/RuntimeMeshLoader",
-    "stargazers_count": 91,
-    "open_issues_count": 3,
-    "forks_count": 29
   }
 ]
