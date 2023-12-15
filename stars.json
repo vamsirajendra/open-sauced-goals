@@ -1,9 +1,9 @@
 [
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 20043,
-    "open_issues_count": 281,
-    "forks_count": 1048
+    "stargazers_count": 20652,
+    "open_issues_count": 250,
+    "forks_count": 1076
   },
   {
     "full_name": "Amathlog/TutorialPCG",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "mikeroyal/Unreal-Engine-Guide",
-    "stargazers_count": 749,
+    "stargazers_count": 753,
     "open_issues_count": 0,
     "forks_count": 87
   },
   {
     "full_name": "AcademySoftwareFoundation/MaterialX",
-    "stargazers_count": 1623,
+    "stargazers_count": 1625,
     "open_issues_count": 126,
     "forks_count": 311
   },
   {
     "full_name": "OptiKey/OptiKey",
-    "stargazers_count": 4216,
+    "stargazers_count": 4217,
     "open_issues_count": 103,
     "forks_count": 528
   },
   {
     "full_name": "graphdeco-inria/gaussian-splatting",
-    "stargazers_count": 8111,
-    "open_issues_count": 225,
-    "forks_count": 811
+    "stargazers_count": 8239,
+    "open_issues_count": 234,
+    "forks_count": 827
   },
   {
     "full_name": "Naotsun19B/PluginBuilder",
-    "stargazers_count": 12,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "boxyhq/saas-starter-kit",
-    "stargazers_count": 1175,
-    "open_issues_count": 12,
-    "forks_count": 218
+    "stargazers_count": 1181,
+    "open_issues_count": 11,
+    "forks_count": 219
   },
   {
     "full_name": "Azure/azhpc-images",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "voxel51/fiftyone-examples",
-    "stargazers_count": 170,
+    "stargazers_count": 171,
     "open_issues_count": 16,
     "forks_count": 35
   },
@@ -85,45 +85,45 @@
   },
   {
     "full_name": "monitoringartist/grafana-aws-cloudwatch-dashboards",
-    "stargazers_count": 1920,
+    "stargazers_count": 1922,
     "open_issues_count": 7,
     "forks_count": 772
   },
   {
     "full_name": "microsoft/AzureMonitorCommunity",
-    "stargazers_count": 878,
+    "stargazers_count": 879,
     "open_issues_count": 44,
     "forks_count": 390
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12912,
-    "open_issues_count": 163,
+    "stargazers_count": 13016,
+    "open_issues_count": 166,
     "forks_count": 2341
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 33964,
-    "open_issues_count": 490,
-    "forks_count": 5721
+    "stargazers_count": 33995,
+    "open_issues_count": 498,
+    "forks_count": 5728
   },
   {
     "full_name": "nanxstats/gpu",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "cdcseacave/openMVS",
-    "stargazers_count": 2915,
-    "open_issues_count": 293,
+    "stargazers_count": 2919,
+    "open_issues_count": 294,
     "forks_count": 868
   },
   {
     "full_name": "mapillary/OpenSfM",
-    "stargazers_count": 3097,
+    "stargazers_count": 3101,
     "open_issues_count": 187,
-    "forks_count": 824
+    "forks_count": 827
   },
   {
     "full_name": "OpenDroneMap/ClusterODM",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "OpenDroneMap/ODM",
-    "stargazers_count": 4401,
-    "open_issues_count": 28,
+    "stargazers_count": 4407,
+    "open_issues_count": 29,
     "forks_count": 1035
   },
   {
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "Azure/Unreal-Pixel-Streaming",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 13,
     "forks_count": 76
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 16373,
+    "stargazers_count": 16452,
     "open_issues_count": 176,
-    "forks_count": 564
+    "forks_count": 566
   },
   {
     "full_name": "duplicati/duplicati",
-    "stargazers_count": 9602,
-    "open_issues_count": 925,
-    "forks_count": 848
+    "stargazers_count": 9616,
+    "open_issues_count": 924,
+    "forks_count": 847
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 56694,
-    "open_issues_count": 343,
-    "forks_count": 3996
+    "stargazers_count": 56784,
+    "open_issues_count": 334,
+    "forks_count": 4004
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 70310,
-    "open_issues_count": 628,
-    "forks_count": 7486
+    "stargazers_count": 70348,
+    "open_issues_count": 630,
+    "forks_count": 7491
   },
   {
     "full_name": "spf13/cobra",
-    "stargazers_count": 34434,
-    "open_issues_count": 254,
-    "forks_count": 2818
+    "stargazers_count": 34473,
+    "open_issues_count": 255,
+    "forks_count": 2820
   }
 ]
