@@ -1,15 +1,15 @@
 [
   {
     "full_name": "files-community/Files",
-    "stargazers_count": 30791,
-    "open_issues_count": 401,
-    "forks_count": 2077
+    "stargazers_count": 30842,
+    "open_issues_count": 398,
+    "forks_count": 2086
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 22289,
-    "open_issues_count": 288,
-    "forks_count": 1208
+    "stargazers_count": 22333,
+    "open_issues_count": 296,
+    "forks_count": 1211
   },
   {
     "full_name": "Amathlog/TutorialPCG",
@@ -19,14 +19,14 @@
   },
   {
     "full_name": "mikeroyal/Unreal-Engine-Guide",
-    "stargazers_count": 831,
+    "stargazers_count": 836,
     "open_issues_count": 0,
     "forks_count": 93
   },
   {
     "full_name": "AcademySoftwareFoundation/MaterialX",
-    "stargazers_count": 1663,
-    "open_issues_count": 119,
+    "stargazers_count": 1665,
+    "open_issues_count": 123,
     "forks_count": 314
   },
   {
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "graphdeco-inria/gaussian-splatting",
-    "stargazers_count": 9612,
-    "open_issues_count": 307,
-    "forks_count": 1053
+    "stargazers_count": 9705,
+    "open_issues_count": 309,
+    "forks_count": 1074
   },
   {
     "full_name": "Naotsun19B/PluginBuilder",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "boxyhq/saas-starter-kit",
-    "stargazers_count": 1344,
-    "open_issues_count": 14,
-    "forks_count": 259
+    "stargazers_count": 1360,
+    "open_issues_count": 15,
+    "forks_count": 261
   },
   {
     "full_name": "Azure/azhpc-images",
     "stargazers_count": 80,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 63
   },
   {
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "monitoringartist/grafana-aws-cloudwatch-dashboards",
-    "stargazers_count": 1935,
+    "stargazers_count": 1936,
     "open_issues_count": 7,
     "forks_count": 775
   },
   {
     "full_name": "microsoft/AzureMonitorCommunity",
-    "stargazers_count": 897,
+    "stargazers_count": 899,
     "open_issues_count": 43,
     "forks_count": 395
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12959,
+    "stargazers_count": 12954,
     "open_issues_count": 165,
-    "forks_count": 2351
+    "forks_count": 2352
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 34431,
-    "open_issues_count": 524,
-    "forks_count": 5916
+    "stargazers_count": 34478,
+    "open_issues_count": 530,
+    "forks_count": 5932
   },
   {
     "full_name": "nanxstats/gpu",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "cdcseacave/openMVS",
-    "stargazers_count": 2977,
+    "stargazers_count": 2983,
     "open_issues_count": 300,
     "forks_count": 869
   },
@@ -129,7 +129,7 @@
     "full_name": "mapillary/OpenSfM",
     "stargazers_count": 3143,
     "open_issues_count": 194,
-    "forks_count": 831
+    "forks_count": 830
   },
   {
     "full_name": "OpenDroneMap/ClusterODM",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "OpenDroneMap/ODM",
-    "stargazers_count": 4468,
-    "open_issues_count": 31,
-    "forks_count": 1041
+    "stargazers_count": 4473,
+    "open_issues_count": 32,
+    "forks_count": 1042
   },
   {
     "full_name": "UCANR-IGIS/uasimg",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 18036,
-    "open_issues_count": 155,
-    "forks_count": 638
+    "stargazers_count": 18111,
+    "open_issues_count": 162,
+    "forks_count": 644
   },
   {
     "full_name": "duplicati/duplicati",
-    "stargazers_count": 9818,
-    "open_issues_count": 904,
-    "forks_count": 852
+    "stargazers_count": 9841,
+    "open_issues_count": 903,
+    "forks_count": 855
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 57823,
-    "open_issues_count": 345,
-    "forks_count": 4063
+    "stargazers_count": 57923,
+    "open_issues_count": 348,
+    "forks_count": 4071
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 71124,
-    "open_issues_count": 498,
-    "forks_count": 7540
+    "stargazers_count": 71181,
+    "open_issues_count": 494,
+    "forks_count": 7545
   }
 ]
