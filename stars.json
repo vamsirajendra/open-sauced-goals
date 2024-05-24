@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Systems-Modeling/SysML-v2-Release",
-    "stargazers_count": 371,
+    "stargazers_count": 373,
     "open_issues_count": 14,
     "forks_count": 50
   },
@@ -13,32 +13,32 @@
   },
   {
     "full_name": "inkle/inky",
-    "stargazers_count": 2330,
+    "stargazers_count": 2332,
     "open_issues_count": 238,
     "forks_count": 283
   },
   {
     "full_name": "microsoft/diskspd",
-    "stargazers_count": 1095,
+    "stargazers_count": 1094,
     "open_issues_count": 65,
     "forks_count": 206
   },
   {
     "full_name": "Turfjs/turf",
-    "stargazers_count": 8851,
-    "open_issues_count": 312,
+    "stargazers_count": 8858,
+    "open_issues_count": 314,
     "forks_count": 918
   },
   {
     "full_name": "roboflow/dji-aerial-georeferencing",
-    "stargazers_count": 166,
+    "stargazers_count": 167,
     "open_issues_count": 3,
     "forks_count": 28
   },
   {
     "full_name": "pypa/pipx",
-    "stargazers_count": 9078,
-    "open_issues_count": 79,
+    "stargazers_count": 9105,
+    "open_issues_count": 81,
     "forks_count": 381
   },
   {
@@ -49,39 +49,39 @@
   },
   {
     "full_name": "yuzutech/kroki",
-    "stargazers_count": 2703,
+    "stargazers_count": 2712,
     "open_issues_count": 115,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "files-community/Files",
-    "stargazers_count": 32249,
-    "open_issues_count": 470,
-    "forks_count": 2057
+    "stargazers_count": 32283,
+    "open_issues_count": 467,
+    "forks_count": 2060
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 24613,
-    "open_issues_count": 350,
-    "forks_count": 1320
+    "stargazers_count": 24735,
+    "open_issues_count": 354,
+    "forks_count": 1327
   },
   {
     "full_name": "Amathlog/TutorialPCG",
-    "stargazers_count": 26,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "mikeroyal/Unreal-Engine-Guide",
-    "stargazers_count": 925,
+    "stargazers_count": 927,
     "open_issues_count": 0,
-    "forks_count": 103
+    "forks_count": 105
   },
   {
     "full_name": "AcademySoftwareFoundation/MaterialX",
-    "stargazers_count": 1743,
+    "stargazers_count": 1748,
     "open_issues_count": 126,
-    "forks_count": 317
+    "forks_count": 320
   },
   {
     "full_name": "OptiKey/OptiKey",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "graphdeco-inria/gaussian-splatting",
-    "stargazers_count": 11736,
-    "open_issues_count": 340,
-    "forks_count": 1436
+    "stargazers_count": 11808,
+    "open_issues_count": 345,
+    "forks_count": 1444
   },
   {
     "full_name": "Naotsun19B/PluginBuilder",
     "stargazers_count": 16,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "Naotsun19B/PluginBuilder-Document",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -111,24 +111,24 @@
     "full_name": "amazon-archives/aws-full-stack-template",
     "stargazers_count": 492,
     "open_issues_count": 1,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "aws-observability/observability-best-practices",
-    "stargazers_count": 185,
+    "stargazers_count": 191,
     "open_issues_count": 19,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "boxyhq/saas-starter-kit",
-    "stargazers_count": 2799,
+    "stargazers_count": 2806,
     "open_issues_count": 13,
-    "forks_count": 555
+    "forks_count": 559
   },
   {
     "full_name": "Azure/azhpc-images",
     "stargazers_count": 88,
-    "open_issues_count": 17,
+    "open_issues_count": 13,
     "forks_count": 70
   },
   {
@@ -145,27 +145,27 @@
   },
   {
     "full_name": "monitoringartist/grafana-aws-cloudwatch-dashboards",
-    "stargazers_count": 1985,
+    "stargazers_count": 1986,
     "open_issues_count": 7,
-    "forks_count": 781
+    "forks_count": 782
   },
   {
     "full_name": "microsoft/AzureMonitorCommunity",
-    "stargazers_count": 948,
+    "stargazers_count": 951,
     "open_issues_count": 56,
     "forks_count": 412
   },
   {
     "full_name": "Netflix/conductor",
-    "stargazers_count": 12904,
-    "open_issues_count": 165,
+    "stargazers_count": 12902,
+    "open_issues_count": 164,
     "forks_count": 2339
   },
   {
     "full_name": "cli/cli",
-    "stargazers_count": 35617,
-    "open_issues_count": 596,
-    "forks_count": 5256
+    "stargazers_count": 35640,
+    "open_issues_count": 598,
+    "forks_count": 5265
   },
   {
     "full_name": "nanxstats/gpu",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cdcseacave/openMVS",
-    "stargazers_count": 3128,
+    "stargazers_count": 3133,
     "open_issues_count": 313,
-    "forks_count": 884
+    "forks_count": 886
   }
 ]
