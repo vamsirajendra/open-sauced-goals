@@ -1,15 +1,75 @@
 [
   {
+    "full_name": "gradio-app/gradio",
+    "stargazers_count": 33848,
+    "open_issues_count": 443,
+    "forks_count": 2567
+  },
+  {
+    "full_name": "huggingface/chat-ui",
+    "stargazers_count": 7581,
+    "open_issues_count": 274,
+    "forks_count": 1117
+  },
+  {
+    "full_name": "Kaggle/docker-python",
+    "stargazers_count": 2456,
+    "open_issues_count": 23,
+    "forks_count": 950
+  },
+  {
+    "full_name": "zylon-ai/private-gpt",
+    "stargazers_count": 54133,
+    "open_issues_count": 245,
+    "forks_count": 7288
+  },
+  {
+    "full_name": "mingrammer/diagrams",
+    "stargazers_count": 39240,
+    "open_issues_count": 387,
+    "forks_count": 2523
+  },
+  {
+    "full_name": "ParisNeo/lollms-webui",
+    "stargazers_count": 4335,
+    "open_issues_count": 156,
+    "forks_count": 546
+  },
+  {
+    "full_name": "lmstudio-ai/lms",
+    "stargazers_count": 1629,
+    "open_issues_count": 60,
+    "forks_count": 135
+  },
+  {
+    "full_name": "ollama/ollama",
+    "stargazers_count": 97336,
+    "open_issues_count": 1453,
+    "forks_count": 7745
+  },
+  {
+    "full_name": "meta-llama/llama-recipes",
+    "stargazers_count": 15043,
+    "open_issues_count": 72,
+    "forks_count": 2170
+  },
+  {
+    "full_name": "mistralai/mistral-finetune",
+    "stargazers_count": 2739,
+    "open_issues_count": 38,
+    "forks_count": 229
+  },
+  {
     "full_name": "NVIDIA/ChatRTX",
-    "stargazers_count": 2744,
+    "stargazers_count": 2746,
     "open_issues_count": 48,
-    "forks_count": 332
+    "forks_count": 334
   },
   {
     "full_name": "meta-llama/llama-stack-apps",
-    "stargazers_count": 3844,
-    "open_issues_count": 26,
-    "forks_count": 552
+    "stargazers_count": 3871,
+    "open_issues_count": 28,
+    "forks_count": 555
   },
   {
     "full_name": "rozek/node-red-ai-toolkit",
@@ -19,51 +79,51 @@
   },
   {
     "full_name": "meta-llama/llama-models",
-    "stargazers_count": 4704,
-    "open_issues_count": 72,
-    "forks_count": 814
+    "stargazers_count": 4752,
+    "open_issues_count": 71,
+    "forks_count": 819
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 35567,
-    "open_issues_count": 1003,
-    "forks_count": 3082
+    "stargazers_count": 35638,
+    "open_issues_count": 1007,
+    "forks_count": 3089
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 4076,
-    "open_issues_count": 5,
-    "forks_count": 458
+    "stargazers_count": 4118,
+    "open_issues_count": 6,
+    "forks_count": 468
   },
   {
     "full_name": "go-shiori/shiori",
-    "stargazers_count": 9436,
-    "open_issues_count": 77,
+    "stargazers_count": 9460,
+    "open_issues_count": 78,
     "forks_count": 555
   },
   {
     "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 5554,
-    "open_issues_count": 155,
-    "forks_count": 176
+    "stargazers_count": 5746,
+    "open_issues_count": 156,
+    "forks_count": 184
   },
   {
     "full_name": "NVIDIA/nim-anywhere",
     "stargazers_count": 103,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 62
   },
   {
     "full_name": "dumbeau/AutoHotPie",
-    "stargazers_count": 360,
-    "open_issues_count": 94,
+    "stargazers_count": 363,
+    "open_issues_count": 95,
     "forks_count": 21
   },
   {
     "full_name": "blender/blender",
-    "stargazers_count": 13242,
+    "stargazers_count": 13281,
     "open_issues_count": 0,
-    "forks_count": 2009
+    "forks_count": 2012
   },
   {
     "full_name": "TUM-VT/Sumonity",
@@ -73,110 +133,50 @@
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-Release",
-    "stargazers_count": 449,
+    "stargazers_count": 452,
     "open_issues_count": 16,
     "forks_count": 63
   },
   {
     "full_name": "delebash/UE_GlobalEnvironmentalSystem",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "inkle/inky",
-    "stargazers_count": 2409,
-    "open_issues_count": 227,
+    "stargazers_count": 2410,
+    "open_issues_count": 228,
     "forks_count": 295
   },
   {
     "full_name": "microsoft/diskspd",
-    "stargazers_count": 1153,
+    "stargazers_count": 1154,
     "open_issues_count": 55,
     "forks_count": 214
   },
   {
     "full_name": "Turfjs/turf",
-    "stargazers_count": 9335,
+    "stargazers_count": 9351,
     "open_issues_count": 280,
-    "forks_count": 943
+    "forks_count": 941
   },
   {
     "full_name": "roboflow/dji-aerial-georeferencing",
     "stargazers_count": 206,
     "open_issues_count": 6,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "pypa/pipx",
-    "stargazers_count": 10469,
-    "open_issues_count": 121,
-    "forks_count": 415
+    "stargazers_count": 10494,
+    "open_issues_count": 123,
+    "forks_count": 414
   },
   {
     "full_name": "PacktPublishing/Unreal-Engine-5-Shaders-and-Effects-Cookbook-2nd-Edition",
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "yuzutech/kroki",
-    "stargazers_count": 2924,
-    "open_issues_count": 124,
-    "forks_count": 219
-  },
-  {
-    "full_name": "files-community/Files",
-    "stargazers_count": 34456,
-    "open_issues_count": 484,
-    "forks_count": 2193
-  },
-  {
-    "full_name": "makeplane/plane",
-    "stargazers_count": 30332,
-    "open_issues_count": 410,
-    "forks_count": 1694
-  },
-  {
-    "full_name": "Amathlog/TutorialPCG",
-    "stargazers_count": 54,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "mikeroyal/Unreal-Engine-Guide",
-    "stargazers_count": 1080,
-    "open_issues_count": 1,
-    "forks_count": 122
-  },
-  {
-    "full_name": "AcademySoftwareFoundation/MaterialX",
-    "stargazers_count": 1866,
-    "open_issues_count": 156,
-    "forks_count": 352
-  },
-  {
-    "full_name": "OptiKey/OptiKey",
-    "stargazers_count": 4288,
-    "open_issues_count": 105,
-    "forks_count": 507
-  },
-  {
-    "full_name": "graphdeco-inria/gaussian-splatting",
-    "stargazers_count": 14501,
-    "open_issues_count": 506,
-    "forks_count": 1894
-  },
-  {
-    "full_name": "Naotsun19B/PluginBuilder",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
-    "full_name": "Naotsun19B/PluginBuilder-Document",
-    "stargazers_count": 31,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
