@@ -1,99 +1,105 @@
 [
   {
+    "full_name": "Systems-Modeling/SysML-v2-Pilot-Implementation",
+    "stargazers_count": 130,
+    "open_issues_count": 10,
+    "forks_count": 24
+  },
+  {
     "full_name": "FreeCAD/FreeCAD",
-    "stargazers_count": 20983,
-    "open_issues_count": 2512,
-    "forks_count": 4120
+    "stargazers_count": 21158,
+    "open_issues_count": 2520,
+    "forks_count": 4139
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 33540,
-    "open_issues_count": 0,
-    "forks_count": 4086
+    "stargazers_count": 33755,
+    "open_issues_count": 1,
+    "forks_count": 4123
   },
   {
     "full_name": "anticto/Mutable-Documentation",
-    "stargazers_count": 64,
+    "stargazers_count": 70,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "NVIDIA-Omniverse/USD-Tutorials-And-Examples",
     "stargazers_count": 168,
     "open_issues_count": 3,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 34178,
-    "open_issues_count": 455,
-    "forks_count": 2599
+    "stargazers_count": 34235,
+    "open_issues_count": 453,
+    "forks_count": 2601
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 7640,
-    "open_issues_count": 282,
-    "forks_count": 1128
+    "stargazers_count": 7654,
+    "open_issues_count": 284,
+    "forks_count": 1132
   },
   {
     "full_name": "Kaggle/docker-python",
-    "stargazers_count": 2469,
+    "stargazers_count": 2471,
     "open_issues_count": 26,
     "forks_count": 955
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 54263,
-    "open_issues_count": 248,
-    "forks_count": 7296
+    "stargazers_count": 54291,
+    "open_issues_count": 249,
+    "forks_count": 7297
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 39682,
-    "open_issues_count": 374,
-    "forks_count": 2545
+    "stargazers_count": 39785,
+    "open_issues_count": 375,
+    "forks_count": 2549
   },
   {
     "full_name": "ParisNeo/lollms-webui",
-    "stargazers_count": 4359,
+    "stargazers_count": 4363,
     "open_issues_count": 158,
     "forks_count": 551
   },
   {
     "full_name": "lmstudio-ai/lms",
-    "stargazers_count": 1678,
-    "open_issues_count": 63,
+    "stargazers_count": 1688,
+    "open_issues_count": 60,
     "forks_count": 138
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 99347,
-    "open_issues_count": 1276,
-    "forks_count": 7914
+    "stargazers_count": 99888,
+    "open_issues_count": 1287,
+    "forks_count": 7956
   },
   {
     "full_name": "meta-llama/llama-recipes",
-    "stargazers_count": 15342,
-    "open_issues_count": 64,
-    "forks_count": 2215
+    "stargazers_count": 15390,
+    "open_issues_count": 62,
+    "forks_count": 2221
   },
   {
     "full_name": "mistralai/mistral-finetune",
-    "stargazers_count": 2762,
+    "stargazers_count": 2769,
     "open_issues_count": 39,
     "forks_count": 232
   },
   {
     "full_name": "NVIDIA/ChatRTX",
-    "stargazers_count": 2771,
-    "open_issues_count": 51,
+    "stargazers_count": 2774,
+    "open_issues_count": 53,
     "forks_count": 344
   },
   {
     "full_name": "meta-llama/llama-stack-apps",
-    "stargazers_count": 3907,
-    "open_issues_count": 30,
-    "forks_count": 563
+    "stargazers_count": 3917,
+    "open_issues_count": 29,
+    "forks_count": 565
   },
   {
     "full_name": "rozek/node-red-ai-toolkit",
@@ -103,37 +109,37 @@
   },
   {
     "full_name": "meta-llama/llama-models",
-    "stargazers_count": 4915,
-    "open_issues_count": 61,
-    "forks_count": 842
+    "stargazers_count": 4951,
+    "open_issues_count": 62,
+    "forks_count": 851
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 35876,
-    "open_issues_count": 995,
-    "forks_count": 3109
+    "stargazers_count": 35929,
+    "open_issues_count": 985,
+    "forks_count": 3108
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 4214,
+    "stargazers_count": 4232,
     "open_issues_count": 5,
-    "forks_count": 493
+    "forks_count": 494
   },
   {
     "full_name": "go-shiori/shiori",
-    "stargazers_count": 9540,
+    "stargazers_count": 9548,
     "open_issues_count": 79,
     "forks_count": 556
   },
   {
     "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 6535,
-    "open_issues_count": 168,
-    "forks_count": 237
+    "stargazers_count": 6627,
+    "open_issues_count": 172,
+    "forks_count": 240
   },
   {
     "full_name": "NVIDIA/nim-anywhere",
-    "stargazers_count": 111,
+    "stargazers_count": 113,
     "open_issues_count": 19,
     "forks_count": 64
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "blender/blender",
-    "stargazers_count": 13420,
+    "stargazers_count": 13457,
     "open_issues_count": 0,
-    "forks_count": 2027
+    "forks_count": 2028
   },
   {
     "full_name": "TUM-VT/Sumonity",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-Release",
-    "stargazers_count": 462,
-    "open_issues_count": 16,
-    "forks_count": 65
+    "stargazers_count": 464,
+    "open_issues_count": 9,
+    "forks_count": 66
   },
   {
     "full_name": "delebash/UE_GlobalEnvironmentalSystem",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "inkle/inky",
-    "stargazers_count": 2419,
+    "stargazers_count": 2420,
     "open_issues_count": 230,
     "forks_count": 296
-  },
-  {
-    "full_name": "microsoft/diskspd",
-    "stargazers_count": 1157,
-    "open_issues_count": 55,
-    "forks_count": 216
   }
 ]
