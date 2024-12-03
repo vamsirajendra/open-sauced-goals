@@ -1,25 +1,49 @@
 [
   {
+    "full_name": "Kurento/kurento",
+    "stargazers_count": 307,
+    "open_issues_count": 20,
+    "forks_count": 58
+  },
+  {
+    "full_name": "shenglol/arm-visualizer",
+    "stargazers_count": 264,
+    "open_issues_count": 16,
+    "forks_count": 74
+  },
+  {
+    "full_name": "Azure/Moodle",
+    "stargazers_count": 161,
+    "open_issues_count": 51,
+    "forks_count": 166
+  },
+  {
+    "full_name": "bigbluebutton/bigbluebutton",
+    "stargazers_count": 8574,
+    "open_issues_count": 773,
+    "forks_count": 5957
+  },
+  {
     "full_name": "Systems-Modeling/SysML-v2-Pilot-Implementation",
-    "stargazers_count": 130,
-    "open_issues_count": 10,
+    "stargazers_count": 131,
+    "open_issues_count": 9,
     "forks_count": 24
   },
   {
     "full_name": "FreeCAD/FreeCAD",
-    "stargazers_count": 21158,
-    "open_issues_count": 2520,
-    "forks_count": 4139
+    "stargazers_count": 21291,
+    "open_issues_count": 2507,
+    "forks_count": 4146
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 33755,
+    "stargazers_count": 34209,
     "open_issues_count": 1,
-    "forks_count": 4123
+    "forks_count": 4185
   },
   {
     "full_name": "anticto/Mutable-Documentation",
-    "stargazers_count": 70,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -31,75 +55,75 @@
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 34235,
+    "stargazers_count": 34316,
     "open_issues_count": 453,
-    "forks_count": 2601
+    "forks_count": 2608
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 7654,
-    "open_issues_count": 284,
-    "forks_count": 1132
+    "stargazers_count": 7688,
+    "open_issues_count": 289,
+    "forks_count": 1135
   },
   {
     "full_name": "Kaggle/docker-python",
-    "stargazers_count": 2471,
-    "open_issues_count": 26,
-    "forks_count": 955
+    "stargazers_count": 2473,
+    "open_issues_count": 29,
+    "forks_count": 957
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 54291,
-    "open_issues_count": 249,
-    "forks_count": 7297
+    "stargazers_count": 54322,
+    "open_issues_count": 250,
+    "forks_count": 7302
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 39785,
+    "stargazers_count": 39864,
     "open_issues_count": 375,
-    "forks_count": 2549
+    "forks_count": 2551
   },
   {
     "full_name": "ParisNeo/lollms-webui",
-    "stargazers_count": 4363,
+    "stargazers_count": 4368,
     "open_issues_count": 158,
-    "forks_count": 551
+    "forks_count": 554
   },
   {
     "full_name": "lmstudio-ai/lms",
-    "stargazers_count": 1688,
-    "open_issues_count": 60,
+    "stargazers_count": 1712,
+    "open_issues_count": 64,
     "forks_count": 138
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 99888,
-    "open_issues_count": 1287,
-    "forks_count": 7956
+    "stargazers_count": 100495,
+    "open_issues_count": 1259,
+    "forks_count": 8012
   },
   {
     "full_name": "meta-llama/llama-recipes",
-    "stargazers_count": 15390,
+    "stargazers_count": 15446,
     "open_issues_count": 62,
-    "forks_count": 2221
+    "forks_count": 2230
   },
   {
     "full_name": "mistralai/mistral-finetune",
-    "stargazers_count": 2769,
+    "stargazers_count": 2772,
     "open_issues_count": 39,
-    "forks_count": 232
+    "forks_count": 236
   },
   {
     "full_name": "NVIDIA/ChatRTX",
-    "stargazers_count": 2774,
-    "open_issues_count": 53,
-    "forks_count": 344
+    "stargazers_count": 2779,
+    "open_issues_count": 52,
+    "forks_count": 346
   },
   {
     "full_name": "meta-llama/llama-stack-apps",
-    "stargazers_count": 3917,
-    "open_issues_count": 29,
-    "forks_count": 565
+    "stargazers_count": 3927,
+    "open_issues_count": 31,
+    "forks_count": 567
   },
   {
     "full_name": "rozek/node-red-ai-toolkit",
@@ -109,74 +133,50 @@
   },
   {
     "full_name": "meta-llama/llama-models",
-    "stargazers_count": 4951,
-    "open_issues_count": 62,
-    "forks_count": 851
+    "stargazers_count": 4980,
+    "open_issues_count": 64,
+    "forks_count": 858
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 35929,
-    "open_issues_count": 985,
-    "forks_count": 3108
+    "stargazers_count": 35984,
+    "open_issues_count": 991,
+    "forks_count": 3110
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 4232,
-    "open_issues_count": 5,
-    "forks_count": 494
+    "stargazers_count": 4283,
+    "open_issues_count": 3,
+    "forks_count": 504
   },
   {
     "full_name": "go-shiori/shiori",
-    "stargazers_count": 9548,
-    "open_issues_count": 79,
+    "stargazers_count": 9565,
+    "open_issues_count": 80,
     "forks_count": 556
   },
   {
     "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 6627,
-    "open_issues_count": 172,
-    "forks_count": 240
+    "stargazers_count": 6798,
+    "open_issues_count": 176,
+    "forks_count": 247
   },
   {
     "full_name": "NVIDIA/nim-anywhere",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 19,
     "forks_count": 64
   },
   {
     "full_name": "dumbeau/AutoHotPie",
-    "stargazers_count": 369,
+    "stargazers_count": 371,
     "open_issues_count": 95,
     "forks_count": 21
   },
   {
     "full_name": "blender/blender",
-    "stargazers_count": 13457,
+    "stargazers_count": 13488,
     "open_issues_count": 0,
-    "forks_count": 2028
-  },
-  {
-    "full_name": "TUM-VT/Sumonity",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 4
-  },
-  {
-    "full_name": "Systems-Modeling/SysML-v2-Release",
-    "stargazers_count": 464,
-    "open_issues_count": 9,
-    "forks_count": 66
-  },
-  {
-    "full_name": "delebash/UE_GlobalEnvironmentalSystem",
-    "stargazers_count": 114,
-    "open_issues_count": 1,
-    "forks_count": 13
-  },
-  {
-    "full_name": "inkle/inky",
-    "stargazers_count": 2420,
-    "open_issues_count": 230,
-    "forks_count": 296
+    "forks_count": 2037
   }
 ]
