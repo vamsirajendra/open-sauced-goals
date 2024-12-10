@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "Autodesk/maya-usd",
+    "stargazers_count": 782,
+    "open_issues_count": 257,
+    "forks_count": 201
+  },
+  {
     "full_name": "Kurento/kurento",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 20,
     "forks_count": 58
   },
@@ -15,115 +21,115 @@
     "full_name": "Azure/Moodle",
     "stargazers_count": 161,
     "open_issues_count": 51,
-    "forks_count": 167
+    "forks_count": 166
   },
   {
     "full_name": "bigbluebutton/bigbluebutton",
-    "stargazers_count": 8579,
-    "open_issues_count": 782,
-    "forks_count": 5960
+    "stargazers_count": 8586,
+    "open_issues_count": 770,
+    "forks_count": 5962
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-Pilot-Implementation",
     "stargazers_count": 131,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 24
   },
   {
     "full_name": "FreeCAD/FreeCAD",
-    "stargazers_count": 21426,
-    "open_issues_count": 2527,
-    "forks_count": 4155
+    "stargazers_count": 21561,
+    "open_issues_count": 2496,
+    "forks_count": 4172
   },
   {
     "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 34551,
+    "stargazers_count": 34903,
     "open_issues_count": 1,
-    "forks_count": 4236
+    "forks_count": 4297
   },
   {
     "full_name": "anticto/Mutable-Documentation",
-    "stargazers_count": 77,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "NVIDIA-Omniverse/USD-Tutorials-And-Examples",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 3,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "gradio-app/gradio",
-    "stargazers_count": 34393,
-    "open_issues_count": 458,
-    "forks_count": 2613
+    "stargazers_count": 34470,
+    "open_issues_count": 459,
+    "forks_count": 2616
   },
   {
     "full_name": "huggingface/chat-ui",
-    "stargazers_count": 7696,
-    "open_issues_count": 289,
-    "forks_count": 1140
+    "stargazers_count": 7715,
+    "open_issues_count": 285,
+    "forks_count": 1145
   },
   {
     "full_name": "Kaggle/docker-python",
-    "stargazers_count": 2473,
+    "stargazers_count": 2478,
     "open_issues_count": 26,
-    "forks_count": 958
+    "forks_count": 961
   },
   {
     "full_name": "zylon-ai/private-gpt",
-    "stargazers_count": 54356,
-    "open_issues_count": 250,
-    "forks_count": 7302
+    "stargazers_count": 54386,
+    "open_issues_count": 251,
+    "forks_count": 7306
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 39889,
-    "open_issues_count": 376,
-    "forks_count": 2552
+    "stargazers_count": 39910,
+    "open_issues_count": 377,
+    "forks_count": 2555
   },
   {
     "full_name": "ParisNeo/lollms-webui",
-    "stargazers_count": 4371,
+    "stargazers_count": 4380,
     "open_issues_count": 159,
-    "forks_count": 555
+    "forks_count": 557
   },
   {
     "full_name": "lmstudio-ai/lms",
-    "stargazers_count": 1728,
-    "open_issues_count": 64,
-    "forks_count": 140
+    "stargazers_count": 1748,
+    "open_issues_count": 65,
+    "forks_count": 141
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 100960,
-    "open_issues_count": 1263,
-    "forks_count": 8058
+    "stargazers_count": 101814,
+    "open_issues_count": 1296,
+    "forks_count": 8132
   },
   {
     "full_name": "meta-llama/llama-recipes",
-    "stargazers_count": 15483,
-    "open_issues_count": 64,
-    "forks_count": 2238
+    "stargazers_count": 15531,
+    "open_issues_count": 63,
+    "forks_count": 2245
   },
   {
     "full_name": "mistralai/mistral-finetune",
-    "stargazers_count": 2778,
+    "stargazers_count": 2780,
     "open_issues_count": 39,
     "forks_count": 237
   },
   {
     "full_name": "NVIDIA/ChatRTX",
-    "stargazers_count": 2783,
-    "open_issues_count": 55,
-    "forks_count": 346
+    "stargazers_count": 2788,
+    "open_issues_count": 56,
+    "forks_count": 349
   },
   {
     "full_name": "meta-llama/llama-stack-apps",
-    "stargazers_count": 3935,
-    "open_issues_count": 31,
-    "forks_count": 567
+    "stargazers_count": 3954,
+    "open_issues_count": 30,
+    "forks_count": 570
   },
   {
     "full_name": "rozek/node-red-ai-toolkit",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "meta-llama/llama-models",
-    "stargazers_count": 5010,
-    "open_issues_count": 68,
-    "forks_count": 860
+    "stargazers_count": 5174,
+    "open_issues_count": 70,
+    "forks_count": 873
   },
   {
     "full_name": "streamlit/streamlit",
-    "stargazers_count": 36037,
-    "open_issues_count": 977,
-    "forks_count": 3113
+    "stargazers_count": 36097,
+    "open_issues_count": 987,
+    "forks_count": 3116
   },
   {
     "full_name": "Shubhamsaboo/awesome-llm-apps",
-    "stargazers_count": 4315,
+    "stargazers_count": 4412,
     "open_issues_count": 3,
-    "forks_count": 508
+    "forks_count": 527
   },
   {
     "full_name": "go-shiori/shiori",
-    "stargazers_count": 9581,
-    "open_issues_count": 80,
-    "forks_count": 557
+    "stargazers_count": 9589,
+    "open_issues_count": 78,
+    "forks_count": 558
   },
   {
     "full_name": "hoarder-app/hoarder",
-    "stargazers_count": 6912,
-    "open_issues_count": 179,
-    "forks_count": 252
+    "stargazers_count": 7047,
+    "open_issues_count": 183,
+    "forks_count": 256
   },
   {
     "full_name": "NVIDIA/nim-anywhere",
-    "stargazers_count": 116,
-    "open_issues_count": 19,
+    "stargazers_count": 119,
+    "open_issues_count": 21,
     "forks_count": 64
   },
   {
     "full_name": "dumbeau/AutoHotPie",
     "stargazers_count": 372,
-    "open_issues_count": 95,
+    "open_issues_count": 96,
     "forks_count": 21
-  },
-  {
-    "full_name": "blender/blender",
-    "stargazers_count": 13521,
-    "open_issues_count": 0,
-    "forks_count": 2040
   }
 ]
