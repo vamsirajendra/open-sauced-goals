@@ -1,9 +1,27 @@
 [
   {
-    "full_name": "luigifreda/pyslam",
-    "stargazers_count": 2067,
+    "full_name": "NanceDevDiaries/ThumbnailToTextureTool",
+    "stargazers_count": 50,
     "open_issues_count": 0,
-    "forks_count": 359
+    "forks_count": 7
+  },
+  {
+    "full_name": "wasp-lang/open-saas",
+    "stargazers_count": 9108,
+    "open_issues_count": 67,
+    "forks_count": 887
+  },
+  {
+    "full_name": "github/git-sizer",
+    "stargazers_count": 3689,
+    "open_issues_count": 10,
+    "forks_count": 149
+  },
+  {
+    "full_name": "luigifreda/pyslam",
+    "stargazers_count": 2137,
+    "open_issues_count": 0,
+    "forks_count": 363
   },
   {
     "full_name": "XistGG/docker-perforce-server-for-unreal-engine",
@@ -13,13 +31,13 @@
   },
   {
     "full_name": "XistGG/UnrealXistTools",
-    "stargazers_count": 48,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "x157/x157.github.io",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 13,
     "forks_count": 8
   },
@@ -31,33 +49,33 @@
   },
   {
     "full_name": "Wox-launcher/Wox",
-    "stargazers_count": 24779,
+    "stargazers_count": 24784,
     "open_issues_count": 155,
     "forks_count": 2366
   },
   {
     "full_name": "NVIDIA/Cosmos",
-    "stargazers_count": 6908,
-    "open_issues_count": 50,
-    "forks_count": 419
+    "stargazers_count": 7127,
+    "open_issues_count": 58,
+    "forks_count": 431
   },
   {
     "full_name": "EpicGamesExt/PixelStreamingInfrastructure",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 21,
     "forks_count": 106
   },
   {
     "full_name": "taichi-dev/taichi",
-    "stargazers_count": 26596,
-    "open_issues_count": 844,
-    "forks_count": 2327
+    "stargazers_count": 26617,
+    "open_issues_count": 843,
+    "forks_count": 2328
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 22832,
-    "open_issues_count": 254,
-    "forks_count": 1873
+    "stargazers_count": 23086,
+    "open_issues_count": 262,
+    "forks_count": 1908
   },
   {
     "full_name": "ibbles/LearningUnreal",
@@ -67,9 +85,9 @@
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 13119,
+    "stargazers_count": 13151,
     "open_issues_count": 168,
-    "forks_count": 591
+    "forks_count": 592
   },
   {
     "full_name": "githubocto/repo-visualizer",
@@ -79,15 +97,15 @@
   },
   {
     "full_name": "kimai/kimai",
-    "stargazers_count": 3456,
-    "open_issues_count": 274,
+    "stargazers_count": 3463,
+    "open_issues_count": 271,
     "forks_count": 599
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 46632,
-    "open_issues_count": 2709,
-    "forks_count": 5605
+    "stargazers_count": 46696,
+    "open_issues_count": 2716,
+    "forks_count": 5614
   },
   {
     "full_name": "Azure/opendigitaltwins-dtdl",
@@ -97,25 +115,25 @@
   },
   {
     "full_name": "mulaRahul/keyviz",
-    "stargazers_count": 6725,
+    "stargazers_count": 6769,
     "open_issues_count": 58,
-    "forks_count": 222
+    "forks_count": 224
   },
   {
     "full_name": "ProjectBorealis/UEGitPlugin",
-    "stargazers_count": 557,
-    "open_issues_count": 47,
+    "stargazers_count": 560,
+    "open_issues_count": 38,
     "forks_count": 114
   },
   {
     "full_name": "neo4j/neo4j",
-    "stargazers_count": 13674,
-    "open_issues_count": 262,
+    "stargazers_count": 13688,
+    "open_issues_count": 261,
     "forks_count": 2408
   },
   {
     "full_name": "hypermodeinc/modus",
-    "stargazers_count": 314,
+    "stargazers_count": 318,
     "open_issues_count": 6,
     "forks_count": 13
   },
@@ -127,7 +145,7 @@
   },
   {
     "full_name": "Kurento/kurento",
-    "stargazers_count": 328,
+    "stargazers_count": 329,
     "open_issues_count": 25,
     "forks_count": 59
   },
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "Azure/Moodle",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 51,
     "forks_count": 164
   },
   {
     "full_name": "bigbluebutton/bigbluebutton",
-    "stargazers_count": 8630,
-    "open_issues_count": 751,
-    "forks_count": 5969
+    "stargazers_count": 8635,
+    "open_issues_count": 739,
+    "forks_count": 5968
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-Pilot-Implementation",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 10,
     "forks_count": 25
   },
   {
     "full_name": "FreeCAD/FreeCAD",
-    "stargazers_count": 22582,
-    "open_issues_count": 2688,
-    "forks_count": 4277
-  },
-  {
-    "full_name": "rasbt/LLMs-from-scratch",
-    "stargazers_count": 38030,
-    "open_issues_count": 2,
-    "forks_count": 4946
-  },
-  {
-    "full_name": "anticto/Mutable-Documentation",
-    "stargazers_count": 88,
-    "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "NVIDIA-Omniverse/USD-Tutorials-And-Examples",
-    "stargazers_count": 171,
-    "open_issues_count": 3,
-    "forks_count": 26
+    "stargazers_count": 22644,
+    "open_issues_count": 2679,
+    "forks_count": 4287
   }
 ]
