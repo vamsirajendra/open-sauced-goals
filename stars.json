@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "aSurgingRiver/WebView",
+    "stargazers_count": 325,
+    "open_issues_count": 7,
+    "forks_count": 79
+  },
+  {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 51057,
-    "open_issues_count": 146,
-    "forks_count": 5992
+    "stargazers_count": 57561,
+    "open_issues_count": 186,
+    "forks_count": 7196
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 64384,
-    "open_issues_count": 188,
-    "forks_count": 9151
+    "stargazers_count": 70216,
+    "open_issues_count": 241,
+    "forks_count": 10706
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 21162,
-    "open_issues_count": 218,
-    "forks_count": 3559
+    "stargazers_count": 21384,
+    "open_issues_count": 222,
+    "forks_count": 3589
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 5868,
-    "open_issues_count": 55,
-    "forks_count": 722
+    "stargazers_count": 6664,
+    "open_issues_count": 51,
+    "forks_count": 826
   },
   {
     "full_name": "verma/plasio",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "buildingsmart-community/Community-Sample-Test-Files",
-    "stargazers_count": 12,
-    "open_issues_count": 1,
-    "forks_count": 4
+    "stargazers_count": 13,
+    "open_issues_count": 2,
+    "forks_count": 5
   },
   {
     "full_name": "yorikvanhavre/FreeCAD-NativeIFC",
@@ -55,20 +61,20 @@
   },
   {
     "full_name": "FreeCAD/FreeCAD-addons",
-    "stargazers_count": 811,
+    "stargazers_count": 814,
     "open_issues_count": 26,
-    "forks_count": 267
+    "forks_count": 269
   },
   {
     "full_name": "FreeCAD/FreeCAD-library",
-    "stargazers_count": 1350,
-    "open_issues_count": 19,
+    "stargazers_count": 1354,
+    "open_issues_count": 20,
     "forks_count": 1094
   },
   {
     "full_name": "opensourceBIM/BIMserver",
     "stargazers_count": 1581,
-    "open_issues_count": 102,
+    "open_issues_count": 101,
     "forks_count": 617
   },
   {
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "IfcOpenShell/IfcOpenShell",
-    "stargazers_count": 1950,
-    "open_issues_count": 912,
-    "forks_count": 752
+    "stargazers_count": 1956,
+    "open_issues_count": 905,
+    "forks_count": 753
   },
   {
     "full_name": "Nebukam/PCGExtendedToolkit",
-    "stargazers_count": 237,
+    "stargazers_count": 239,
     "open_issues_count": 0,
     "forks_count": 25
   },
@@ -97,27 +103,27 @@
   },
   {
     "full_name": "EpicGamesExt/BlenderTools",
-    "stargazers_count": 2867,
+    "stargazers_count": 2868,
     "open_issues_count": 78,
-    "forks_count": 74
+    "forks_count": 76
   },
   {
     "full_name": "BladeTransformerLLC/gauzilla",
-    "stargazers_count": 382,
+    "stargazers_count": 383,
     "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "xverse-engine/XV3DGS-UEPlugin",
-    "stargazers_count": 636,
+    "stargazers_count": 638,
     "open_issues_count": 59,
     "forks_count": 75
   },
   {
     "full_name": "MrNeRF/awesome-3D-gaussian-splatting",
-    "stargazers_count": 6682,
+    "stargazers_count": 6698,
     "open_issues_count": 1,
-    "forks_count": 401
+    "forks_count": 403
   },
   {
     "full_name": "NanceDevDiaries/ThumbnailToTextureTool",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "wasp-lang/open-saas",
-    "stargazers_count": 9280,
+    "stargazers_count": 9306,
     "open_issues_count": 65,
-    "forks_count": 905
+    "forks_count": 913
   },
   {
     "full_name": "github/git-sizer",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "luigifreda/pyslam",
-    "stargazers_count": 2177,
+    "stargazers_count": 2181,
     "open_issues_count": 0,
     "forks_count": 368
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "Wox-launcher/Wox",
-    "stargazers_count": 24857,
-    "open_issues_count": 153,
+    "stargazers_count": 24922,
+    "open_issues_count": 156,
     "forks_count": 2366
-  },
-  {
-    "full_name": "NVIDIA/Cosmos",
-    "stargazers_count": 7328,
-    "open_issues_count": 35,
-    "forks_count": 451
   }
 ]
