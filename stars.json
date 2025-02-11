@@ -1,43 +1,61 @@
 [
   {
+    "full_name": "dorssel/usbipd-win",
+    "stargazers_count": 4075,
+    "open_issues_count": 52,
+    "forks_count": 243
+  },
+  {
+    "full_name": "ZoneMinder/zoneminder",
+    "stargazers_count": 5312,
+    "open_issues_count": 173,
+    "forks_count": 1241
+  },
+  {
+    "full_name": "IfcOpenShell/voxelization_toolkit",
+    "stargazers_count": 75,
+    "open_issues_count": 9,
+    "forks_count": 15
+  },
+  {
     "full_name": "aSurgingRiver/WebView",
-    "stargazers_count": 327,
-    "open_issues_count": 7,
+    "stargazers_count": 330,
+    "open_issues_count": 6,
     "forks_count": 80
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 64944,
-    "open_issues_count": 184,
-    "forks_count": 8305
+    "stargazers_count": 71097,
+    "open_issues_count": 236,
+    "forks_count": 9156
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 76998,
-    "open_issues_count": 177,
-    "forks_count": 12149
+    "stargazers_count": 82053,
+    "open_issues_count": 114,
+    "forks_count": 13054
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 21531,
-    "open_issues_count": 220,
-    "forks_count": 3621
+    "stargazers_count": 21723,
+    "open_issues_count": 210,
+    "forks_count": 3651
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 8094,
-    "open_issues_count": 56,
-    "forks_count": 973
+    "stargazers_count": 11057,
+    "open_issues_count": 78,
+    "forks_count": 1210
   },
   {
     "full_name": "verma/plasio",
-    "stargazers_count": 514,
+    "stargazers_count": 515,
     "open_issues_count": 34,
     "forks_count": 131
   },
   {
     "full_name": "buildingSMART/bSDD",
-    "stargazers_count": 146,
+    "stargazers_count": 148,
     "open_issues_count": 8,
     "forks_count": 37
   },
@@ -61,20 +79,20 @@
   },
   {
     "full_name": "FreeCAD/FreeCAD-addons",
-    "stargazers_count": 818,
-    "open_issues_count": 26,
-    "forks_count": 269
+    "stargazers_count": 821,
+    "open_issues_count": 28,
+    "forks_count": 271
   },
   {
     "full_name": "FreeCAD/FreeCAD-library",
-    "stargazers_count": 1356,
+    "stargazers_count": 1363,
     "open_issues_count": 19,
-    "forks_count": 1095
+    "forks_count": 1098
   },
   {
     "full_name": "opensourceBIM/BIMserver",
-    "stargazers_count": 1581,
-    "open_issues_count": 102,
+    "stargazers_count": 1582,
+    "open_issues_count": 103,
     "forks_count": 617
   },
   {
@@ -85,45 +103,45 @@
   },
   {
     "full_name": "IfcOpenShell/IfcOpenShell",
-    "stargazers_count": 1971,
-    "open_issues_count": 906,
-    "forks_count": 754
+    "stargazers_count": 1976,
+    "open_issues_count": 922,
+    "forks_count": 756
   },
   {
     "full_name": "Nebukam/PCGExtendedToolkit",
-    "stargazers_count": 243,
+    "stargazers_count": 251,
     "open_issues_count": 0,
-    "forks_count": 25
+    "forks_count": 27
   },
   {
     "full_name": "Nebukam/PCGExExampleProject",
-    "stargazers_count": 30,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "EpicGamesExt/BlenderTools",
-    "stargazers_count": 2871,
+    "stargazers_count": 2876,
     "open_issues_count": 78,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "BladeTransformerLLC/gauzilla",
-    "stargazers_count": 386,
+    "stargazers_count": 390,
     "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "xverse-engine/XV3DGS-UEPlugin",
-    "stargazers_count": 641,
+    "stargazers_count": 646,
     "open_issues_count": 59,
     "forks_count": 75
   },
   {
     "full_name": "MrNeRF/awesome-3D-gaussian-splatting",
-    "stargazers_count": 6710,
+    "stargazers_count": 6723,
     "open_issues_count": 1,
-    "forks_count": 404
+    "forks_count": 405
   },
   {
     "full_name": "NanceDevDiaries/ThumbnailToTextureTool",
@@ -133,50 +151,32 @@
   },
   {
     "full_name": "wasp-lang/open-saas",
-    "stargazers_count": 9329,
-    "open_issues_count": 66,
-    "forks_count": 917
+    "stargazers_count": 9380,
+    "open_issues_count": 68,
+    "forks_count": 923
   },
   {
     "full_name": "github/git-sizer",
-    "stargazers_count": 3695,
+    "stargazers_count": 3699,
     "open_issues_count": 11,
     "forks_count": 149
   },
   {
     "full_name": "luigifreda/pyslam",
-    "stargazers_count": 2185,
-    "open_issues_count": 1,
-    "forks_count": 369
+    "stargazers_count": 2188,
+    "open_issues_count": 0,
+    "forks_count": 371
   },
   {
     "full_name": "XistGG/docker-perforce-server-for-unreal-engine",
     "stargazers_count": 9,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "XistGG/UnrealXistTools",
     "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 7
-  },
-  {
-    "full_name": "x157/x157.github.io",
-    "stargazers_count": 56,
-    "open_issues_count": 14,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Kenzenken/UE_QOL_Extension_Plugin",
-    "stargazers_count": 19,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "Wox-launcher/Wox",
-    "stargazers_count": 24943,
-    "open_issues_count": 156,
-    "forks_count": 2367
   }
 ]
