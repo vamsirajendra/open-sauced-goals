@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tranek/GASDocumentation",
-    "stargazers_count": 4804,
+    "stargazers_count": 4821,
     "open_issues_count": 35,
-    "forks_count": 855
+    "forks_count": 859
   },
   {
     "full_name": "LingFengSBH/InteractiveWorld",
@@ -13,45 +13,45 @@
   },
   {
     "full_name": "ggerganov/ggwave",
-    "stargazers_count": 5904,
+    "stargazers_count": 6022,
     "open_issues_count": 48,
-    "forks_count": 323
+    "forks_count": 332
   },
   {
     "full_name": "PennyroyalTea/gibberlink",
-    "stargazers_count": 3759,
-    "open_issues_count": 7,
-    "forks_count": 294
+    "stargazers_count": 3886,
+    "open_issues_count": 8,
+    "forks_count": 311
   },
   {
     "full_name": "PixarAnimationStudios/OpenUSD-proposals",
-    "stargazers_count": 113,
+    "stargazers_count": 114,
     "open_issues_count": 23,
     "forks_count": 28
   },
   {
     "full_name": "IntelRealSense/realsense-ros",
-    "stargazers_count": 2712,
-    "open_issues_count": 102,
-    "forks_count": 1808
+    "stargazers_count": 2716,
+    "open_issues_count": 100,
+    "forks_count": 1810
   },
   {
     "full_name": "GeoRetina/chat2geo",
-    "stargazers_count": 365,
+    "stargazers_count": 369,
     "open_issues_count": 5,
-    "forks_count": 70
+    "forks_count": 73
   },
   {
     "full_name": "dorssel/usbipd-win",
-    "stargazers_count": 4153,
-    "open_issues_count": 55,
-    "forks_count": 248
+    "stargazers_count": 4164,
+    "open_issues_count": 56,
+    "forks_count": 249
   },
   {
     "full_name": "ZoneMinder/zoneminder",
-    "stargazers_count": 5360,
-    "open_issues_count": 172,
-    "forks_count": 1242
+    "stargazers_count": 5364,
+    "open_issues_count": 174,
+    "forks_count": 1241
   },
   {
     "full_name": "IfcOpenShell/voxelization_toolkit",
@@ -63,31 +63,31 @@
     "full_name": "aSurgingRiver/WebView",
     "stargazers_count": 338,
     "open_issues_count": 6,
-    "forks_count": 80
+    "forks_count": 79
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 85251,
-    "open_issues_count": 315,
-    "forks_count": 11000
+    "stargazers_count": 85802,
+    "open_issues_count": 325,
+    "forks_count": 11078
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 91208,
-    "open_issues_count": 132,
-    "forks_count": 14740
+    "stargazers_count": 91651,
+    "open_issues_count": 134,
+    "forks_count": 14842
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 22853,
-    "open_issues_count": 199,
-    "forks_count": 3827
+    "stargazers_count": 23012,
+    "open_issues_count": 204,
+    "forks_count": 3853
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 25525,
-    "open_issues_count": 102,
-    "forks_count": 2712
+    "stargazers_count": 27162,
+    "open_issues_count": 104,
+    "forks_count": 2904
   },
   {
     "full_name": "verma/plasio",
@@ -121,20 +121,20 @@
   },
   {
     "full_name": "FreeCAD/FreeCAD-addons",
-    "stargazers_count": 840,
+    "stargazers_count": 842,
     "open_issues_count": 27,
     "forks_count": 277
   },
   {
     "full_name": "FreeCAD/FreeCAD-library",
-    "stargazers_count": 1390,
+    "stargazers_count": 1394,
     "open_issues_count": 20,
-    "forks_count": 1101
+    "forks_count": 1103
   },
   {
     "full_name": "opensourceBIM/BIMserver",
-    "stargazers_count": 1590,
-    "open_issues_count": 107,
+    "stargazers_count": 1589,
+    "open_issues_count": 108,
     "forks_count": 617
   },
   {
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "IfcOpenShell/IfcOpenShell",
-    "stargazers_count": 2010,
-    "open_issues_count": 968,
-    "forks_count": 762
+    "stargazers_count": 2014,
+    "open_issues_count": 975,
+    "forks_count": 765
   },
   {
     "full_name": "Nebukam/PCGExtendedToolkit",
-    "stargazers_count": 276,
+    "stargazers_count": 285,
     "open_issues_count": 0,
     "forks_count": 33
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "EpicGamesExt/BlenderTools",
-    "stargazers_count": 2898,
+    "stargazers_count": 2900,
     "open_issues_count": 78,
-    "forks_count": 79
+    "forks_count": 81
   },
   {
     "full_name": "BladeTransformerLLC/gauzilla",
-    "stargazers_count": 397,
+    "stargazers_count": 400,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "xverse-engine/XV3DGS-UEPlugin",
-    "stargazers_count": 677,
+    "stargazers_count": 679,
     "open_issues_count": 64,
-    "forks_count": 76
+    "forks_count": 77
   }
 ]
