@@ -1,43 +1,43 @@
 [
   {
     "full_name": "ahmedkhaleel2004/gitdiagram",
-    "stargazers_count": 12750,
-    "open_issues_count": 25,
-    "forks_count": 883
+    "stargazers_count": 12950,
+    "open_issues_count": 14,
+    "forks_count": 902
   },
   {
     "full_name": "nv-tlabs/3dgrut",
-    "stargazers_count": 969,
-    "open_issues_count": 23,
-    "forks_count": 76
+    "stargazers_count": 974,
+    "open_issues_count": 24,
+    "forks_count": 80
   },
   {
     "full_name": "ggml-org/llama.cpp",
-    "stargazers_count": 80713,
-    "open_issues_count": 782,
-    "forks_count": 11870
+    "stargazers_count": 80898,
+    "open_issues_count": 790,
+    "forks_count": 11920
   },
   {
     "full_name": "mgonzs13/yolo_ros",
-    "stargazers_count": 626,
-    "open_issues_count": 6,
-    "forks_count": 150
+    "stargazers_count": 644,
+    "open_issues_count": 5,
+    "forks_count": 151
   },
   {
     "full_name": "SLAM-Handbook-contributors/slam-handbook-public-release",
-    "stargazers_count": 3217,
-    "open_issues_count": 10,
+    "stargazers_count": 3236,
+    "open_issues_count": 9,
     "forks_count": 178
   },
   {
     "full_name": "opencv/opencv",
-    "stargazers_count": 82294,
+    "stargazers_count": 82350,
     "open_issues_count": 2716,
-    "forks_count": 56162
+    "forks_count": 56164
   },
   {
     "full_name": "ashe23/ProjectCleaner",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 4,
     "forks_count": 32
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "NVIDIA-Omniverse/kit-app-template",
-    "stargazers_count": 538,
+    "stargazers_count": 541,
     "open_issues_count": 10,
-    "forks_count": 162
+    "forks_count": 164
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 88780,
-    "open_issues_count": 63,
-    "forks_count": 12674
+    "stargazers_count": 89136,
+    "open_issues_count": 61,
+    "forks_count": 12741
   },
   {
     "full_name": "tranek/GASDocumentation",
-    "stargazers_count": 5032,
+    "stargazers_count": 5040,
     "open_issues_count": 37,
-    "forks_count": 895
+    "forks_count": 896
   },
   {
     "full_name": "LingFengSBH/InteractiveWorld",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "ggerganov/ggwave",
-    "stargazers_count": 6688,
-    "open_issues_count": 54,
-    "forks_count": 376
+    "stargazers_count": 6700,
+    "open_issues_count": 56,
+    "forks_count": 379
   },
   {
     "full_name": "PennyroyalTea/gibberlink",
-    "stargazers_count": 4308,
+    "stargazers_count": 4327,
     "open_issues_count": 8,
-    "forks_count": 349
+    "forks_count": 350
   },
   {
     "full_name": "PixarAnimationStudios/OpenUSD-proposals",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "IntelRealSense/realsense-ros",
-    "stargazers_count": 2802,
-    "open_issues_count": 102,
-    "forks_count": 1838
+    "stargazers_count": 2805,
+    "open_issues_count": 101,
+    "forks_count": 1839
   },
   {
     "full_name": "GeoRetina/chat2geo",
-    "stargazers_count": 396,
+    "stargazers_count": 399,
     "open_issues_count": 6,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "dorssel/usbipd-win",
-    "stargazers_count": 4430,
+    "stargazers_count": 4445,
     "open_issues_count": 59,
     "forks_count": 265
   },
   {
     "full_name": "ZoneMinder/zoneminder",
-    "stargazers_count": 5469,
-    "open_issues_count": 180,
-    "forks_count": 1245
+    "stargazers_count": 5474,
+    "open_issues_count": 179,
+    "forks_count": 1244
   },
   {
     "full_name": "IfcOpenShell/voxelization_toolkit",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "deepseek-ai/DeepSeek-R1",
-    "stargazers_count": 89405,
-    "open_issues_count": 177,
-    "forks_count": 11555
+    "stargazers_count": 89478,
+    "open_issues_count": 155,
+    "forks_count": 11568
   },
   {
     "full_name": "deepseek-ai/DeepSeek-V3",
-    "stargazers_count": 97032,
-    "open_issues_count": 82,
-    "forks_count": 15781
+    "stargazers_count": 97154,
+    "open_issues_count": 80,
+    "forks_count": 15789
   },
   {
     "full_name": "danny-avila/LibreChat",
-    "stargazers_count": 25799,
-    "open_issues_count": 196,
-    "forks_count": 4480
+    "stargazers_count": 25936,
+    "open_issues_count": 205,
+    "forks_count": 4516
   },
   {
     "full_name": "deepseek-ai/awesome-deepseek-integration",
-    "stargazers_count": 32423,
-    "open_issues_count": 124,
-    "forks_count": 3565
+    "stargazers_count": 32488,
+    "open_issues_count": 126,
+    "forks_count": 3573
   },
   {
     "full_name": "verma/plasio",
     "stargazers_count": 524,
     "open_issues_count": 36,
-    "forks_count": 132
+    "forks_count": 131
   },
   {
     "full_name": "buildingSMART/bSDD",
