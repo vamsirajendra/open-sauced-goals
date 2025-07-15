@@ -7,15 +7,15 @@
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 171324,
-    "open_issues_count": 12360,
-    "forks_count": 28833
+    "stargazers_count": 171384,
+    "open_issues_count": 12142,
+    "forks_count": 28847
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 57430,
-    "open_issues_count": 1109,
-    "forks_count": 5209
+    "stargazers_count": 59371,
+    "open_issues_count": 1295,
+    "forks_count": 5459
   },
   {
     "full_name": "ericwindmill/gemini_recipe_generation",
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "robbie-cahill/tunnelmole-client",
-    "stargazers_count": 1537,
+    "stargazers_count": 1550,
     "open_issues_count": 15,
-    "forks_count": 97
+    "forks_count": 99
   },
   {
     "full_name": "eclipse-sumo/sumo",
-    "stargazers_count": 2867,
+    "stargazers_count": 2873,
     "open_issues_count": 2812,
-    "forks_count": 1562
+    "forks_count": 1566
   },
   {
     "full_name": "carla-simulator/carla-digitaltwins",
-    "stargazers_count": 4,
-    "open_issues_count": 18,
+    "stargazers_count": 5,
+    "open_issues_count": 14,
     "forks_count": 4
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "NVIDIA/NeMo",
-    "stargazers_count": 15057,
-    "open_issues_count": 150,
-    "forks_count": 2986
+    "stargazers_count": 15082,
+    "open_issues_count": 158,
+    "forks_count": 2990
   },
   {
     "full_name": "NVIDIA/Dataset_Synthesizer",
-    "stargazers_count": 584,
+    "stargazers_count": 585,
     "open_issues_count": 60,
     "forks_count": 132
   },
   {
     "full_name": "nolenroyalty/one-million-chessboards",
-    "stargazers_count": 71,
+    "stargazers_count": 94,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "eclipse-capella/capella",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "ModelioOpenSource/Modelio",
-    "stargazers_count": 869,
+    "stargazers_count": 870,
     "open_issues_count": 68,
     "forks_count": 140
   },
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "VirtualGL/virtualgl",
-    "stargazers_count": 764,
+    "stargazers_count": 765,
     "open_issues_count": 11,
     "forks_count": 114
   },
   {
     "full_name": "NVIDIA-Omniverse/web-viewer-sample",
-    "stargazers_count": 74,
+    "stargazers_count": 76,
     "open_issues_count": 6,
     "forks_count": 20
   },
   {
     "full_name": "isaac-sim/IsaacLab",
-    "stargazers_count": 4321,
-    "open_issues_count": 296,
-    "forks_count": 1985
+    "stargazers_count": 4362,
+    "open_issues_count": 306,
+    "forks_count": 2002
   },
   {
     "full_name": "Remedy-Entertainment/USDBook",
-    "stargazers_count": 186,
+    "stargazers_count": 187,
     "open_issues_count": 3,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "GoogleCloudPlatform/immersive-stream-for-xr-templates",
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "letta-ai/agent-file",
-    "stargazers_count": 820,
+    "stargazers_count": 834,
     "open_issues_count": 4,
-    "forks_count": 65
+    "forks_count": 69
   },
   {
     "full_name": "yunlong10/Awesome-LLMs-for-Video-Understanding",
-    "stargazers_count": 2495,
+    "stargazers_count": 2508,
     "open_issues_count": 6,
     "forks_count": 113
   },
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "spf13/viper",
-    "stargazers_count": 28832,
+    "stargazers_count": 28862,
     "open_issues_count": 519,
     "forks_count": 2060
   },
   {
     "full_name": "datopian/giftless",
     "stargazers_count": 151,
-    "open_issues_count": 36,
+    "open_issues_count": 35,
     "forks_count": 36
   },
   {
     "full_name": "GetPublii/Publii",
-    "stargazers_count": 6803,
+    "stargazers_count": 6808,
     "open_issues_count": 264,
-    "forks_count": 453
+    "forks_count": 452
   },
   {
     "full_name": "ahmedkhaleel2004/gitdiagram",
-    "stargazers_count": 13741,
+    "stargazers_count": 13782,
     "open_issues_count": 23,
-    "forks_count": 998
+    "forks_count": 1002
   },
   {
     "full_name": "nv-tlabs/3dgrut",
-    "stargazers_count": 1194,
-    "open_issues_count": 33,
-    "forks_count": 100
+    "stargazers_count": 1205,
+    "open_issues_count": 34,
+    "forks_count": 103
   },
   {
     "full_name": "ggml-org/llama.cpp",
-    "stargazers_count": 82840,
-    "open_issues_count": 762,
-    "forks_count": 12316
+    "stargazers_count": 83002,
+    "open_issues_count": 753,
+    "forks_count": 12349
   }
 ]
