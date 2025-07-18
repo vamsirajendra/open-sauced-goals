@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "GoogleCloudPlatform/vertex-ai-samples",
+    "stargazers_count": 427,
+    "open_issues_count": 43,
+    "forks_count": 149
+  },
+  {
+    "full_name": "Kilo-Org/kilocode",
+    "stargazers_count": 4827,
+    "open_issues_count": 136,
+    "forks_count": 399
+  },
+  {
+    "full_name": "kirodotdev/spirit-of-kiro",
+    "stargazers_count": 722,
+    "open_issues_count": 7,
+    "forks_count": 57
+  },
+  {
+    "full_name": "kirodotdev/Kiro",
+    "stargazers_count": 1009,
+    "open_issues_count": 498,
+    "forks_count": 34
+  },
+  {
+    "full_name": "ghuntley/amazon-kiro.kiro-agent-source-code-analysis",
+    "stargazers_count": 83,
+    "open_issues_count": 0,
+    "forks_count": 27
+  },
+  {
+    "full_name": "awsdataarchitect/ai-compliance-auditor",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 8
+  },
+  {
     "full_name": "Felix2019/flutter-web-ar-plugin",
     "stargazers_count": 5,
     "open_issues_count": 5,
@@ -7,38 +43,38 @@
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 171384,
-    "open_issues_count": 12142,
-    "forks_count": 28847
+    "stargazers_count": 171439,
+    "open_issues_count": 12115,
+    "forks_count": 28859
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 59371,
-    "open_issues_count": 1295,
-    "forks_count": 5459
+    "stargazers_count": 60741,
+    "open_issues_count": 1283,
+    "forks_count": 5608
   },
   {
     "full_name": "ericwindmill/gemini_recipe_generation",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "robbie-cahill/tunnelmole-client",
-    "stargazers_count": 1550,
+    "stargazers_count": 1560,
     "open_issues_count": 15,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "eclipse-sumo/sumo",
-    "stargazers_count": 2873,
-    "open_issues_count": 2812,
-    "forks_count": 1566
+    "stargazers_count": 2874,
+    "open_issues_count": 2819,
+    "forks_count": 1569
   },
   {
     "full_name": "carla-simulator/carla-digitaltwins",
     "stargazers_count": 5,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 4
   },
   {
@@ -55,32 +91,32 @@
   },
   {
     "full_name": "NVIDIA/NeMo",
-    "stargazers_count": 15082,
-    "open_issues_count": 158,
-    "forks_count": 2990
+    "stargazers_count": 15120,
+    "open_issues_count": 163,
+    "forks_count": 2998
   },
   {
     "full_name": "NVIDIA/Dataset_Synthesizer",
-    "stargazers_count": 585,
+    "stargazers_count": 586,
     "open_issues_count": 60,
     "forks_count": 132
   },
   {
     "full_name": "nolenroyalty/one-million-chessboards",
-    "stargazers_count": 94,
+    "stargazers_count": 119,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "eclipse-capella/capella",
-    "stargazers_count": 272,
+    "stargazers_count": 273,
     "open_issues_count": 340,
     "forks_count": 104
   },
   {
     "full_name": "ModelioOpenSource/Modelio",
-    "stargazers_count": 870,
-    "open_issues_count": 68,
+    "stargazers_count": 876,
+    "open_issues_count": 69,
     "forks_count": 140
   },
   {
@@ -91,7 +127,7 @@
   },
   {
     "full_name": "VirtualGL/virtualgl",
-    "stargazers_count": 765,
+    "stargazers_count": 767,
     "open_issues_count": 11,
     "forks_count": 114
   },
@@ -103,9 +139,9 @@
   },
   {
     "full_name": "isaac-sim/IsaacLab",
-    "stargazers_count": 4362,
-    "open_issues_count": 306,
-    "forks_count": 2002
+    "stargazers_count": 4397,
+    "open_issues_count": 323,
+    "forks_count": 2023
   },
   {
     "full_name": "Remedy-Entertainment/USDBook",
@@ -121,19 +157,19 @@
   },
   {
     "full_name": "huggingface/Google-Cloud-Containers",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 15,
     "forks_count": 24
   },
   {
     "full_name": "letta-ai/agent-file",
-    "stargazers_count": 834,
-    "open_issues_count": 4,
-    "forks_count": 69
+    "stargazers_count": 842,
+    "open_issues_count": 5,
+    "forks_count": 72
   },
   {
     "full_name": "yunlong10/Awesome-LLMs-for-Video-Understanding",
-    "stargazers_count": 2508,
+    "stargazers_count": 2521,
     "open_issues_count": 6,
     "forks_count": 113
   },
@@ -142,41 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "spf13/viper",
-    "stargazers_count": 28862,
-    "open_issues_count": 519,
-    "forks_count": 2060
-  },
-  {
-    "full_name": "datopian/giftless",
-    "stargazers_count": 151,
-    "open_issues_count": 35,
-    "forks_count": 36
-  },
-  {
-    "full_name": "GetPublii/Publii",
-    "stargazers_count": 6808,
-    "open_issues_count": 264,
-    "forks_count": 452
-  },
-  {
-    "full_name": "ahmedkhaleel2004/gitdiagram",
-    "stargazers_count": 13782,
-    "open_issues_count": 23,
-    "forks_count": 1002
-  },
-  {
-    "full_name": "nv-tlabs/3dgrut",
-    "stargazers_count": 1205,
-    "open_issues_count": 34,
-    "forks_count": 103
-  },
-  {
-    "full_name": "ggml-org/llama.cpp",
-    "stargazers_count": 83002,
-    "open_issues_count": 753,
-    "forks_count": 12349
   }
 ]
