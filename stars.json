@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "webgiss/niolesk",
+    "stargazers_count": 97,
+    "open_issues_count": 6,
+    "forks_count": 11
+  },
+  {
+    "full_name": "docker/compose-for-agents",
+    "stargazers_count": 289,
+    "open_issues_count": 3,
+    "forks_count": 72
+  },
+  {
+    "full_name": "langchain-ai/langgraph",
+    "stargazers_count": 16224,
+    "open_issues_count": 175,
+    "forks_count": 2788
+  },
+  {
+    "full_name": "microsoft/playwright",
+    "stargazers_count": 75176,
+    "open_issues_count": 856,
+    "forks_count": 4378
+  },
+  {
+    "full_name": "microsoft/playwright-mcp",
+    "stargazers_count": 15437,
+    "open_issues_count": 18,
+    "forks_count": 1122
+  },
+  {
+    "full_name": "LiveCodeBench/LiveCodeBench",
+    "stargazers_count": 604,
+    "open_issues_count": 16,
+    "forks_count": 104
+  },
+  {
+    "full_name": "MoonshotAI/Kimi-K2",
+    "stargazers_count": 7013,
+    "open_issues_count": 18,
+    "forks_count": 443
+  },
+  {
+    "full_name": "open-webui/open-webui",
+    "stargazers_count": 103830,
+    "open_issues_count": 256,
+    "forks_count": 13941
+  },
+  {
     "full_name": "AIDevBytes/Streamlit-Ollama-Chatbot",
     "stargazers_count": 23,
     "open_issues_count": 0,
@@ -13,9 +61,9 @@
   },
   {
     "full_name": "meta-llama/codellama",
-    "stargazers_count": 16353,
+    "stargazers_count": 16352,
     "open_issues_count": 116,
-    "forks_count": 1924
+    "forks_count": 1925
   },
   {
     "full_name": "Open-Typer/Open-Typer",
@@ -25,21 +73,21 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 47919,
-    "open_issues_count": 629,
-    "forks_count": 6295
+    "stargazers_count": 48141,
+    "open_issues_count": 669,
+    "forks_count": 6362
   },
   {
     "full_name": "RooCodeInc/Roo-Code",
-    "stargazers_count": 17223,
-    "open_issues_count": 395,
-    "forks_count": 1897
+    "stargazers_count": 17393,
+    "open_issues_count": 419,
+    "forks_count": 1922
   },
   {
     "full_name": "allenai/olmocr",
-    "stargazers_count": 13268,
-    "open_issues_count": 30,
-    "forks_count": 966
+    "stargazers_count": 13295,
+    "open_issues_count": 11,
+    "forks_count": 971
   },
   {
     "full_name": "allenai/OLMo-core",
@@ -49,49 +97,49 @@
   },
   {
     "full_name": "sinanuozdemir/oreilly-huggingface-tour",
-    "stargazers_count": 54,
+    "stargazers_count": 55,
     "open_issues_count": 0,
     "forks_count": 35
   },
   {
     "full_name": "sinanuozdemir/oreilly-ai-agents",
-    "stargazers_count": 148,
-    "open_issues_count": 1,
-    "forks_count": 102
+    "stargazers_count": 156,
+    "open_issues_count": 0,
+    "forks_count": 108
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-samples",
-    "stargazers_count": 433,
-    "open_issues_count": 44,
-    "forks_count": 152
+    "stargazers_count": 440,
+    "open_issues_count": 45,
+    "forks_count": 154
   },
   {
     "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 5200,
-    "open_issues_count": 151,
-    "forks_count": 428
+    "stargazers_count": 5492,
+    "open_issues_count": 157,
+    "forks_count": 462
   },
   {
     "full_name": "kirodotdev/spirit-of-kiro",
-    "stargazers_count": 770,
-    "open_issues_count": 7,
-    "forks_count": 66
+    "stargazers_count": 785,
+    "open_issues_count": 8,
+    "forks_count": 69
   },
   {
     "full_name": "kirodotdev/Kiro",
-    "stargazers_count": 1265,
-    "open_issues_count": 757,
-    "forks_count": 42
+    "stargazers_count": 1425,
+    "open_issues_count": 752,
+    "forks_count": 53
   },
   {
     "full_name": "ghuntley/amazon-kiro.kiro-agent-source-code-analysis",
-    "stargazers_count": 180,
+    "stargazers_count": 224,
     "open_issues_count": 0,
-    "forks_count": 59
+    "forks_count": 76
   },
   {
     "full_name": "awsdataarchitect/ai-compliance-auditor",
-    "stargazers_count": 34,
+    "stargazers_count": 36,
     "open_issues_count": 1,
     "forks_count": 14
   },
@@ -103,15 +151,15 @@
   },
   {
     "full_name": "flutter/flutter",
-    "stargazers_count": 171488,
-    "open_issues_count": 12101,
-    "forks_count": 28874
+    "stargazers_count": 171513,
+    "open_issues_count": 12048,
+    "forks_count": 28897
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 62185,
-    "open_issues_count": 1329,
-    "forks_count": 5814
+    "stargazers_count": 63678,
+    "open_issues_count": 1397,
+    "forks_count": 6001
   },
   {
     "full_name": "ericwindmill/gemini_recipe_generation",
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "robbie-cahill/tunnelmole-client",
-    "stargazers_count": 1564,
+    "stargazers_count": 1566,
     "open_issues_count": 15,
     "forks_count": 100
   },
   {
     "full_name": "eclipse-sumo/sumo",
-    "stargazers_count": 2881,
-    "open_issues_count": 2821,
-    "forks_count": 1570
-  },
-  {
-    "full_name": "carla-simulator/carla-digitaltwins",
-    "stargazers_count": 5,
-    "open_issues_count": 17,
-    "forks_count": 4
-  },
-  {
-    "full_name": "carla-simulator/sumo",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "guardstrikelab/awesome-CARLA",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "NVIDIA/NeMo",
-    "stargazers_count": 15159,
-    "open_issues_count": 158,
-    "forks_count": 3007
-  },
-  {
-    "full_name": "NVIDIA/Dataset_Synthesizer",
-    "stargazers_count": 589,
-    "open_issues_count": 60,
-    "forks_count": 132
-  },
-  {
-    "full_name": "nolenroyalty/one-million-chessboards",
-    "stargazers_count": 123,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "eclipse-capella/capella",
-    "stargazers_count": 273,
-    "open_issues_count": 341,
-    "forks_count": 104
-  },
-  {
-    "full_name": "ModelioOpenSource/Modelio",
-    "stargazers_count": 878,
-    "open_issues_count": 69,
-    "forks_count": 139
+    "stargazers_count": 2885,
+    "open_issues_count": 2827,
+    "forks_count": 1572
   }
 ]
