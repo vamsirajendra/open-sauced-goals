@@ -1,105 +1,117 @@
 [
   {
+    "full_name": "dart-lang/sdk",
+    "stargazers_count": 10717,
+    "open_issues_count": 8211,
+    "forks_count": 1673
+  },
+  {
+    "full_name": "PacktPublishing/Building-LLM-Powered-Applications",
+    "stargazers_count": 343,
+    "open_issues_count": 5,
+    "forks_count": 154
+  },
+  {
     "full_name": "sajal2692/building_ai_agents_with_langgraph",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "sinanuozdemir/quick-start-guide-to-llms",
     "stargazers_count": 313,
     "open_issues_count": 2,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "superagent-ai/grok-cli",
-    "stargazers_count": 1328,
-    "open_issues_count": 13,
-    "forks_count": 162
+    "stargazers_count": 1371,
+    "open_issues_count": 12,
+    "forks_count": 168
   },
   {
     "full_name": "ggml-org/whisper.cpp",
-    "stargazers_count": 41918,
-    "open_issues_count": 989,
-    "forks_count": 4497
+    "stargazers_count": 41992,
+    "open_issues_count": 993,
+    "forks_count": 4513
   },
   {
     "full_name": "ggml-org/ggml",
-    "stargazers_count": 12901,
-    "open_issues_count": 309,
-    "forks_count": 1293
+    "stargazers_count": 12917,
+    "open_issues_count": 307,
+    "forks_count": 1299
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 19832,
-    "open_issues_count": 201,
-    "forks_count": 1762
+    "stargazers_count": 20130,
+    "open_issues_count": 202,
+    "forks_count": 1850
   },
   {
     "full_name": "cruzyjapan/Gemini-CLI-UI",
-    "stargazers_count": 242,
-    "open_issues_count": 9,
-    "forks_count": 68
+    "stargazers_count": 269,
+    "open_issues_count": 1,
+    "forks_count": 76
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 6599,
-    "open_issues_count": 102,
-    "forks_count": 484
+    "stargazers_count": 7267,
+    "open_issues_count": 121,
+    "forks_count": 549
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 10545,
-    "open_issues_count": 31,
-    "forks_count": 734
+    "stargazers_count": 11272,
+    "open_issues_count": 39,
+    "forks_count": 768
   },
   {
     "full_name": "webgiss/niolesk",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 6,
     "forks_count": 11
   },
   {
     "full_name": "docker/compose-for-agents",
-    "stargazers_count": 321,
+    "stargazers_count": 344,
     "open_issues_count": 4,
-    "forks_count": 85
+    "forks_count": 95
   },
   {
     "full_name": "langchain-ai/langgraph",
-    "stargazers_count": 16601,
-    "open_issues_count": 195,
-    "forks_count": 2847
+    "stargazers_count": 16797,
+    "open_issues_count": 198,
+    "forks_count": 2870
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 75448,
-    "open_issues_count": 839,
-    "forks_count": 4407
+    "stargazers_count": 75593,
+    "open_issues_count": 834,
+    "forks_count": 4418
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 15962,
-    "open_issues_count": 27,
-    "forks_count": 1180
+    "stargazers_count": 16224,
+    "open_issues_count": 34,
+    "forks_count": 1203
   },
   {
     "full_name": "LiveCodeBench/LiveCodeBench",
-    "stargazers_count": 607,
+    "stargazers_count": 615,
     "open_issues_count": 16,
-    "forks_count": 105
+    "forks_count": 108
   },
   {
     "full_name": "MoonshotAI/Kimi-K2",
-    "stargazers_count": 7405,
-    "open_issues_count": 18,
-    "forks_count": 478
+    "stargazers_count": 7523,
+    "open_issues_count": 22,
+    "forks_count": 487
   },
   {
     "full_name": "open-webui/open-webui",
-    "stargazers_count": 104712,
-    "open_issues_count": 283,
-    "forks_count": 14074
+    "stargazers_count": 105172,
+    "open_issues_count": 259,
+    "forks_count": 14141
   },
   {
     "full_name": "AIDevBytes/Streamlit-Ollama-Chatbot",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "meta-llama/codellama",
-    "stargazers_count": 16353,
+    "stargazers_count": 16355,
     "open_issues_count": 116,
     "forks_count": 1926
   },
@@ -127,26 +139,26 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 48472,
-    "open_issues_count": 514,
-    "forks_count": 6470
+    "stargazers_count": 48683,
+    "open_issues_count": 517,
+    "forks_count": 6536
   },
   {
     "full_name": "RooCodeInc/Roo-Code",
-    "stargazers_count": 17780,
-    "open_issues_count": 431,
-    "forks_count": 1970
+    "stargazers_count": 18035,
+    "open_issues_count": 480,
+    "forks_count": 1995
   },
   {
     "full_name": "allenai/olmocr",
-    "stargazers_count": 13407,
+    "stargazers_count": 13566,
     "open_issues_count": 15,
-    "forks_count": 986
+    "forks_count": 993
   },
   {
     "full_name": "allenai/OLMo-core",
     "stargazers_count": 269,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 51
   },
   {
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "sinanuozdemir/oreilly-ai-agents",
-    "stargazers_count": 159,
-    "open_issues_count": 0,
-    "forks_count": 113
+    "stargazers_count": 162,
+    "open_issues_count": 1,
+    "forks_count": 116
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-samples",
-    "stargazers_count": 450,
-    "open_issues_count": 45,
-    "forks_count": 157
-  },
-  {
-    "full_name": "Kilo-Org/kilocode",
-    "stargazers_count": 6110,
-    "open_issues_count": 181,
-    "forks_count": 527
-  },
-  {
-    "full_name": "kirodotdev/spirit-of-kiro",
-    "stargazers_count": 810,
-    "open_issues_count": 9,
-    "forks_count": 77
+    "stargazers_count": 456,
+    "open_issues_count": 42,
+    "forks_count": 163
   }
 ]
