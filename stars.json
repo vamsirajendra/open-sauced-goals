@@ -1,49 +1,61 @@
 [
   {
+    "full_name": "upstash/context7",
+    "stargazers_count": 25162,
+    "open_issues_count": 87,
+    "forks_count": 1276
+  },
+  {
+    "full_name": "outline/outline",
+    "stargazers_count": 34381,
+    "open_issues_count": 108,
+    "forks_count": 2779
+  },
+  {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 127739,
-    "open_issues_count": 980,
-    "forks_count": 39292
+    "stargazers_count": 128812,
+    "open_issues_count": 996,
+    "forks_count": 39747
   },
   {
     "full_name": "meta-llama/synthetic-data-kit",
-    "stargazers_count": 1110,
+    "stargazers_count": 1117,
     "open_issues_count": 27,
-    "forks_count": 135
+    "forks_count": 137
   },
   {
     "full_name": "ahujasid/blender-mcp",
-    "stargazers_count": 12798,
-    "open_issues_count": 31,
-    "forks_count": 1188
+    "stargazers_count": 12850,
+    "open_issues_count": 32,
+    "forks_count": 1194
   },
   {
     "full_name": "modelcontextprotocol/go-sdk",
-    "stargazers_count": 1462,
+    "stargazers_count": 1536,
     "open_issues_count": 59,
-    "forks_count": 115
+    "forks_count": 120
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 63371,
-    "open_issues_count": 305,
-    "forks_count": 7368
+    "stargazers_count": 63842,
+    "open_issues_count": 313,
+    "forks_count": 7430
   },
   {
     "full_name": "modelcontextprotocol/modelcontextprotocol",
-    "stargazers_count": 5058,
-    "open_issues_count": 307,
-    "forks_count": 849
+    "stargazers_count": 5129,
+    "open_issues_count": 309,
+    "forks_count": 869
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-API-Python-Client",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "Systems-Modeling/SysML-v2-API-Cookbook",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -51,41 +63,41 @@
     "full_name": "Systems-Modeling/SysML-v2-API-Services",
     "stargazers_count": 62,
     "open_issues_count": 13,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "weaviate/weaviate",
-    "stargazers_count": 14138,
-    "open_issues_count": 486,
-    "forks_count": 1030
+    "stargazers_count": 14163,
+    "open_issues_count": 491,
+    "forks_count": 1037
   },
   {
     "full_name": "google-ar/arcore-ios-sdk",
     "stargazers_count": 293,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "forks_count": 91
   },
   {
     "full_name": "google-ar/arcore-unity-extensions",
     "stargazers_count": 378,
     "open_issues_count": 148,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "google-ar/arcore-android-sdk",
-    "stargazers_count": 5106,
+    "stargazers_count": 5107,
     "open_issues_count": 412,
-    "forks_count": 1245
+    "forks_count": 1246
   },
   {
     "full_name": "dart-lang/sdk",
-    "stargazers_count": 10722,
-    "open_issues_count": 8207,
-    "forks_count": 1673
+    "stargazers_count": 10728,
+    "open_issues_count": 8217,
+    "forks_count": 1675
   },
   {
     "full_name": "PacktPublishing/Building-LLM-Powered-Applications",
-    "stargazers_count": 345,
+    "stargazers_count": 348,
     "open_issues_count": 5,
     "forks_count": 155
   },
@@ -93,55 +105,55 @@
     "full_name": "sajal2692/building_ai_agents_with_langgraph",
     "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "sinanuozdemir/quick-start-guide-to-llms",
-    "stargazers_count": 314,
+    "stargazers_count": 315,
     "open_issues_count": 2,
     "forks_count": 180
   },
   {
     "full_name": "superagent-ai/grok-cli",
-    "stargazers_count": 1392,
-    "open_issues_count": 14,
-    "forks_count": 174
+    "stargazers_count": 1431,
+    "open_issues_count": 16,
+    "forks_count": 175
   },
   {
     "full_name": "ggml-org/whisper.cpp",
-    "stargazers_count": 42090,
-    "open_issues_count": 995,
-    "forks_count": 4525
+    "stargazers_count": 42175,
+    "open_issues_count": 997,
+    "forks_count": 4539
   },
   {
     "full_name": "ggml-org/ggml",
-    "stargazers_count": 12955,
-    "open_issues_count": 307,
-    "forks_count": 1301
+    "stargazers_count": 12982,
+    "open_issues_count": 310,
+    "forks_count": 1306
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 20387,
-    "open_issues_count": 211,
-    "forks_count": 1899
+    "stargazers_count": 20626,
+    "open_issues_count": 210,
+    "forks_count": 1979
   },
   {
     "full_name": "cruzyjapan/Gemini-CLI-UI",
-    "stargazers_count": 282,
+    "stargazers_count": 292,
     "open_issues_count": 1,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "QwenLM/qwen-code",
-    "stargazers_count": 7621,
-    "open_issues_count": 135,
-    "forks_count": 577
+    "stargazers_count": 9177,
+    "open_issues_count": 188,
+    "forks_count": 657
   },
   {
     "full_name": "QwenLM/Qwen3-Coder",
-    "stargazers_count": 11528,
-    "open_issues_count": 45,
-    "forks_count": 787
+    "stargazers_count": 11808,
+    "open_issues_count": 52,
+    "forks_count": 801
   },
   {
     "full_name": "webgiss/niolesk",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "docker/compose-for-agents",
-    "stargazers_count": 367,
+    "stargazers_count": 380,
     "open_issues_count": 3,
-    "forks_count": 105
+    "forks_count": 114
   },
   {
     "full_name": "langchain-ai/langgraph",
-    "stargazers_count": 16967,
-    "open_issues_count": 209,
-    "forks_count": 2898
+    "stargazers_count": 17131,
+    "open_issues_count": 223,
+    "forks_count": 2929
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 75726,
-    "open_issues_count": 835,
-    "forks_count": 4428
-  },
-  {
-    "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 16474,
-    "open_issues_count": 32,
-    "forks_count": 1223
-  },
-  {
-    "full_name": "LiveCodeBench/LiveCodeBench",
-    "stargazers_count": 617,
-    "open_issues_count": 17,
-    "forks_count": 109
+    "stargazers_count": 75844,
+    "open_issues_count": 834,
+    "forks_count": 4443
   }
 ]
