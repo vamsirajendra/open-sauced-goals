@@ -1,15 +1,63 @@
 [
   {
+    "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "stargazers_count": 201,
+    "open_issues_count": 8,
+    "forks_count": 72
+  },
+  {
+    "full_name": "NVIDIA-AI-Blueprints/pdf-to-podcast",
+    "stargazers_count": 728,
+    "open_issues_count": 10,
+    "forks_count": 161
+  },
+  {
+    "full_name": "NVIDIA-AI-Blueprints/aiq-research-assistant",
+    "stargazers_count": 125,
+    "open_issues_count": 10,
+    "forks_count": 35
+  },
+  {
+    "full_name": "astral-sh/ruff",
+    "stargazers_count": 41826,
+    "open_issues_count": 1677,
+    "forks_count": 1495
+  },
+  {
+    "full_name": "astral-sh/uv",
+    "stargazers_count": 65469,
+    "open_issues_count": 2114,
+    "forks_count": 1912
+  },
+  {
+    "full_name": "NVIDIA/NeMo-Agent-Toolkit",
+    "stargazers_count": 1243,
+    "open_issues_count": 74,
+    "forks_count": 329
+  },
+  {
+    "full_name": "manycore-research/SpatialLM",
+    "stargazers_count": 3849,
+    "open_issues_count": 8,
+    "forks_count": 299
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "stargazers_count": 72133,
+    "open_issues_count": 352,
+    "forks_count": 3933
+  },
+  {
     "full_name": "leigest519/ScreenCoder",
-    "stargazers_count": 1936,
+    "stargazers_count": 2060,
     "open_issues_count": 6,
-    "forks_count": 164
+    "forks_count": 178
   },
   {
     "full_name": "modelcontextprotocol/inspector",
-    "stargazers_count": 5773,
-    "open_issues_count": 163,
-    "forks_count": 727
+    "stargazers_count": 5858,
+    "open_issues_count": 161,
+    "forks_count": 741
   },
   {
     "full_name": "agileandy/code-analysis",
@@ -25,21 +73,21 @@
   },
   {
     "full_name": "google-gemini/gemma-cookbook",
-    "stargazers_count": 2008,
+    "stargazers_count": 2017,
     "open_issues_count": 22,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 16440,
+    "stargazers_count": 16485,
     "open_issues_count": 44,
-    "forks_count": 2751
+    "forks_count": 2761
   },
   {
     "full_name": "langchain-ai/open-swe",
-    "stargazers_count": 4344,
-    "open_issues_count": 78,
-    "forks_count": 523
+    "stargazers_count": 4408,
+    "open_issues_count": 52,
+    "forks_count": 535
   },
   {
     "full_name": "GenOrca/unreal-mcpython",
@@ -55,128 +103,80 @@
   },
   {
     "full_name": "SpeculativeCoder/UnrealEngine-HTML5-ES3",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 0,
     "forks_count": 71
   },
   {
     "full_name": "chromiumembedded/cef",
-    "stargazers_count": 4052,
-    "open_issues_count": 216,
-    "forks_count": 524
+    "stargazers_count": 4057,
+    "open_issues_count": 218,
+    "forks_count": 525
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "stargazers_count": 290,
-    "open_issues_count": 27,
-    "forks_count": 95
+    "stargazers_count": 299,
+    "open_issues_count": 23,
+    "forks_count": 101
   },
   {
     "full_name": "iuliaturc/gguf-docs",
-    "stargazers_count": 238,
+    "stargazers_count": 243,
     "open_issues_count": 1,
     "forks_count": 23
   },
   {
     "full_name": "opf/openproject",
-    "stargazers_count": 11739,
-    "open_issues_count": 115,
-    "forks_count": 2719
+    "stargazers_count": 11746,
+    "open_issues_count": 119,
+    "forks_count": 2720
   },
   {
     "full_name": "upstash/context7",
-    "stargazers_count": 26245,
-    "open_issues_count": 83,
-    "forks_count": 1340
+    "stargazers_count": 26780,
+    "open_issues_count": 85,
+    "forks_count": 1364
   },
   {
     "full_name": "outline/outline",
-    "stargazers_count": 34582,
-    "open_issues_count": 107,
-    "forks_count": 2799
+    "stargazers_count": 34662,
+    "open_issues_count": 108,
+    "forks_count": 2809
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 130726,
+    "stargazers_count": 131622,
     "open_issues_count": 1058,
-    "forks_count": 40587
+    "forks_count": 40925
   },
   {
     "full_name": "meta-llama/synthetic-data-kit",
-    "stargazers_count": 1131,
+    "stargazers_count": 1136,
     "open_issues_count": 29,
-    "forks_count": 141
+    "forks_count": 143
   },
   {
     "full_name": "ahujasid/blender-mcp",
-    "stargazers_count": 12942,
-    "open_issues_count": 34,
-    "forks_count": 1208
+    "stargazers_count": 12963,
+    "open_issues_count": 28,
+    "forks_count": 1218
   },
   {
     "full_name": "modelcontextprotocol/go-sdk",
-    "stargazers_count": 1661,
-    "open_issues_count": 62,
-    "forks_count": 132
+    "stargazers_count": 1713,
+    "open_issues_count": 48,
+    "forks_count": 137
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 64799,
-    "open_issues_count": 223,
-    "forks_count": 7551
+    "stargazers_count": 65214,
+    "open_issues_count": 236,
+    "forks_count": 7607
   },
   {
     "full_name": "modelcontextprotocol/modelcontextprotocol",
-    "stargazers_count": 5235,
-    "open_issues_count": 319,
-    "forks_count": 889
-  },
-  {
-    "full_name": "Systems-Modeling/SysML-v2-API-Python-Client",
-    "stargazers_count": 49,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Systems-Modeling/SysML-v2-API-Cookbook",
-    "stargazers_count": 42,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Systems-Modeling/SysML-v2-API-Services",
-    "stargazers_count": 63,
-    "open_issues_count": 13,
-    "forks_count": 24
-  },
-  {
-    "full_name": "weaviate/weaviate",
-    "stargazers_count": 14236,
-    "open_issues_count": 499,
-    "forks_count": 1044
-  },
-  {
-    "full_name": "google-ar/arcore-ios-sdk",
-    "stargazers_count": 293,
-    "open_issues_count": 37,
-    "forks_count": 91
-  },
-  {
-    "full_name": "google-ar/arcore-unity-extensions",
-    "stargazers_count": 379,
-    "open_issues_count": 149,
-    "forks_count": 103
-  },
-  {
-    "full_name": "google-ar/arcore-android-sdk",
-    "stargazers_count": 5109,
-    "open_issues_count": 413,
-    "forks_count": 1245
-  },
-  {
-    "full_name": "dart-lang/sdk",
-    "stargazers_count": 10736,
-    "open_issues_count": 8235,
-    "forks_count": 1675
+    "stargazers_count": 5310,
+    "open_issues_count": 330,
+    "forks_count": 903
   }
 ]
