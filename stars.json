@@ -1,9 +1,51 @@
 [
   {
+    "full_name": "dreamworksanimation/openmoonray",
+    "stargazers_count": 4486,
+    "open_issues_count": 59,
+    "forks_count": 277
+  },
+  {
+    "full_name": "AcademySoftwareFoundation/OpenTimelineIO",
+    "stargazers_count": 1642,
+    "open_issues_count": 228,
+    "forks_count": 307
+  },
+  {
+    "full_name": "PixarAnimationStudios/OpenSubdiv",
+    "stargazers_count": 2995,
+    "open_issues_count": 54,
+    "forks_count": 579
+  },
+  {
+    "full_name": "zotero/dataserver",
+    "stargazers_count": 308,
+    "open_issues_count": 90,
+    "forks_count": 79
+  },
+  {
+    "full_name": "zotero/zotero",
+    "stargazers_count": 12246,
+    "open_issues_count": 1559,
+    "forks_count": 874
+  },
+  {
+    "full_name": "anthropics/claude-code",
+    "stargazers_count": 31839,
+    "open_issues_count": 2865,
+    "forks_count": 1899
+  },
+  {
+    "full_name": "automazeio/ccpm",
+    "stargazers_count": 3177,
+    "open_issues_count": 23,
+    "forks_count": 308
+  },
+  {
     "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "stargazers_count": 207,
-    "open_issues_count": 8,
-    "forks_count": 70
+    "stargazers_count": 211,
+    "open_issues_count": 10,
+    "forks_count": 72
   },
   {
     "full_name": "NVIDIA-AI-Blueprints/pdf-to-podcast",
@@ -13,51 +55,51 @@
   },
   {
     "full_name": "NVIDIA-AI-Blueprints/aiq-research-assistant",
-    "stargazers_count": 133,
-    "open_issues_count": 9,
-    "forks_count": 38
+    "stargazers_count": 142,
+    "open_issues_count": 10,
+    "forks_count": 42
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 41947,
-    "open_issues_count": 1691,
-    "forks_count": 1501
+    "stargazers_count": 42041,
+    "open_issues_count": 1690,
+    "forks_count": 1509
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 65811,
-    "open_issues_count": 2128,
-    "forks_count": 1930
+    "stargazers_count": 66095,
+    "open_issues_count": 2129,
+    "forks_count": 1945
   },
   {
     "full_name": "NVIDIA/NeMo-Agent-Toolkit",
-    "stargazers_count": 1269,
-    "open_issues_count": 73,
-    "forks_count": 337
+    "stargazers_count": 1287,
+    "open_issues_count": 71,
+    "forks_count": 346
   },
   {
     "full_name": "manycore-research/SpatialLM",
-    "stargazers_count": 3866,
-    "open_issues_count": 8,
-    "forks_count": 301
+    "stargazers_count": 3904,
+    "open_issues_count": 6,
+    "forks_count": 302
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 72283,
-    "open_issues_count": 351,
-    "forks_count": 3943
+    "stargazers_count": 72424,
+    "open_issues_count": 333,
+    "forks_count": 3962
   },
   {
     "full_name": "leigest519/ScreenCoder",
-    "stargazers_count": 2131,
+    "stargazers_count": 2176,
     "open_issues_count": 7,
-    "forks_count": 186
+    "forks_count": 192
   },
   {
     "full_name": "modelcontextprotocol/inspector",
-    "stargazers_count": 5927,
-    "open_issues_count": 166,
-    "forks_count": 746
+    "stargazers_count": 6003,
+    "open_issues_count": 169,
+    "forks_count": 760
   },
   {
     "full_name": "agileandy/code-analysis",
@@ -73,21 +115,21 @@
   },
   {
     "full_name": "google-gemini/gemma-cookbook",
-    "stargazers_count": 2032,
-    "open_issues_count": 22,
+    "stargazers_count": 2033,
+    "open_issues_count": 23,
     "forks_count": 312
   },
   {
     "full_name": "google-gemini/gemini-fullstack-langgraph-quickstart",
-    "stargazers_count": 16539,
-    "open_issues_count": 45,
-    "forks_count": 2772
+    "stargazers_count": 16579,
+    "open_issues_count": 46,
+    "forks_count": 2778
   },
   {
     "full_name": "langchain-ai/open-swe",
-    "stargazers_count": 4453,
-    "open_issues_count": 59,
-    "forks_count": 556
+    "stargazers_count": 4506,
+    "open_issues_count": 55,
+    "forks_count": 566
   },
   {
     "full_name": "GenOrca/unreal-mcpython",
@@ -103,80 +145,38 @@
   },
   {
     "full_name": "SpeculativeCoder/UnrealEngine-HTML5-ES3",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 0,
     "forks_count": 71
   },
   {
     "full_name": "chromiumembedded/cef",
-    "stargazers_count": 4061,
-    "open_issues_count": 218,
-    "forks_count": 526
+    "stargazers_count": 4068,
+    "open_issues_count": 217,
+    "forks_count": 527
   },
   {
     "full_name": "GoogleCloudPlatform/vertex-ai-creative-studio",
-    "stargazers_count": 305,
-    "open_issues_count": 30,
-    "forks_count": 101
+    "stargazers_count": 316,
+    "open_issues_count": 27,
+    "forks_count": 104
   },
   {
     "full_name": "iuliaturc/gguf-docs",
-    "stargazers_count": 249,
+    "stargazers_count": 251,
     "open_issues_count": 1,
     "forks_count": 24
   },
   {
     "full_name": "opf/openproject",
-    "stargazers_count": 11816,
-    "open_issues_count": 118,
-    "forks_count": 2731
+    "stargazers_count": 12268,
+    "open_issues_count": 112,
+    "forks_count": 2766
   },
   {
     "full_name": "upstash/context7",
-    "stargazers_count": 27349,
-    "open_issues_count": 89,
-    "forks_count": 1384
-  },
-  {
-    "full_name": "outline/outline",
-    "stargazers_count": 34741,
-    "open_issues_count": 105,
-    "forks_count": 2814
-  },
-  {
-    "full_name": "n8n-io/n8n",
-    "stargazers_count": 132627,
-    "open_issues_count": 1094,
-    "forks_count": 41299
-  },
-  {
-    "full_name": "meta-llama/synthetic-data-kit",
-    "stargazers_count": 1145,
-    "open_issues_count": 29,
-    "forks_count": 146
-  },
-  {
-    "full_name": "ahujasid/blender-mcp",
-    "stargazers_count": 13000,
-    "open_issues_count": 27,
-    "forks_count": 1221
-  },
-  {
-    "full_name": "modelcontextprotocol/go-sdk",
-    "stargazers_count": 1765,
-    "open_issues_count": 46,
-    "forks_count": 144
-  },
-  {
-    "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 65680,
-    "open_issues_count": 217,
-    "forks_count": 7683
-  },
-  {
-    "full_name": "modelcontextprotocol/modelcontextprotocol",
-    "stargazers_count": 5359,
-    "open_issues_count": 325,
-    "forks_count": 917
+    "stargazers_count": 27877,
+    "open_issues_count": 94,
+    "forks_count": 1408
   }
 ]
