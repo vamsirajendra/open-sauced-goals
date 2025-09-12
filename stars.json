@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "unslothai/unsloth",
+    "stargazers_count": 45366,
+    "open_issues_count": 824,
+    "forks_count": 3685
+  },
+  {
+    "full_name": "CodebuffAI/codebuff",
+    "stargazers_count": 897,
+    "open_issues_count": 18,
+    "forks_count": 124
+  },
+  {
+    "full_name": "pages-themes/architect",
+    "stargazers_count": 358,
+    "open_issues_count": 23,
+    "forks_count": 891
+  },
+  {
     "full_name": "games-on-whales/gow",
     "stargazers_count": 571,
     "open_issues_count": 19,
-    "forks_count": 93
+    "forks_count": 92
   },
   {
     "full_name": "games-on-whales/wolf",
@@ -13,15 +31,15 @@
   },
   {
     "full_name": "elFarto/nvidia-vaapi-driver",
-    "stargazers_count": 1444,
+    "stargazers_count": 1447,
     "open_issues_count": 39,
     "forks_count": 65
   },
   {
     "full_name": "ClassicOldSong/Apollo",
-    "stargazers_count": 5463,
+    "stargazers_count": 5514,
     "open_issues_count": 120,
-    "forks_count": 129
+    "forks_count": 131
   },
   {
     "full_name": "git-big-picture/git-big-picture",
@@ -31,39 +49,39 @@
   },
   {
     "full_name": "moonlight-stream/moonlight-qt",
-    "stargazers_count": 14337,
-    "open_issues_count": 505,
-    "forks_count": 824
+    "stargazers_count": 14372,
+    "open_issues_count": 507,
+    "forks_count": 825
   },
   {
     "full_name": "LizardByte/Sunshine",
-    "stargazers_count": 28714,
-    "open_issues_count": 118,
-    "forks_count": 1354
+    "stargazers_count": 28782,
+    "open_issues_count": 108,
+    "forks_count": 1357
   },
   {
     "full_name": "googleforgames/agones",
-    "stargazers_count": 6467,
-    "open_issues_count": 56,
+    "stargazers_count": 6472,
+    "open_issues_count": 55,
     "forks_count": 862
   },
   {
     "full_name": "vllm-project/vllm",
-    "stargazers_count": 57486,
-    "open_issues_count": 2959,
-    "forks_count": 9985
+    "stargazers_count": 57750,
+    "open_issues_count": 2941,
+    "forks_count": 10058
   },
   {
     "full_name": "iamaisim/ProjectAirSim",
-    "stargazers_count": 236,
-    "open_issues_count": 16,
+    "stargazers_count": 246,
+    "open_issues_count": 17,
     "forks_count": 23
   },
   {
     "full_name": "pbek/QOwnNotes",
-    "stargazers_count": 5270,
-    "open_issues_count": 158,
-    "forks_count": 447
+    "stargazers_count": 5281,
+    "open_issues_count": 157,
+    "forks_count": 448
   },
   {
     "full_name": "game-ci/documentation",
@@ -73,49 +91,49 @@
   },
   {
     "full_name": "gazebosim/gz-sim",
-    "stargazers_count": 1020,
+    "stargazers_count": 1022,
     "open_issues_count": 473,
     "forks_count": 337
   },
   {
     "full_name": "OGRECave/ogre",
-    "stargazers_count": 4346,
-    "open_issues_count": 162,
-    "forks_count": 1026
+    "stargazers_count": 4349,
+    "open_issues_count": 164,
+    "forks_count": 1027
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 206781,
+    "stargazers_count": 206891,
     "open_issues_count": 395,
-    "forks_count": 47749
+    "forks_count": 47756
   },
   {
     "full_name": "processing/p5.js",
-    "stargazers_count": 22934,
-    "open_issues_count": 419,
-    "forks_count": 3565
+    "stargazers_count": 22944,
+    "open_issues_count": 416,
+    "forks_count": 3567
   },
   {
     "full_name": "ghuntley/how-to-build-a-coding-agent",
-    "stargazers_count": 3359,
+    "stargazers_count": 3368,
     "open_issues_count": 3,
-    "forks_count": 378
+    "forks_count": 380
   },
   {
     "full_name": "dreamworksanimation/openmoonray",
-    "stargazers_count": 4491,
+    "stargazers_count": 4494,
     "open_issues_count": 60,
     "forks_count": 278
   },
   {
     "full_name": "AcademySoftwareFoundation/OpenTimelineIO",
-    "stargazers_count": 1652,
-    "open_issues_count": 230,
+    "stargazers_count": 1654,
+    "open_issues_count": 228,
     "forks_count": 309
   },
   {
     "full_name": "PixarAnimationStudios/OpenSubdiv",
-    "stargazers_count": 2997,
+    "stargazers_count": 2998,
     "open_issues_count": 54,
     "forks_count": 580
   },
@@ -127,56 +145,38 @@
   },
   {
     "full_name": "zotero/zotero",
-    "stargazers_count": 12308,
-    "open_issues_count": 1560,
+    "stargazers_count": 12330,
+    "open_issues_count": 1555,
     "forks_count": 878
   },
   {
     "full_name": "anthropics/claude-code",
-    "stargazers_count": 32911,
-    "open_issues_count": 3080,
-    "forks_count": 2015
+    "stargazers_count": 33170,
+    "open_issues_count": 3159,
+    "forks_count": 2032
   },
   {
     "full_name": "automazeio/ccpm",
-    "stargazers_count": 4291,
-    "open_issues_count": 85,
-    "forks_count": 453
+    "stargazers_count": 4488,
+    "open_issues_count": 87,
+    "forks_count": 477
   },
   {
     "full_name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "stargazers_count": 225,
-    "open_issues_count": 10,
-    "forks_count": 73
+    "stargazers_count": 235,
+    "open_issues_count": 9,
+    "forks_count": 75
   },
   {
     "full_name": "NVIDIA-AI-Blueprints/pdf-to-podcast",
-    "stargazers_count": 732,
-    "open_issues_count": 10,
-    "forks_count": 161
+    "stargazers_count": 733,
+    "open_issues_count": 12,
+    "forks_count": 162
   },
   {
     "full_name": "NVIDIA-AI-Blueprints/aiq-research-assistant",
-    "stargazers_count": 160,
-    "open_issues_count": 8,
-    "forks_count": 49
-  },
-  {
-    "full_name": "astral-sh/ruff",
-    "stargazers_count": 42298,
-    "open_issues_count": 1710,
-    "forks_count": 1523
-  },
-  {
-    "full_name": "astral-sh/uv",
-    "stargazers_count": 67006,
-    "open_issues_count": 2153,
-    "forks_count": 1992
-  },
-  {
-    "full_name": "NVIDIA/NeMo-Agent-Toolkit",
-    "stargazers_count": 1328,
-    "open_issues_count": 77,
-    "forks_count": 355
+    "stargazers_count": 163,
+    "open_issues_count": 9,
+    "forks_count": 50
   }
 ]
