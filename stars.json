@@ -1,56 +1,110 @@
 [
   {
+    "full_name": "basecamp/omarchy",
+    "stargazers_count": 8608,
+    "open_issues_count": 230,
+    "forks_count": 953
+  },
+  {
+    "full_name": "modelcontextprotocol/registry",
+    "stargazers_count": 4700,
+    "open_issues_count": 59,
+    "forks_count": 344
+  },
+  {
+    "full_name": "ReduxST/UE5.6-Markdown-Docs",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "CoplayDev/unity-mcp",
+    "stargazers_count": 3200,
+    "open_issues_count": 28,
+    "forks_count": 419
+  },
+  {
+    "full_name": "CoplayDev/coplay-unity-plugin",
+    "stargazers_count": 39,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "WiVRn/WiVRn",
+    "stargazers_count": 754,
+    "open_issues_count": 62,
+    "forks_count": 89
+  },
+  {
+    "full_name": "googleapis/gcloud-mcp",
+    "stargazers_count": 416,
+    "open_issues_count": 30,
+    "forks_count": 38
+  },
+  {
+    "full_name": "NVIDIA-Omniverse/LearnOpenUSD",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "NVIDIA-Omniverse/OpenUSD-Code-Samples",
+    "stargazers_count": 81,
+    "open_issues_count": 10,
+    "forks_count": 21
+  },
+  {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 20267,
-    "open_issues_count": 800,
-    "forks_count": 715
+    "stargazers_count": 20328,
+    "open_issues_count": 805,
+    "forks_count": 718
   },
   {
     "full_name": "jroimartin/gocui",
-    "stargazers_count": 10376,
+    "stargazers_count": 10381,
     "open_issues_count": 60,
     "forks_count": 623
   },
   {
     "full_name": "podman-desktop/podman-desktop",
-    "stargazers_count": 6471,
-    "open_issues_count": 577,
+    "stargazers_count": 6483,
+    "open_issues_count": 572,
     "forks_count": 443
   },
   {
     "full_name": "jesseduffield/lazynpm",
-    "stargazers_count": 776,
+    "stargazers_count": 777,
     "open_issues_count": 15,
     "forks_count": 34
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 64831,
-    "open_issues_count": 784,
-    "forks_count": 2237
+    "stargazers_count": 64935,
+    "open_issues_count": 789,
+    "forks_count": 2241
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 46159,
+    "stargazers_count": 46243,
     "open_issues_count": 225,
-    "forks_count": 1451
+    "forks_count": 1452
   },
   {
     "full_name": "NVIDIA/GenerativeAIExamples",
-    "stargazers_count": 3408,
+    "stargazers_count": 3413,
     "open_issues_count": 68,
-    "forks_count": 833
+    "forks_count": 836
   },
   {
     "full_name": "NVIDIA/cuopt",
-    "stargazers_count": 420,
-    "open_issues_count": 118,
+    "stargazers_count": 424,
+    "open_issues_count": 113,
     "forks_count": 71
   },
   {
     "full_name": "NVIDIA/nvidia-container-toolkit",
-    "stargazers_count": 3662,
-    "open_issues_count": 417,
+    "stargazers_count": 3669,
+    "open_issues_count": 418,
     "forks_count": 412
   },
   {
@@ -61,45 +115,45 @@
   },
   {
     "full_name": "texstudio-org/texstudio",
-    "stargazers_count": 3201,
-    "open_issues_count": 468,
+    "stargazers_count": 3207,
+    "open_issues_count": 459,
     "forks_count": 369
   },
   {
     "full_name": "lutris/lutris",
-    "stargazers_count": 8997,
+    "stargazers_count": 9003,
     "open_issues_count": 396,
-    "forks_count": 763
+    "forks_count": 764
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 176733,
-    "open_issues_count": 13407,
-    "forks_count": 35036
+    "stargazers_count": 176817,
+    "open_issues_count": 13560,
+    "forks_count": 35077
   },
   {
     "full_name": "GoogleCloudPlatform/compute-archlinux-image-builder",
-    "stargazers_count": 286,
+    "stargazers_count": 283,
     "open_issues_count": 3,
     "forks_count": 59
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 12930,
-    "open_issues_count": 182,
-    "forks_count": 361
+    "stargazers_count": 13019,
+    "open_issues_count": 188,
+    "forks_count": 364
   },
   {
     "full_name": "hyprwm/Hyprland",
-    "stargazers_count": 30277,
-    "open_issues_count": 109,
-    "forks_count": 1330
+    "stargazers_count": 30348,
+    "open_issues_count": 114,
+    "forks_count": 1334
   },
   {
     "full_name": "flutter/genui",
-    "stargazers_count": 511,
-    "open_issues_count": 38,
-    "forks_count": 36
+    "stargazers_count": 538,
+    "open_issues_count": 39,
+    "forks_count": 37
   },
   {
     "full_name": "kubeflow/website",
@@ -111,72 +165,18 @@
     "full_name": "google/docsy-example",
     "stargazers_count": 525,
     "open_issues_count": 20,
-    "forks_count": 729
+    "forks_count": 730
   },
   {
     "full_name": "actions/deploy-pages",
-    "stargazers_count": 808,
+    "stargazers_count": 810,
     "open_issues_count": 28,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "markmap/markmap",
-    "stargazers_count": 11773,
+    "stargazers_count": 11792,
     "open_issues_count": 50,
-    "forks_count": 871
-  },
-  {
-    "full_name": "google/docsy",
-    "stargazers_count": 2817,
-    "open_issues_count": 272,
-    "forks_count": 948
-  },
-  {
-    "full_name": "firebase/genkit",
-    "stargazers_count": 3569,
-    "open_issues_count": 666,
-    "forks_count": 412
-  },
-  {
-    "full_name": "peaceiris/actions-gh-pages",
-    "stargazers_count": 5091,
-    "open_issues_count": 86,
-    "forks_count": 429
-  },
-  {
-    "full_name": "sytsereitsma/mdbook-plantuml",
-    "stargazers_count": 86,
-    "open_issues_count": 7,
-    "forks_count": 18
-  },
-  {
-    "full_name": "toml-lang/toml",
-    "stargazers_count": 20059,
-    "open_issues_count": 19,
-    "forks_count": 871
-  },
-  {
-    "full_name": "cognitive-engineering-lab/rust-book",
-    "stargazers_count": 889,
-    "open_issues_count": 116,
-    "forks_count": 147
-  },
-  {
-    "full_name": "rust-lang/rust",
-    "stargazers_count": 106492,
-    "open_issues_count": 11527,
-    "forks_count": 13737
-  },
-  {
-    "full_name": "rust-lang/book",
-    "stargazers_count": 16642,
-    "open_issues_count": 290,
-    "forks_count": 3778
-  },
-  {
-    "full_name": "oven-sh/bun",
-    "stargazers_count": 80380,
-    "open_issues_count": 5252,
-    "forks_count": 3319
+    "forks_count": 872
   }
 ]
