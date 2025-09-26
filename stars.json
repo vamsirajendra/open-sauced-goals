@@ -1,9 +1,135 @@
 [
   {
+    "full_name": "H3rmt/hyprshell",
+    "stargazers_count": 448,
+    "open_issues_count": 15,
+    "forks_count": 23
+  },
+  {
+    "full_name": "hyprland-community/awesome-hyprland",
+    "stargazers_count": 4188,
+    "open_issues_count": 12,
+    "forks_count": 101
+  },
+  {
+    "full_name": "openupm/openupm",
+    "stargazers_count": 1784,
+    "open_issues_count": 20,
+    "forks_count": 1006
+  },
+  {
+    "full_name": "xero/figlet-fonts",
+    "stargazers_count": 1361,
+    "open_issues_count": 6,
+    "forks_count": 289
+  },
+  {
+    "full_name": "cacalabs/toilet",
+    "stargazers_count": 277,
+    "open_issues_count": 7,
+    "forks_count": 38
+  },
+  {
+    "full_name": "abenz1267/walker",
+    "stargazers_count": 1504,
+    "open_issues_count": 10,
+    "forks_count": 57
+  },
+  {
+    "full_name": "Supreeeme/xrizer",
+    "stargazers_count": 122,
+    "open_issues_count": 61,
+    "forks_count": 34
+  },
+  {
+    "full_name": "galister/wlx-overlay-s",
+    "stargazers_count": 480,
+    "open_issues_count": 56,
+    "forks_count": 53
+  },
+  {
+    "full_name": "chaosmaou/wivrn-guide",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "darrenburns/posting",
+    "stargazers_count": 10211,
+    "open_issues_count": 48,
+    "forks_count": 202
+  },
+  {
+    "full_name": "facebookincubator/below",
+    "stargazers_count": 1753,
+    "open_issues_count": 21,
+    "forks_count": 86
+  },
+  {
+    "full_name": "ValveSoftware/Proton",
+    "stargazers_count": 27773,
+    "open_issues_count": 4800,
+    "forks_count": 1212
+  },
+  {
+    "full_name": "nvim-lua/kickstart.nvim",
+    "stargazers_count": 27341,
+    "open_issues_count": 75,
+    "forks_count": 39821
+  },
+  {
+    "full_name": "nvim-telescope/telescope.nvim",
+    "stargazers_count": 18298,
+    "open_issues_count": 495,
+    "forks_count": 912
+  },
+  {
+    "full_name": "neovim/neovim",
+    "stargazers_count": 93000,
+    "open_issues_count": 1996,
+    "forks_count": 6340
+  },
+  {
+    "full_name": "typecraft-dev/dotfiles",
+    "stargazers_count": 1109,
+    "open_issues_count": 14,
+    "forks_count": 218
+  },
+  {
+    "full_name": "swaywm/sway",
+    "stargazers_count": 15974,
+    "open_issues_count": 1255,
+    "forks_count": 1188
+  },
+  {
+    "full_name": "TheZoraiz/ascii-image-converter",
+    "stargazers_count": 2828,
+    "open_issues_count": 20,
+    "forks_count": 165
+  },
+  {
+    "full_name": "archlinux/archinstall",
+    "stargazers_count": 7343,
+    "open_issues_count": 203,
+    "forks_count": 649
+  },
+  {
+    "full_name": "mhmzdev/figma-flutter-mcp",
+    "stargazers_count": 74,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Alexays/Waybar",
+    "stargazers_count": 9253,
+    "open_issues_count": 1216,
+    "forks_count": 893
+  },
+  {
     "full_name": "rails/rails",
-    "stargazers_count": 57595,
-    "open_issues_count": 1296,
-    "forks_count": 21976
+    "stargazers_count": 57607,
+    "open_issues_count": 1295,
+    "forks_count": 21985
   },
   {
     "full_name": "bartowski1182/koboldcpp-docker",
@@ -13,170 +139,44 @@
   },
   {
     "full_name": "LostRuins/koboldcpp",
-    "stargazers_count": 8510,
-    "open_issues_count": 363,
-    "forks_count": 546
+    "stargazers_count": 8588,
+    "open_issues_count": 364,
+    "forks_count": 555
   },
   {
     "full_name": "basecamp/omakub",
-    "stargazers_count": 7521,
-    "open_issues_count": 22,
+    "stargazers_count": 7541,
+    "open_issues_count": 21,
     "forks_count": 750
   },
   {
     "full_name": "JaKooLit/Hyprland-Dots",
-    "stargazers_count": 2650,
+    "stargazers_count": 2662,
     "open_issues_count": 5,
-    "forks_count": 288
+    "forks_count": 290
   },
   {
     "full_name": "JaKooLit/Arch-Hyprland",
-    "stargazers_count": 3617,
-    "open_issues_count": 1,
+    "stargazers_count": 3634,
+    "open_issues_count": 2,
     "forks_count": 314
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 45488,
-    "open_issues_count": 3113,
-    "forks_count": 3846
+    "stargazers_count": 45540,
+    "open_issues_count": 3120,
+    "forks_count": 3855
   },
   {
     "full_name": "alvr-org/ALVR",
-    "stargazers_count": 6686,
+    "stargazers_count": 6700,
     "open_issues_count": 166,
-    "forks_count": 571
+    "forks_count": 570
   },
   {
     "full_name": "jdx/usage",
-    "stargazers_count": 380,
+    "stargazers_count": 382,
     "open_issues_count": 21,
     "forks_count": 17
-  },
-  {
-    "full_name": "jdx/mise",
-    "stargazers_count": 19464,
-    "open_issues_count": 47,
-    "forks_count": 642
-  },
-  {
-    "full_name": "rothgar/awesome-tuis",
-    "stargazers_count": 13048,
-    "open_issues_count": 8,
-    "forks_count": 518
-  },
-  {
-    "full_name": "ifd3f/caligula",
-    "stargazers_count": 1214,
-    "open_issues_count": 40,
-    "forks_count": 18
-  },
-  {
-    "full_name": "tldraw/tldraw",
-    "stargazers_count": 42487,
-    "open_issues_count": 272,
-    "forks_count": 2736
-  },
-  {
-    "full_name": "basecamp/omarchy",
-    "stargazers_count": 9396,
-    "open_issues_count": 298,
-    "forks_count": 1000
-  },
-  {
-    "full_name": "modelcontextprotocol/registry",
-    "stargazers_count": 4969,
-    "open_issues_count": 65,
-    "forks_count": 366
-  },
-  {
-    "full_name": "ReduxST/UE5.6-Markdown-Docs",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "CoplayDev/unity-mcp",
-    "stargazers_count": 3232,
-    "open_issues_count": 28,
-    "forks_count": 426
-  },
-  {
-    "full_name": "CoplayDev/coplay-unity-plugin",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "WiVRn/WiVRn",
-    "stargazers_count": 759,
-    "open_issues_count": 69,
-    "forks_count": 91
-  },
-  {
-    "full_name": "googleapis/gcloud-mcp",
-    "stargazers_count": 426,
-    "open_issues_count": 31,
-    "forks_count": 38
-  },
-  {
-    "full_name": "NVIDIA-Omniverse/LearnOpenUSD",
-    "stargazers_count": 23,
-    "open_issues_count": 4,
-    "forks_count": 3
-  },
-  {
-    "full_name": "NVIDIA-Omniverse/OpenUSD-Code-Samples",
-    "stargazers_count": 81,
-    "open_issues_count": 10,
-    "forks_count": 21
-  },
-  {
-    "full_name": "jj-vcs/jj",
-    "stargazers_count": 20438,
-    "open_issues_count": 803,
-    "forks_count": 720
-  },
-  {
-    "full_name": "jroimartin/gocui",
-    "stargazers_count": 10387,
-    "open_issues_count": 60,
-    "forks_count": 622
-  },
-  {
-    "full_name": "podman-desktop/podman-desktop",
-    "stargazers_count": 6496,
-    "open_issues_count": 602,
-    "forks_count": 447
-  },
-  {
-    "full_name": "jesseduffield/lazynpm",
-    "stargazers_count": 778,
-    "open_issues_count": 15,
-    "forks_count": 34
-  },
-  {
-    "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 65048,
-    "open_issues_count": 791,
-    "forks_count": 2249
-  },
-  {
-    "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 46308,
-    "open_issues_count": 226,
-    "forks_count": 1455
-  },
-  {
-    "full_name": "NVIDIA/GenerativeAIExamples",
-    "stargazers_count": 3422,
-    "open_issues_count": 68,
-    "forks_count": 843
-  },
-  {
-    "full_name": "NVIDIA/cuopt",
-    "stargazers_count": 427,
-    "open_issues_count": 111,
-    "forks_count": 72
   }
 ]
