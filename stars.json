@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "eclipse-syson/syson",
+    "stargazers_count": 215,
+    "open_issues_count": 92,
+    "forks_count": 60
+  },
+  {
     "full_name": "osmcode/pyosmium",
     "stargazers_count": 365,
     "open_issues_count": 12,
@@ -7,45 +13,45 @@
   },
   {
     "full_name": "JaydenMaalouf/JoystickPlugin",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 14,
     "forks_count": 11
   },
   {
     "full_name": "Jorl17/open-elevation",
-    "stargazers_count": 757,
+    "stargazers_count": 758,
     "open_issues_count": 43,
     "forks_count": 180
   },
   {
     "full_name": "steveklabnik/jujutsu-tutorial",
-    "stargazers_count": 345,
+    "stargazers_count": 347,
     "open_issues_count": 13,
     "forks_count": 51
   },
   {
     "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 9634,
-    "open_issues_count": 37,
-    "forks_count": 952
+    "stargazers_count": 9864,
+    "open_issues_count": 38,
+    "forks_count": 983
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "stargazers_count": 644,
-    "open_issues_count": 6,
-    "forks_count": 43
+    "stargazers_count": 732,
+    "open_issues_count": 7,
+    "forks_count": 50
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 21318,
-    "open_issues_count": 217,
-    "forks_count": 4266
+    "stargazers_count": 21363,
+    "open_issues_count": 221,
+    "forks_count": 4271
   },
   {
     "full_name": "google/perfetto",
-    "stargazers_count": 4905,
-    "open_issues_count": 159,
-    "forks_count": 612
+    "stargazers_count": 4917,
+    "open_issues_count": 155,
+    "forks_count": 614
   },
   {
     "full_name": "dawbarton/pdf2svg",
@@ -55,33 +61,33 @@
   },
   {
     "full_name": "VERT-sh/VERT",
-    "stargazers_count": 8713,
-    "open_issues_count": 22,
-    "forks_count": 416
+    "stargazers_count": 8763,
+    "open_issues_count": 23,
+    "forks_count": 419
   },
   {
     "full_name": "Andeskjerf/waybar-module-pomodoro",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "Morganamilo/paru",
-    "stargazers_count": 7566,
-    "open_issues_count": 138,
-    "forks_count": 269
+    "stargazers_count": 7583,
+    "open_issues_count": 141,
+    "forks_count": 271
   },
   {
     "full_name": "grizzlypeak3d/DJV",
-    "stargazers_count": 878,
-    "open_issues_count": 152,
+    "stargazers_count": 880,
+    "open_issues_count": 147,
     "forks_count": 65
   },
   {
     "full_name": "brave/brave-browser",
-    "stargazers_count": 20627,
-    "open_issues_count": 9898,
-    "forks_count": 2809
+    "stargazers_count": 20651,
+    "open_issues_count": 9899,
+    "forks_count": 2818
   },
   {
     "full_name": "AchetaGames/Epic-Asset-Manager",
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "GoogleCloudPlatform/compute-image-tools",
-    "stargazers_count": 213,
+    "stargazers_count": 212,
     "open_issues_count": 21,
-    "forks_count": 159
+    "forks_count": 157
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 45670,
-    "open_issues_count": 435,
-    "forks_count": 3923
+    "stargazers_count": 46996,
+    "open_issues_count": 449,
+    "forks_count": 3997
   },
   {
     "full_name": "st-tech/ppf-contact-solver",
-    "stargazers_count": 1450,
+    "stargazers_count": 1472,
     "open_issues_count": 0,
-    "forks_count": 76
+    "forks_count": 79
   },
   {
     "full_name": "OSMBuildings/OSMBuildings",
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "aristocratos/btop",
-    "stargazers_count": 27870,
-    "open_issues_count": 437,
-    "forks_count": 831
+    "stargazers_count": 28214,
+    "open_issues_count": 439,
+    "forks_count": 839
   },
   {
     "full_name": "IfcOpenShell/files",
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "AcademySoftwareFoundation/openvdb",
-    "stargazers_count": 3080,
-    "open_issues_count": 211,
-    "forks_count": 718
+    "stargazers_count": 3095,
+    "open_issues_count": 212,
+    "forks_count": 719
   },
   {
     "full_name": "AcademySoftwareFoundation/OpenShadingLanguage",
     "stargazers_count": 2229,
-    "open_issues_count": 82,
-    "forks_count": 392
+    "open_issues_count": 79,
+    "forks_count": 393
   },
   {
     "full_name": "wdas/SeExpr",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "AcademySoftwareFoundation/Imath",
-    "stargazers_count": 448,
+    "stargazers_count": 449,
     "open_issues_count": 60,
     "forks_count": 142
   },
   {
     "full_name": "CGAL/cgal",
     "stargazers_count": 5613,
-    "open_issues_count": 655,
-    "forks_count": 1496
+    "open_issues_count": 658,
+    "forks_count": 1497
   },
   {
     "full_name": "cncf/landscape2-sites",
     "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 28
-  },
-  {
-    "full_name": "cncf/landscape2",
-    "stargazers_count": 232,
-    "open_issues_count": 10,
-    "forks_count": 88
   }
 ]
