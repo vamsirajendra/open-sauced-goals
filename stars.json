@@ -1,15 +1,15 @@
 [
   {
     "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2136,
-    "open_issues_count": 32,
-    "forks_count": 71
+    "stargazers_count": 2158,
+    "open_issues_count": 34,
+    "forks_count": 72
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 13620,
-    "open_issues_count": 475,
-    "forks_count": 2183
+    "stargazers_count": 13626,
+    "open_issues_count": 476,
+    "forks_count": 2181
   },
   {
     "full_name": "seung-lab/DracoPy",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "geopandas/geopandas",
-    "stargazers_count": 4963,
+    "stargazers_count": 4967,
     "open_issues_count": 433,
-    "forks_count": 983
+    "forks_count": 986
   },
   {
     "full_name": "hotosm/learnosm",
@@ -49,32 +49,32 @@
   },
   {
     "full_name": "libsdl-org/SDL",
-    "stargazers_count": 14112,
-    "open_issues_count": 724,
-    "forks_count": 2468
+    "stargazers_count": 14134,
+    "open_issues_count": 726,
+    "forks_count": 2477
   },
   {
     "full_name": "google/adk-go",
-    "stargazers_count": 4824,
-    "open_issues_count": 60,
-    "forks_count": 313
+    "stargazers_count": 5228,
+    "open_issues_count": 65,
+    "forks_count": 349
   },
   {
     "full_name": "eclipse-syson/syson",
     "stargazers_count": 225,
-    "open_issues_count": 103,
+    "open_issues_count": 98,
     "forks_count": 61
   },
   {
     "full_name": "osmcode/pyosmium",
-    "stargazers_count": 367,
+    "stargazers_count": 368,
     "open_issues_count": 14,
     "forks_count": 67
   },
   {
     "full_name": "JaydenMaalouf/JoystickPlugin",
     "stargazers_count": 59,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 11
   },
   {
@@ -85,45 +85,45 @@
   },
   {
     "full_name": "steveklabnik/jujutsu-tutorial",
-    "stargazers_count": 355,
+    "stargazers_count": 356,
     "open_issues_count": 14,
     "forks_count": 51
   },
   {
     "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 10924,
-    "open_issues_count": 51,
-    "forks_count": 1087
+    "stargazers_count": 11249,
+    "open_issues_count": 50,
+    "forks_count": 1127
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "stargazers_count": 830,
-    "open_issues_count": 7,
-    "forks_count": 59
+    "stargazers_count": 841,
+    "open_issues_count": 8,
+    "forks_count": 63
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 21596,
-    "open_issues_count": 210,
-    "forks_count": 4283
+    "stargazers_count": 21666,
+    "open_issues_count": 213,
+    "forks_count": 4285
   },
   {
     "full_name": "google/perfetto",
-    "stargazers_count": 5011,
-    "open_issues_count": 156,
-    "forks_count": 624
+    "stargazers_count": 5042,
+    "open_issues_count": 160,
+    "forks_count": 626
   },
   {
     "full_name": "dawbarton/pdf2svg",
     "stargazers_count": 684,
     "open_issues_count": 19,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "VERT-sh/VERT",
-    "stargazers_count": 9455,
-    "open_issues_count": 29,
-    "forks_count": 457
+    "stargazers_count": 10442,
+    "open_issues_count": 27,
+    "forks_count": 506
   },
   {
     "full_name": "Andeskjerf/waybar-module-pomodoro",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "Morganamilo/paru",
-    "stargazers_count": 7632,
-    "open_issues_count": 144,
-    "forks_count": 273
+    "stargazers_count": 7652,
+    "open_issues_count": 146,
+    "forks_count": 274
   },
   {
     "full_name": "grizzlypeak3d/DJV",
-    "stargazers_count": 891,
-    "open_issues_count": 149,
+    "stargazers_count": 894,
+    "open_issues_count": 153,
     "forks_count": 65
   },
   {
     "full_name": "brave/brave-browser",
-    "stargazers_count": 20747,
-    "open_issues_count": 9970,
-    "forks_count": 2849
+    "stargazers_count": 20764,
+    "open_issues_count": 9997,
+    "forks_count": 2852
   },
   {
     "full_name": "AchetaGames/Epic-Asset-Manager",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 51009,
-    "open_issues_count": 481,
-    "forks_count": 4377
+    "stargazers_count": 51780,
+    "open_issues_count": 486,
+    "forks_count": 4458
   },
   {
     "full_name": "st-tech/ppf-contact-solver",
-    "stargazers_count": 1526,
+    "stargazers_count": 1529,
     "open_issues_count": 0,
     "forks_count": 83
   },
