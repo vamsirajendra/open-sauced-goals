@@ -1,9 +1,9 @@
 [
   {
     "full_name": "zhu-xlab/GlobalBuildingAtlas",
-    "stargazers_count": 652,
-    "open_issues_count": 12,
-    "forks_count": 61
+    "stargazers_count": 952,
+    "open_issues_count": 16,
+    "forks_count": 101
   },
   {
     "full_name": "sideeffects/SideFXLabsExamples",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "PixiEditor/PixiEditor",
-    "stargazers_count": 6896,
-    "open_issues_count": 192,
-    "forks_count": 271
+    "stargazers_count": 6912,
+    "open_issues_count": 194,
+    "forks_count": 273
   },
   {
     "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2213,
-    "open_issues_count": 38,
-    "forks_count": 74
+    "stargazers_count": 2240,
+    "open_issues_count": 33,
+    "forks_count": 75
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 13645,
-    "open_issues_count": 470,
-    "forks_count": 2179
+    "stargazers_count": 13651,
+    "open_issues_count": 472,
+    "forks_count": 2181
   },
   {
     "full_name": "seung-lab/DracoPy",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "geopandas/geopandas",
-    "stargazers_count": 4975,
-    "open_issues_count": 435,
-    "forks_count": 990
+    "stargazers_count": 4981,
+    "open_issues_count": 434,
+    "forks_count": 991
   },
   {
     "full_name": "hotosm/learnosm",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "libsdl-org/SDL",
-    "stargazers_count": 14181,
-    "open_issues_count": 733,
-    "forks_count": 2489
+    "stargazers_count": 14217,
+    "open_issues_count": 736,
+    "forks_count": 2498
   },
   {
     "full_name": "google/adk-go",
-    "stargazers_count": 6037,
-    "open_issues_count": 74,
-    "forks_count": 410
+    "stargazers_count": 6108,
+    "open_issues_count": 75,
+    "forks_count": 415
   },
   {
     "full_name": "eclipse-syson/syson",
-    "stargazers_count": 226,
+    "stargazers_count": 228,
     "open_issues_count": 99,
     "forks_count": 61
   },
@@ -99,43 +99,43 @@
     "full_name": "JaydenMaalouf/JoystickPlugin",
     "stargazers_count": 61,
     "open_issues_count": 17,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "Jorl17/open-elevation",
-    "stargazers_count": 760,
+    "stargazers_count": 761,
     "open_issues_count": 43,
-    "forks_count": 181
+    "forks_count": 182
   },
   {
     "full_name": "steveklabnik/jujutsu-tutorial",
-    "stargazers_count": 358,
+    "stargazers_count": 359,
     "open_issues_count": 14,
     "forks_count": 51
   },
   {
     "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 12034,
-    "open_issues_count": 53,
-    "forks_count": 1223
+    "stargazers_count": 13244,
+    "open_issues_count": 55,
+    "forks_count": 1327
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "stargazers_count": 866,
+    "stargazers_count": 875,
     "open_issues_count": 9,
-    "forks_count": 68
+    "forks_count": 70
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 21760,
-    "open_issues_count": 210,
-    "forks_count": 4292
+    "stargazers_count": 21812,
+    "open_issues_count": 206,
+    "forks_count": 4293
   },
   {
     "full_name": "google/perfetto",
-    "stargazers_count": 5109,
-    "open_issues_count": 170,
-    "forks_count": 631
+    "stargazers_count": 5133,
+    "open_issues_count": 169,
+    "forks_count": 635
   },
   {
     "full_name": "dawbarton/pdf2svg",
@@ -145,33 +145,33 @@
   },
   {
     "full_name": "VERT-sh/VERT",
-    "stargazers_count": 11514,
-    "open_issues_count": 28,
-    "forks_count": 573
+    "stargazers_count": 11794,
+    "open_issues_count": 26,
+    "forks_count": 591
   },
   {
     "full_name": "Andeskjerf/waybar-module-pomodoro",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 6,
     "forks_count": 16
   },
   {
     "full_name": "Morganamilo/paru",
-    "stargazers_count": 7685,
+    "stargazers_count": 7703,
     "open_issues_count": 149,
     "forks_count": 274
   },
   {
     "full_name": "grizzlypeak3d/DJV",
-    "stargazers_count": 908,
-    "open_issues_count": 157,
+    "stargazers_count": 913,
+    "open_issues_count": 158,
     "forks_count": 66
   },
   {
     "full_name": "brave/brave-browser",
-    "stargazers_count": 20811,
-    "open_issues_count": 10040,
-    "forks_count": 2862
+    "stargazers_count": 20830,
+    "open_issues_count": 10048,
+    "forks_count": 2867
   },
   {
     "full_name": "AchetaGames/Epic-Asset-Manager",
