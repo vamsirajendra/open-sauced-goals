@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "facebook/zstd",
+    "stargazers_count": 26322,
+    "open_issues_count": 240,
+    "forks_count": 2368
+  },
+  {
     "full_name": "sideeffects/HoudiniNiagara",
     "stargazers_count": 362,
     "open_issues_count": 19,
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "ublue-os/bazzite",
-    "stargazers_count": 7376,
-    "open_issues_count": 629,
-    "forks_count": 635
+    "stargazers_count": 7416,
+    "open_issues_count": 645,
+    "forks_count": 640
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 48101,
-    "open_issues_count": 9027,
-    "forks_count": 30917
+    "stargazers_count": 48138,
+    "open_issues_count": 9089,
+    "forks_count": 30949
   },
   {
     "full_name": "bopen/elevation",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "zhu-xlab/GlobalBuildingAtlas",
-    "stargazers_count": 1791,
+    "stargazers_count": 1813,
     "open_issues_count": 22,
-    "forks_count": 170
+    "forks_count": 171
   },
   {
     "full_name": "sideeffects/SideFXLabsExamples",
@@ -61,20 +67,20 @@
   },
   {
     "full_name": "PixiEditor/PixiEditor",
-    "stargazers_count": 6972,
-    "open_issues_count": 192,
+    "stargazers_count": 6985,
+    "open_issues_count": 193,
     "forks_count": 276
   },
   {
     "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2363,
-    "open_issues_count": 32,
-    "forks_count": 85
+    "stargazers_count": 2379,
+    "open_issues_count": 34,
+    "forks_count": 84
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 13695,
-    "open_issues_count": 482,
+    "stargazers_count": 13703,
+    "open_issues_count": 484,
     "forks_count": 2183
   },
   {
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "geopandas/geopandas",
-    "stargazers_count": 5008,
+    "stargazers_count": 5006,
     "open_issues_count": 427,
-    "forks_count": 993
+    "forks_count": 994
   },
   {
     "full_name": "hotosm/learnosm",
@@ -115,26 +121,26 @@
   },
   {
     "full_name": "libsdl-org/SDL",
-    "stargazers_count": 14412,
-    "open_issues_count": 747,
+    "stargazers_count": 14442,
+    "open_issues_count": 745,
     "forks_count": 2527
   },
   {
     "full_name": "google/adk-go",
-    "stargazers_count": 6498,
-    "open_issues_count": 92,
-    "forks_count": 464
+    "stargazers_count": 6521,
+    "open_issues_count": 96,
+    "forks_count": 467
   },
   {
     "full_name": "eclipse-syson/syson",
     "stargazers_count": 232,
-    "open_issues_count": 110,
+    "open_issues_count": 108,
     "forks_count": 62
   },
   {
     "full_name": "osmcode/pyosmium",
     "stargazers_count": 370,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 68
   },
   {
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "steveklabnik/jujutsu-tutorial",
-    "stargazers_count": 367,
+    "stargazers_count": 369,
     "open_issues_count": 14,
     "forks_count": 56
   },
   {
     "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 16824,
-    "open_issues_count": 75,
-    "forks_count": 1754
+    "stargazers_count": 17017,
+    "open_issues_count": 81,
+    "forks_count": 1784
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanWorld-Mirror",
-    "stargazers_count": 926,
+    "stargazers_count": 928,
     "open_issues_count": 9,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "deskflow/deskflow",
-    "stargazers_count": 22561,
-    "open_issues_count": 210,
-    "forks_count": 4342
-  },
-  {
-    "full_name": "google/perfetto",
-    "stargazers_count": 5305,
-    "open_issues_count": 173,
-    "forks_count": 648
+    "stargazers_count": 22633,
+    "open_issues_count": 207,
+    "forks_count": 4348
   }
 ]
