@@ -1,21 +1,45 @@
 [
   {
+    "full_name": "supabase/supabase",
+    "stargazers_count": 95867,
+    "open_issues_count": 781,
+    "forks_count": 11212
+  },
+  {
+    "full_name": "expo/expo",
+    "stargazers_count": 46250,
+    "open_issues_count": 826,
+    "forks_count": 10519
+  },
+  {
+    "full_name": "harvard-edge/cs249r_book",
+    "stargazers_count": 16590,
+    "open_issues_count": 36,
+    "forks_count": 1898
+  },
+  {
+    "full_name": "sveltejs/svelte-devtools",
+    "stargazers_count": 1613,
+    "open_issues_count": 10,
+    "forks_count": 83
+  },
+  {
     "full_name": "Byron/dua-cli",
-    "stargazers_count": 5434,
+    "stargazers_count": 5444,
     "open_issues_count": 34,
-    "forks_count": 137
+    "forks_count": 138
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 40748,
-    "open_issues_count": 198,
-    "forks_count": 1384
+    "stargazers_count": 40943,
+    "open_issues_count": 186,
+    "forks_count": 1400
   },
   {
     "full_name": "facebook/zstd",
-    "stargazers_count": 26343,
-    "open_issues_count": 241,
-    "forks_count": 2371
+    "stargazers_count": 26361,
+    "open_issues_count": 243,
+    "forks_count": 2373
   },
   {
     "full_name": "sideeffects/HoudiniNiagara",
@@ -37,15 +61,15 @@
   },
   {
     "full_name": "ublue-os/bazzite",
-    "stargazers_count": 7480,
-    "open_issues_count": 665,
-    "forks_count": 657
+    "stargazers_count": 7515,
+    "open_issues_count": 685,
+    "forks_count": 671
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 48286,
-    "open_issues_count": 9133,
-    "forks_count": 30979
+    "stargazers_count": 48330,
+    "open_issues_count": 9101,
+    "forks_count": 31022
   },
   {
     "full_name": "bopen/elevation",
@@ -55,15 +79,15 @@
   },
   {
     "full_name": "techahold/rustdeskinstall",
-    "stargazers_count": 636,
+    "stargazers_count": 637,
     "open_issues_count": 7,
     "forks_count": 159
   },
   {
     "full_name": "zhu-xlab/GlobalBuildingAtlas",
-    "stargazers_count": 1836,
+    "stargazers_count": 1857,
     "open_issues_count": 22,
-    "forks_count": 174
+    "forks_count": 176
   },
   {
     "full_name": "sideeffects/SideFXLabsExamples",
@@ -73,26 +97,26 @@
   },
   {
     "full_name": "osmcode/osmcoastline",
-    "stargazers_count": 118,
+    "stargazers_count": 117,
     "open_issues_count": 3,
     "forks_count": 13
   },
   {
     "full_name": "PixiEditor/PixiEditor",
-    "stargazers_count": 6999,
-    "open_issues_count": 192,
+    "stargazers_count": 7013,
+    "open_issues_count": 191,
     "forks_count": 277
   },
   {
     "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2414,
+    "stargazers_count": 2452,
     "open_issues_count": 29,
     "forks_count": 83
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 13712,
-    "open_issues_count": 483,
+    "stargazers_count": 13728,
+    "open_issues_count": 481,
     "forks_count": 2183
   },
   {
@@ -103,13 +127,13 @@
   },
   {
     "full_name": "geopandas/geopandas",
-    "stargazers_count": 5007,
+    "stargazers_count": 5011,
     "open_issues_count": 428,
-    "forks_count": 992
+    "forks_count": 994
   },
   {
     "full_name": "hotosm/learnosm",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 45,
     "forks_count": 189
   },
@@ -133,20 +157,20 @@
   },
   {
     "full_name": "libsdl-org/SDL",
-    "stargazers_count": 14510,
-    "open_issues_count": 753,
-    "forks_count": 2542
+    "stargazers_count": 14547,
+    "open_issues_count": 761,
+    "forks_count": 2550
   },
   {
     "full_name": "google/adk-go",
-    "stargazers_count": 6565,
-    "open_issues_count": 96,
-    "forks_count": 473
+    "stargazers_count": 6596,
+    "open_issues_count": 95,
+    "forks_count": 482
   },
   {
     "full_name": "eclipse-syson/syson",
-    "stargazers_count": 232,
-    "open_issues_count": 111,
+    "stargazers_count": 231,
+    "open_issues_count": 98,
     "forks_count": 63
   },
   {
@@ -154,29 +178,5 @@
     "stargazers_count": 370,
     "open_issues_count": 13,
     "forks_count": 68
-  },
-  {
-    "full_name": "JaydenMaalouf/JoystickPlugin",
-    "stargazers_count": 65,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "Jorl17/open-elevation",
-    "stargazers_count": 765,
-    "open_issues_count": 45,
-    "forks_count": 184
-  },
-  {
-    "full_name": "steveklabnik/jujutsu-tutorial",
-    "stargazers_count": 369,
-    "open_issues_count": 14,
-    "forks_count": 57
-  },
-  {
-    "full_name": "lfnovo/open-notebook",
-    "stargazers_count": 17314,
-    "open_issues_count": 81,
-    "forks_count": 1820
   }
 ]
