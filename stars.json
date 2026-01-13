@@ -1,21 +1,51 @@
 [
   {
+    "full_name": "vercel/turborepo",
+    "stargazers_count": 29498,
+    "open_issues_count": 130,
+    "forks_count": 2218
+  },
+  {
+    "full_name": "GoogleCloudPlatform/kubernetes-engine-samples",
+    "stargazers_count": 1332,
+    "open_issues_count": 73,
+    "forks_count": 1280
+  },
+  {
+    "full_name": "PowerShell/PowerShell",
+    "stargazers_count": 51173,
+    "open_issues_count": 1379,
+    "forks_count": 8136
+  },
+  {
+    "full_name": "expo/orbit",
+    "stargazers_count": 690,
+    "open_issues_count": 18,
+    "forks_count": 45
+  },
+  {
+    "full_name": "dengo07/textual-sticky-notes-tui",
+    "stargazers_count": 79,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
     "full_name": "supabase/supabase",
-    "stargazers_count": 95867,
-    "open_issues_count": 781,
-    "forks_count": 11212
+    "stargazers_count": 96069,
+    "open_issues_count": 791,
+    "forks_count": 11245
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 46250,
+    "stargazers_count": 46345,
     "open_issues_count": 826,
-    "forks_count": 10519
+    "forks_count": 10552
   },
   {
     "full_name": "harvard-edge/cs249r_book",
-    "stargazers_count": 16590,
-    "open_issues_count": 36,
-    "forks_count": 1898
+    "stargazers_count": 16866,
+    "open_issues_count": 34,
+    "forks_count": 1935
   },
   {
     "full_name": "sveltejs/svelte-devtools",
@@ -25,21 +55,21 @@
   },
   {
     "full_name": "Byron/dua-cli",
-    "stargazers_count": 5444,
+    "stargazers_count": 5458,
     "open_issues_count": 34,
     "forks_count": 138
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 40943,
-    "open_issues_count": 186,
-    "forks_count": 1400
+    "stargazers_count": 41243,
+    "open_issues_count": 196,
+    "forks_count": 1429
   },
   {
     "full_name": "facebook/zstd",
-    "stargazers_count": 26361,
-    "open_issues_count": 243,
-    "forks_count": 2373
+    "stargazers_count": 26379,
+    "open_issues_count": 244,
+    "forks_count": 2374
   },
   {
     "full_name": "sideeffects/HoudiniNiagara",
@@ -61,15 +91,15 @@
   },
   {
     "full_name": "ublue-os/bazzite",
-    "stargazers_count": 7515,
-    "open_issues_count": 685,
-    "forks_count": 671
+    "stargazers_count": 7561,
+    "open_issues_count": 692,
+    "forks_count": 673
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 48330,
-    "open_issues_count": 9101,
-    "forks_count": 31022
+    "stargazers_count": 48394,
+    "open_issues_count": 9147,
+    "forks_count": 31065
   },
   {
     "full_name": "bopen/elevation",
@@ -85,9 +115,9 @@
   },
   {
     "full_name": "zhu-xlab/GlobalBuildingAtlas",
-    "stargazers_count": 1857,
+    "stargazers_count": 1880,
     "open_issues_count": 22,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "sideeffects/SideFXLabsExamples",
@@ -103,21 +133,21 @@
   },
   {
     "full_name": "PixiEditor/PixiEditor",
-    "stargazers_count": 7013,
-    "open_issues_count": 191,
+    "stargazers_count": 7029,
+    "open_issues_count": 192,
     "forks_count": 277
   },
   {
     "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2452,
-    "open_issues_count": 29,
+    "stargazers_count": 2494,
+    "open_issues_count": 33,
     "forks_count": 83
   },
   {
     "full_name": "visgl/deck.gl",
-    "stargazers_count": 13728,
-    "open_issues_count": 481,
-    "forks_count": 2183
+    "stargazers_count": 13740,
+    "open_issues_count": 472,
+    "forks_count": 2187
   },
   {
     "full_name": "seung-lab/DracoPy",
@@ -127,14 +157,14 @@
   },
   {
     "full_name": "geopandas/geopandas",
-    "stargazers_count": 5011,
-    "open_issues_count": 428,
-    "forks_count": 994
+    "stargazers_count": 5016,
+    "open_issues_count": 429,
+    "forks_count": 995
   },
   {
     "full_name": "hotosm/learnosm",
     "stargazers_count": 254,
-    "open_issues_count": 45,
+    "open_issues_count": 44,
     "forks_count": 189
   },
   {
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "JOSM/josm",
-    "stargazers_count": 421,
+    "stargazers_count": 422,
     "open_issues_count": 21,
     "forks_count": 204
-  },
-  {
-    "full_name": "systemed/potlatch3",
-    "stargazers_count": 29,
-    "open_issues_count": 29,
-    "forks_count": 5
-  },
-  {
-    "full_name": "libsdl-org/SDL",
-    "stargazers_count": 14547,
-    "open_issues_count": 761,
-    "forks_count": 2550
-  },
-  {
-    "full_name": "google/adk-go",
-    "stargazers_count": 6596,
-    "open_issues_count": 95,
-    "forks_count": 482
-  },
-  {
-    "full_name": "eclipse-syson/syson",
-    "stargazers_count": 231,
-    "open_issues_count": 98,
-    "forks_count": 63
-  },
-  {
-    "full_name": "osmcode/pyosmium",
-    "stargazers_count": 370,
-    "open_issues_count": 13,
-    "forks_count": 68
   }
 ]
