@@ -1,51 +1,111 @@
 [
   {
+    "full_name": "gemini-cli-extensions/nanobanana",
+    "stargazers_count": 704,
+    "open_issues_count": 30,
+    "forks_count": 63
+  },
+  {
+    "full_name": "LGUG2Z/komorebi",
+    "stargazers_count": 13803,
+    "open_issues_count": 89,
+    "forks_count": 299
+  },
+  {
+    "full_name": "gemini-cli-extensions/conductor",
+    "stargazers_count": 1801,
+    "open_issues_count": 33,
+    "forks_count": 156
+  },
+  {
+    "full_name": "Google-Health/medgemma",
+    "stargazers_count": 1183,
+    "open_issues_count": 35,
+    "forks_count": 193
+  },
+  {
+    "full_name": "Google-Health/medsiglip",
+    "stargazers_count": 243,
+    "open_issues_count": 8,
+    "forks_count": 29
+  },
+  {
+    "full_name": "eduardoboucas/staticman",
+    "stargazers_count": 2457,
+    "open_issues_count": 132,
+    "forks_count": 604
+  },
+  {
+    "full_name": "glzr-io/glazewm",
+    "stargazers_count": 11097,
+    "open_issues_count": 331,
+    "forks_count": 327
+  },
+  {
+    "full_name": "torvalds/linux",
+    "stargazers_count": 214298,
+    "open_issues_count": 3,
+    "forks_count": 59993
+  },
+  {
+    "full_name": "NCI-GDC/gdc-client",
+    "stargazers_count": 154,
+    "open_issues_count": 49,
+    "forks_count": 43
+  },
+  {
+    "full_name": "openseadragon/openseadragon",
+    "stargazers_count": 3334,
+    "open_issues_count": 451,
+    "forks_count": 685
+  },
+  {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 29498,
+    "stargazers_count": 29540,
     "open_issues_count": 130,
-    "forks_count": 2218
+    "forks_count": 2221
   },
   {
     "full_name": "GoogleCloudPlatform/kubernetes-engine-samples",
-    "stargazers_count": 1332,
-    "open_issues_count": 73,
+    "stargazers_count": 1334,
+    "open_issues_count": 65,
     "forks_count": 1280
   },
   {
     "full_name": "PowerShell/PowerShell",
-    "stargazers_count": 51173,
-    "open_issues_count": 1379,
-    "forks_count": 8136
+    "stargazers_count": 51187,
+    "open_issues_count": 1374,
+    "forks_count": 8137
   },
   {
     "full_name": "expo/orbit",
-    "stargazers_count": 690,
+    "stargazers_count": 692,
     "open_issues_count": 18,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "dengo07/textual-sticky-notes-tui",
-    "stargazers_count": 79,
+    "stargazers_count": 85,
     "open_issues_count": 0,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 96069,
-    "open_issues_count": 791,
-    "forks_count": 11245
+    "stargazers_count": 96245,
+    "open_issues_count": 787,
+    "forks_count": 11272
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 46345,
-    "open_issues_count": 826,
-    "forks_count": 10552
+    "stargazers_count": 46437,
+    "open_issues_count": 821,
+    "forks_count": 10586
   },
   {
     "full_name": "harvard-edge/cs249r_book",
-    "stargazers_count": 16866,
+    "stargazers_count": 16991,
     "open_issues_count": 34,
-    "forks_count": 1935
+    "forks_count": 1946
   },
   {
     "full_name": "sveltejs/svelte-devtools",
@@ -55,25 +115,25 @@
   },
   {
     "full_name": "Byron/dua-cli",
-    "stargazers_count": 5458,
+    "stargazers_count": 5477,
     "open_issues_count": 34,
     "forks_count": 138
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 41243,
+    "stargazers_count": 41438,
     "open_issues_count": 196,
-    "forks_count": 1429
+    "forks_count": 1448
   },
   {
     "full_name": "facebook/zstd",
-    "stargazers_count": 26379,
+    "stargazers_count": 26406,
     "open_issues_count": 244,
-    "forks_count": 2374
+    "forks_count": 2379
   },
   {
     "full_name": "sideeffects/HoudiniNiagara",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "open_issues_count": 19,
     "forks_count": 65
   },
@@ -91,92 +151,32 @@
   },
   {
     "full_name": "ublue-os/bazzite",
-    "stargazers_count": 7561,
-    "open_issues_count": 692,
-    "forks_count": 673
+    "stargazers_count": 7593,
+    "open_issues_count": 694,
+    "forks_count": 677
   },
   {
     "full_name": "odoo/odoo",
-    "stargazers_count": 48394,
-    "open_issues_count": 9147,
-    "forks_count": 31065
+    "stargazers_count": 48465,
+    "open_issues_count": 9126,
+    "forks_count": 31107
   },
   {
     "full_name": "bopen/elevation",
-    "stargazers_count": 319,
+    "stargazers_count": 320,
     "open_issues_count": 34,
     "forks_count": 78
   },
   {
     "full_name": "techahold/rustdeskinstall",
-    "stargazers_count": 637,
+    "stargazers_count": 641,
     "open_issues_count": 7,
     "forks_count": 159
   },
   {
     "full_name": "zhu-xlab/GlobalBuildingAtlas",
-    "stargazers_count": 1880,
+    "stargazers_count": 1896,
     "open_issues_count": 22,
     "forks_count": 177
-  },
-  {
-    "full_name": "sideeffects/SideFXLabsExamples",
-    "stargazers_count": 28,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "osmcode/osmcoastline",
-    "stargazers_count": 117,
-    "open_issues_count": 3,
-    "forks_count": 13
-  },
-  {
-    "full_name": "PixiEditor/PixiEditor",
-    "stargazers_count": 7029,
-    "open_issues_count": 192,
-    "forks_count": 277
-  },
-  {
-    "full_name": "CachyOS/linux-cachyos",
-    "stargazers_count": 2494,
-    "open_issues_count": 33,
-    "forks_count": 83
-  },
-  {
-    "full_name": "visgl/deck.gl",
-    "stargazers_count": 13740,
-    "open_issues_count": 472,
-    "forks_count": 2187
-  },
-  {
-    "full_name": "seung-lab/DracoPy",
-    "stargazers_count": 112,
-    "open_issues_count": 12,
-    "forks_count": 31
-  },
-  {
-    "full_name": "geopandas/geopandas",
-    "stargazers_count": 5016,
-    "open_issues_count": 429,
-    "forks_count": 995
-  },
-  {
-    "full_name": "hotosm/learnosm",
-    "stargazers_count": 254,
-    "open_issues_count": 44,
-    "forks_count": 189
-  },
-  {
-    "full_name": "JOSM/josm-plugins",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "JOSM/josm",
-    "stargazers_count": 422,
-    "open_issues_count": 21,
-    "forks_count": 204
   }
 ]
