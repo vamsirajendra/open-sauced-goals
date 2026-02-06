@@ -13,14 +13,14 @@
   },
   {
     "full_name": "google/dawn",
-    "stargazers_count": 882,
-    "open_issues_count": 4,
+    "stargazers_count": 888,
+    "open_issues_count": 3,
     "forks_count": 158
   },
   {
     "full_name": "gpuweb/gpuweb",
-    "stargazers_count": 5320,
-    "open_issues_count": 446,
+    "stargazers_count": 5321,
+    "open_issues_count": 442,
     "forks_count": 363
   },
   {
@@ -37,50 +37,50 @@
   },
   {
     "full_name": "canva-sdks/canva-gemini-extension",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "gemini-cli-extensions/workspace",
-    "stargazers_count": 288,
-    "open_issues_count": 23,
-    "forks_count": 31
+    "stargazers_count": 300,
+    "open_issues_count": 26,
+    "forks_count": 35
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 2442,
+    "stargazers_count": 2450,
     "open_issues_count": 69,
-    "forks_count": 302
+    "forks_count": 301
   },
   {
     "full_name": "gemini-cli-extensions/nanobanana",
-    "stargazers_count": 759,
+    "stargazers_count": 773,
     "open_issues_count": 30,
     "forks_count": 79
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 13960,
-    "open_issues_count": 95,
-    "forks_count": 300
+    "stargazers_count": 14003,
+    "open_issues_count": 93,
+    "forks_count": 304
   },
   {
     "full_name": "gemini-cli-extensions/conductor",
-    "stargazers_count": 2193,
-    "open_issues_count": 48,
-    "forks_count": 186
+    "stargazers_count": 2390,
+    "open_issues_count": 53,
+    "forks_count": 199
   },
   {
     "full_name": "Google-Health/medgemma",
-    "stargazers_count": 1286,
-    "open_issues_count": 40,
-    "forks_count": 213
+    "stargazers_count": 1296,
+    "open_issues_count": 41,
+    "forks_count": 214
   },
   {
     "full_name": "Google-Health/medsiglip",
-    "stargazers_count": 255,
-    "open_issues_count": 9,
+    "stargazers_count": 256,
+    "open_issues_count": 10,
     "forks_count": 32
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "glzr-io/glazewm",
-    "stargazers_count": 11260,
-    "open_issues_count": 338,
+    "stargazers_count": 11285,
+    "open_issues_count": 342,
     "forks_count": 336
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 216110,
+    "stargazers_count": 216413,
     "open_issues_count": 3,
-    "forks_count": 60268
+    "forks_count": 60331
   },
   {
     "full_name": "NCI-GDC/gdc-client",
@@ -109,57 +109,57 @@
   },
   {
     "full_name": "openseadragon/openseadragon",
-    "stargazers_count": 3344,
-    "open_issues_count": 458,
+    "stargazers_count": 3345,
+    "open_issues_count": 453,
     "forks_count": 684
   },
   {
     "full_name": "vercel/turborepo",
-    "stargazers_count": 29707,
-    "open_issues_count": 137,
-    "forks_count": 2238
+    "stargazers_count": 29738,
+    "open_issues_count": 131,
+    "forks_count": 2239
   },
   {
     "full_name": "GoogleCloudPlatform/kubernetes-engine-samples",
     "stargazers_count": 1337,
-    "open_issues_count": 68,
+    "open_issues_count": 65,
     "forks_count": 1283
   },
   {
     "full_name": "PowerShell/PowerShell",
-    "stargazers_count": 51341,
-    "open_issues_count": 1387,
-    "forks_count": 8153
+    "stargazers_count": 51371,
+    "open_issues_count": 1388,
+    "forks_count": 8157
   },
   {
     "full_name": "expo/orbit",
-    "stargazers_count": 700,
-    "open_issues_count": 18,
+    "stargazers_count": 705,
+    "open_issues_count": 19,
     "forks_count": 47
   },
   {
     "full_name": "dengo07/textual-sticky-notes-tui",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 97128,
-    "open_issues_count": 830,
-    "forks_count": 11444
+    "stargazers_count": 97262,
+    "open_issues_count": 847,
+    "forks_count": 11469
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 46951,
-    "open_issues_count": 835,
-    "forks_count": 10799
+    "stargazers_count": 47020,
+    "open_issues_count": 837,
+    "forks_count": 10845
   },
   {
     "full_name": "harvard-edge/cs249r_book",
-    "stargazers_count": 17732,
-    "open_issues_count": 31,
-    "forks_count": 2044
+    "stargazers_count": 17821,
+    "open_issues_count": 30,
+    "forks_count": 2057
   },
   {
     "full_name": "sveltejs/svelte-devtools",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Byron/dua-cli",
-    "stargazers_count": 5544,
-    "open_issues_count": 35,
+    "stargazers_count": 5553,
+    "open_issues_count": 36,
     "forks_count": 139
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 42730,
-    "open_issues_count": 184,
-    "forks_count": 1525
+    "stargazers_count": 43002,
+    "open_issues_count": 188,
+    "forks_count": 1551
   }
 ]
