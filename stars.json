@@ -1,27 +1,57 @@
 [
   {
+    "full_name": "latsic/imgalign",
+    "stargazers_count": 342,
+    "open_issues_count": 1,
+    "forks_count": 46
+  },
+  {
+    "full_name": "TechStark/opencv-js",
+    "stargazers_count": 716,
+    "open_issues_count": 41,
+    "forks_count": 55
+  },
+  {
+    "full_name": "sanity-io/sanity",
+    "stargazers_count": 6077,
+    "open_issues_count": 166,
+    "forks_count": 529
+  },
+  {
+    "full_name": "google-deepmind/gemma",
+    "stargazers_count": 4982,
+    "open_issues_count": 246,
+    "forks_count": 869
+  },
+  {
+    "full_name": "google-deepmind/mujoco",
+    "stargazers_count": 12981,
+    "open_issues_count": 325,
+    "forks_count": 1450
+  },
+  {
     "full_name": "poteto/how",
-    "stargazers_count": 402,
+    "stargazers_count": 617,
     "open_issues_count": 0,
-    "forks_count": 14
+    "forks_count": 27
   },
   {
     "full_name": "OpenBMB/VoxCPM",
-    "stargazers_count": 13832,
-    "open_issues_count": 69,
-    "forks_count": 1652
+    "stargazers_count": 15111,
+    "open_issues_count": 78,
+    "forks_count": 1788
   },
   {
     "full_name": "forrestchang/andrej-karpathy-skills",
-    "stargazers_count": 50364,
-    "open_issues_count": 63,
-    "forks_count": 4160
+    "stargazers_count": 67262,
+    "open_issues_count": 62,
+    "forks_count": 5980
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 19340,
-    "open_issues_count": 376,
-    "forks_count": 2393
+    "stargazers_count": 19560,
+    "open_issues_count": 383,
+    "forks_count": 2435
   },
   {
     "full_name": "PacktPublishing/Learn-to-Code-with-Rust",
@@ -37,57 +67,57 @@
   },
   {
     "full_name": "PacktPublishing/Rust-Programming-Master-Class-from-Beginner-to-Expert",
-    "stargazers_count": 102,
+    "stargazers_count": 101,
     "open_issues_count": 0,
     "forks_count": 76
   },
   {
     "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 7932,
-    "open_issues_count": 80,
+    "stargazers_count": 7936,
+    "open_issues_count": 73,
     "forks_count": 1528
   },
   {
     "full_name": "rust-lang/rustlings",
-    "stargazers_count": 62521,
-    "open_issues_count": 78,
-    "forks_count": 11177
+    "stargazers_count": 62555,
+    "open_issues_count": 81,
+    "forks_count": 11173
   },
   {
     "full_name": "rust-lang/cargo",
-    "stargazers_count": 14828,
-    "open_issues_count": 1598,
-    "forks_count": 2878
+    "stargazers_count": 14855,
+    "open_issues_count": 1595,
+    "forks_count": 2884
   },
   {
     "full_name": "rust-lang/rust-analyzer",
-    "stargazers_count": 16268,
-    "open_issues_count": 1723,
-    "forks_count": 2033
+    "stargazers_count": 16285,
+    "open_issues_count": 1714,
+    "forks_count": 2037
   },
   {
     "full_name": "gfx-rs/wgpu",
-    "stargazers_count": 16931,
-    "open_issues_count": 1115,
-    "forks_count": 1270
+    "stargazers_count": 16958,
+    "open_issues_count": 1126,
+    "forks_count": 1273
   },
   {
     "full_name": "glzr-io/zebar",
-    "stargazers_count": 2815,
+    "stargazers_count": 2828,
     "open_issues_count": 64,
     "forks_count": 118
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 63455,
-    "open_issues_count": 336,
-    "forks_count": 3414
+    "stargazers_count": 63567,
+    "open_issues_count": 338,
+    "forks_count": 3423
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 56768,
+    "stargazers_count": 56860,
     "open_issues_count": 10,
-    "forks_count": 3296
+    "forks_count": 3301
   },
   {
     "full_name": "dasifefe/rust-game-development-frameworks",
@@ -109,74 +139,44 @@
   },
   {
     "full_name": "deepspeedai/DeepSpeed",
-    "stargazers_count": 42133,
-    "open_issues_count": 1291,
-    "forks_count": 4799
+    "stargazers_count": 42157,
+    "open_issues_count": 1293,
+    "forks_count": 4800
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 99206,
-    "open_issues_count": 18489,
-    "forks_count": 27515
+    "stargazers_count": 99297,
+    "open_issues_count": 18523,
+    "forks_count": 27536
   },
   {
     "full_name": "CesiumGS/cesium",
-    "stargazers_count": 15119,
-    "open_issues_count": 1585,
-    "forks_count": 3779
+    "stargazers_count": 15132,
+    "open_issues_count": 1588,
+    "forks_count": 3782
   },
   {
     "full_name": "hacksider/Deep-Live-Cam",
-    "stargazers_count": 90813,
-    "open_issues_count": 128,
-    "forks_count": 13214
+    "stargazers_count": 91377,
+    "open_issues_count": 104,
+    "forks_count": 13299
   },
   {
     "full_name": "potree/potree",
-    "stargazers_count": 5419,
+    "stargazers_count": 5422,
     "open_issues_count": 817,
     "forks_count": 1328
   },
   {
     "full_name": "saltbo/agent-kanban",
-    "stargazers_count": 192,
-    "open_issues_count": 3,
-    "forks_count": 15
+    "stargazers_count": 201,
+    "open_issues_count": 4,
+    "forks_count": 14
   },
   {
     "full_name": "game-ci/unity-builder",
-    "stargazers_count": 1052,
-    "open_issues_count": 113,
+    "stargazers_count": 1051,
+    "open_issues_count": 114,
     "forks_count": 308
-  },
-  {
-    "full_name": "openglobus/openglobus",
-    "stargazers_count": 890,
-    "open_issues_count": 64,
-    "forks_count": 125
-  },
-  {
-    "full_name": "microsoft/RustTraining",
-    "stargazers_count": 13787,
-    "open_issues_count": 4,
-    "forks_count": 1038
-  },
-  {
-    "full_name": "rasbt/llm-architecture-gallery",
-    "stargazers_count": 1038,
-    "open_issues_count": 1,
-    "forks_count": 79
-  },
-  {
-    "full_name": "zarazhangrui/codebase-to-course",
-    "stargazers_count": 3812,
-    "open_issues_count": 7,
-    "forks_count": 393
-  },
-  {
-    "full_name": "ruvnet/RuView",
-    "stargazers_count": 46859,
-    "open_issues_count": 59,
-    "forks_count": 6317
   }
 ]
