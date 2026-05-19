@@ -1,105 +1,117 @@
 [
   {
+    "full_name": "tauri-apps/tauri",
+    "stargazers_count": 106796,
+    "open_issues_count": 1425,
+    "forks_count": 3619
+  },
+  {
+    "full_name": "nexu-io/open-design",
+    "stargazers_count": 45287,
+    "open_issues_count": 441,
+    "forks_count": 5177
+  },
+  {
     "full_name": "NadirRouter/NadirClaw",
-    "stargazers_count": 496,
-    "open_issues_count": 4,
-    "forks_count": 58
+    "stargazers_count": 497,
+    "open_issues_count": 0,
+    "forks_count": 59
   },
   {
     "full_name": "anthropics/cwc-workshops",
-    "stargazers_count": 212,
+    "stargazers_count": 219,
     "open_issues_count": 1,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "AI-Hypercomputer/tpu-recipes",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 27,
     "forks_count": 61
   },
   {
     "full_name": "vllm-project/tpu-inference",
-    "stargazers_count": 329,
-    "open_issues_count": 272,
-    "forks_count": 189
+    "stargazers_count": 333,
+    "open_issues_count": 274,
+    "forks_count": 192
   },
   {
     "full_name": "angelos-p/llm-from-scratch",
-    "stargazers_count": 2760,
+    "stargazers_count": 2841,
     "open_issues_count": 1,
-    "forks_count": 235
+    "forks_count": 254
   },
   {
     "full_name": "godotengine/godot-demo-projects",
-    "stargazers_count": 8782,
+    "stargazers_count": 8803,
     "open_issues_count": 95,
-    "forks_count": 2113
+    "forks_count": 2116
   },
   {
     "full_name": "HKUDS/CLI-Anything",
-    "stargazers_count": 34498,
-    "open_issues_count": 50,
-    "forks_count": 3378
+    "stargazers_count": 36735,
+    "open_issues_count": 62,
+    "forks_count": 3560
   },
   {
     "full_name": "openai/symphony",
-    "stargazers_count": 23794,
+    "stargazers_count": 24160,
     "open_issues_count": 5,
-    "forks_count": 2287
+    "forks_count": 2347
   },
   {
     "full_name": "WasmEdge/mediapipe-rs",
-    "stargazers_count": 241,
+    "stargazers_count": 242,
     "open_issues_count": 4,
     "forks_count": 31
   },
   {
     "full_name": "0xPlaygrounds/rig",
-    "stargazers_count": 7278,
+    "stargazers_count": 7329,
     "open_issues_count": 103,
-    "forks_count": 808
+    "forks_count": 813
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 18688,
-    "open_issues_count": 180,
-    "forks_count": 1985
+    "stargazers_count": 18755,
+    "open_issues_count": 181,
+    "forks_count": 1995
   },
   {
     "full_name": "google-labs-code/design.md",
-    "stargazers_count": 13711,
-    "open_issues_count": 41,
-    "forks_count": 1277
+    "stargazers_count": 14294,
+    "open_issues_count": 44,
+    "forks_count": 1350
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 32954,
+    "stargazers_count": 32966,
     "open_issues_count": 166,
-    "forks_count": 2009
+    "forks_count": 2011
   },
   {
     "full_name": "google-ai-edge/LiteRT-LM",
-    "stargazers_count": 4992,
-    "open_issues_count": 262,
-    "forks_count": 497
+    "stargazers_count": 5060,
+    "open_issues_count": 270,
+    "forks_count": 505
   },
   {
     "full_name": "google-ai-edge/mediapipe-samples-web",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "google-ai-edge/mediapipe",
-    "stargazers_count": 35186,
-    "open_issues_count": 606,
-    "forks_count": 5973
+    "stargazers_count": 35247,
+    "open_issues_count": 603,
+    "forks_count": 5978
   },
   {
     "full_name": "google-ai-edge/gallery",
-    "stargazers_count": 22998,
+    "stargazers_count": 23075,
     "open_issues_count": 323,
-    "forks_count": 2322
+    "forks_count": 2345
   },
   {
     "full_name": "latsic/imgalign",
@@ -115,45 +127,45 @@
   },
   {
     "full_name": "sanity-io/sanity",
-    "stargazers_count": 6121,
-    "open_issues_count": 135,
-    "forks_count": 532
+    "stargazers_count": 6130,
+    "open_issues_count": 124,
+    "forks_count": 535
   },
   {
     "full_name": "google-deepmind/gemma",
-    "stargazers_count": 5203,
-    "open_issues_count": 253,
-    "forks_count": 919
+    "stargazers_count": 5223,
+    "open_issues_count": 254,
+    "forks_count": 925
   },
   {
     "full_name": "google-deepmind/mujoco",
-    "stargazers_count": 13480,
-    "open_issues_count": 336,
-    "forks_count": 1506
+    "stargazers_count": 13514,
+    "open_issues_count": 338,
+    "forks_count": 1515
   },
   {
     "full_name": "poteto/how",
-    "stargazers_count": 677,
+    "stargazers_count": 681,
     "open_issues_count": 0,
     "forks_count": 39
   },
   {
     "full_name": "OpenBMB/VoxCPM",
-    "stargazers_count": 18794,
-    "open_issues_count": 95,
-    "forks_count": 2228
+    "stargazers_count": 19147,
+    "open_issues_count": 99,
+    "forks_count": 2280
   },
   {
     "full_name": "multica-ai/andrej-karpathy-skills",
-    "stargazers_count": 129766,
-    "open_issues_count": 89,
-    "forks_count": 13158
+    "stargazers_count": 136143,
+    "open_issues_count": 91,
+    "forks_count": 13976
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 20417,
-    "open_issues_count": 375,
-    "forks_count": 2663
+    "stargazers_count": 20515,
+    "open_issues_count": 429,
+    "forks_count": 2690
   },
   {
     "full_name": "PacktPublishing/Learn-to-Code-with-Rust",
@@ -166,17 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "PacktPublishing/Rust-Programming-Master-Class-from-Beginner-to-Expert",
-    "stargazers_count": 103,
-    "open_issues_count": 0,
-    "forks_count": 77
-  },
-  {
-    "full_name": "rust-lang/rust-by-example",
-    "stargazers_count": 7968,
-    "open_issues_count": 78,
-    "forks_count": 1542
   }
 ]
