@@ -1,31 +1,31 @@
 [
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 14241,
-    "open_issues_count": 3314,
-    "forks_count": 1455
+    "stargazers_count": 14297,
+    "open_issues_count": 3318,
+    "forks_count": 1466
   },
   {
     "full_name": "aaif-goose/goose",
-    "stargazers_count": 48146,
-    "open_issues_count": 338,
-    "forks_count": 5070
+    "stargazers_count": 48927,
+    "open_issues_count": 343,
+    "forks_count": 5157
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 210941,
-    "open_issues_count": 44,
-    "forks_count": 32351
+    "stargazers_count": 213587,
+    "open_issues_count": 43,
+    "forks_count": 32829
   },
   {
     "full_name": "nesquena/hermes-webui",
-    "stargazers_count": 14023,
-    "open_issues_count": 243,
-    "forks_count": 1725
+    "stargazers_count": 14256,
+    "open_issues_count": 296,
+    "forks_count": 1764
   },
   {
     "full_name": "RedHaloStudio/Sketchup_Importer",
-    "stargazers_count": 592,
+    "stargazers_count": 594,
     "open_issues_count": 3,
     "forks_count": 62
   },
@@ -37,39 +37,39 @@
   },
   {
     "full_name": "NVIDIA-Medtech/NV-Generate-CTMR",
-    "stargazers_count": 176,
+    "stargazers_count": 180,
     "open_issues_count": 6,
     "forks_count": 27
   },
   {
     "full_name": "google/tunix",
-    "stargazers_count": 2326,
-    "open_issues_count": 224,
-    "forks_count": 305
+    "stargazers_count": 2335,
+    "open_issues_count": 225,
+    "forks_count": 307
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 33616,
-    "open_issues_count": 734,
-    "forks_count": 4629
+    "stargazers_count": 33654,
+    "open_issues_count": 756,
+    "forks_count": 4641
   },
   {
     "full_name": "intellicia-public/parastore",
-    "stargazers_count": 559,
+    "stargazers_count": 600,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 13
   },
   {
     "full_name": "MoonshotAI/kimi-code",
-    "stargazers_count": 2102,
-    "open_issues_count": 152,
-    "forks_count": 221
+    "stargazers_count": 2241,
+    "open_issues_count": 175,
+    "forks_count": 252
   },
   {
     "full_name": "ocornut/imgui",
-    "stargazers_count": 73738,
-    "open_issues_count": 1231,
-    "forks_count": 11797
+    "stargazers_count": 73782,
+    "open_issues_count": 1233,
+    "forks_count": 11802
   },
   {
     "full_name": "openslide/openslide",
@@ -79,81 +79,81 @@
   },
   {
     "full_name": "thesysdev/openui",
-    "stargazers_count": 6810,
-    "open_issues_count": 66,
-    "forks_count": 506
+    "stargazers_count": 6947,
+    "open_issues_count": 72,
+    "forks_count": 526
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanVideo-1.5",
-    "stargazers_count": 4469,
+    "stargazers_count": 4475,
     "open_issues_count": 33,
     "forks_count": 229
   },
   {
     "full_name": "meituan-longcat/LongCat-Video",
-    "stargazers_count": 4214,
-    "open_issues_count": 66,
-    "forks_count": 656
+    "stargazers_count": 4286,
+    "open_issues_count": 67,
+    "forks_count": 672
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 107631,
-    "open_issues_count": 1441,
-    "forks_count": 3678
+    "stargazers_count": 107765,
+    "open_issues_count": 1439,
+    "forks_count": 3688
   },
   {
     "full_name": "nexu-io/open-design",
-    "stargazers_count": 61757,
-    "open_issues_count": 383,
-    "forks_count": 6916
+    "stargazers_count": 63551,
+    "open_issues_count": 398,
+    "forks_count": 7083
   },
   {
     "full_name": "NadirRouter/NadirClaw",
-    "stargazers_count": 514,
-    "open_issues_count": 2,
-    "forks_count": 65
+    "stargazers_count": 522,
+    "open_issues_count": 4,
+    "forks_count": 66
   },
   {
     "full_name": "anthropics/cwc-workshops",
-    "stargazers_count": 880,
-    "open_issues_count": 3,
-    "forks_count": 238
+    "stargazers_count": 1007,
+    "open_issues_count": 4,
+    "forks_count": 268
   },
   {
     "full_name": "AI-Hypercomputer/tpu-recipes",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 29,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "vllm-project/tpu-inference",
-    "stargazers_count": 349,
-    "open_issues_count": 301,
-    "forks_count": 208
+    "stargazers_count": 350,
+    "open_issues_count": 303,
+    "forks_count": 212
   },
   {
     "full_name": "angelos-p/llm-from-scratch",
-    "stargazers_count": 3036,
+    "stargazers_count": 3043,
     "open_issues_count": 1,
-    "forks_count": 305
+    "forks_count": 306
   },
   {
     "full_name": "godotengine/godot-demo-projects",
-    "stargazers_count": 8921,
-    "open_issues_count": 91,
-    "forks_count": 2141
+    "stargazers_count": 8950,
+    "open_issues_count": 90,
+    "forks_count": 2149
   },
   {
     "full_name": "HKUDS/CLI-Anything",
-    "stargazers_count": 42401,
-    "open_issues_count": 60,
-    "forks_count": 3998
+    "stargazers_count": 42766,
+    "open_issues_count": 55,
+    "forks_count": 4022
   },
   {
     "full_name": "openai/symphony",
-    "stargazers_count": 25166,
-    "open_issues_count": 9,
-    "forks_count": 2530
+    "stargazers_count": 25257,
+    "open_issues_count": 8,
+    "forks_count": 2546
   },
   {
     "full_name": "WasmEdge/mediapipe-rs",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "0xPlaygrounds/rig",
-    "stargazers_count": 7562,
-    "open_issues_count": 99,
-    "forks_count": 840
+    "stargazers_count": 7590,
+    "open_issues_count": 95,
+    "forks_count": 842
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 19133,
-    "open_issues_count": 177,
-    "forks_count": 2058
+    "stargazers_count": 19195,
+    "open_issues_count": 178,
+    "forks_count": 2063
   },
   {
     "full_name": "google-labs-code/design.md",
-    "stargazers_count": 15482,
-    "open_issues_count": 31,
-    "forks_count": 1457
+    "stargazers_count": 15667,
+    "open_issues_count": 25,
+    "forks_count": 1473
   }
 ]
