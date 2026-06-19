@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "jamiepine/voicebox",
+    "stargazers_count": 30551,
+    "open_issues_count": 449,
+    "forks_count": 3779
+  },
+  {
+    "full_name": "EpicGames/lore",
+    "stargazers_count": 3007,
+    "open_issues_count": 30,
+    "forks_count": 121
+  },
+  {
     "full_name": "nexu-io/html-anything",
-    "stargazers_count": 6823,
-    "open_issues_count": 49,
-    "forks_count": 675
+    "stargazers_count": 6976,
+    "open_issues_count": 45,
+    "forks_count": 692
   },
   {
     "full_name": "nexu-io/html-video",
-    "stargazers_count": 3160,
-    "open_issues_count": 33,
-    "forks_count": 379
+    "stargazers_count": 3299,
+    "open_issues_count": 34,
+    "forks_count": 401
   },
   {
     "full_name": "op7418/guizang-ppt-skill",
-    "stargazers_count": 17471,
-    "open_issues_count": 22,
-    "forks_count": 1278
+    "stargazers_count": 17999,
+    "open_issues_count": 23,
+    "forks_count": 1309
   },
   {
     "full_name": "jamiewilson/form-to-google-sheets",
@@ -25,31 +37,31 @@
   },
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 14337,
-    "open_issues_count": 3331,
-    "forks_count": 1469
+    "stargazers_count": 14369,
+    "open_issues_count": 3329,
+    "forks_count": 1474
   },
   {
     "full_name": "aaif-goose/goose",
-    "stargazers_count": 49507,
-    "open_issues_count": 318,
-    "forks_count": 5233
+    "stargazers_count": 49787,
+    "open_issues_count": 214,
+    "forks_count": 5273
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 216216,
-    "open_issues_count": 20,
-    "forks_count": 33232
+    "stargazers_count": 217811,
+    "open_issues_count": 41,
+    "forks_count": 33418
   },
   {
     "full_name": "nesquena/hermes-webui",
-    "stargazers_count": 14489,
-    "open_issues_count": 264,
-    "forks_count": 1808
+    "stargazers_count": 14682,
+    "open_issues_count": 257,
+    "forks_count": 1845
   },
   {
     "full_name": "RedHaloStudio/Sketchup_Importer",
-    "stargazers_count": 594,
+    "stargazers_count": 595,
     "open_issues_count": 3,
     "forks_count": 63
   },
@@ -61,122 +73,110 @@
   },
   {
     "full_name": "NVIDIA-Medtech/NV-Generate-CTMR",
-    "stargazers_count": 183,
+    "stargazers_count": 187,
     "open_issues_count": 6,
     "forks_count": 27
   },
   {
     "full_name": "google/tunix",
-    "stargazers_count": 2344,
-    "open_issues_count": 229,
+    "stargazers_count": 2347,
+    "open_issues_count": 231,
     "forks_count": 310
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 33703,
-    "open_issues_count": 758,
-    "forks_count": 4663
+    "stargazers_count": 34099,
+    "open_issues_count": 902,
+    "forks_count": 4727
   },
   {
     "full_name": "intellicia-public/parastore",
     "stargazers_count": 614,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "MoonshotAI/kimi-code",
-    "stargazers_count": 2442,
-    "open_issues_count": 215,
-    "forks_count": 279
+    "stargazers_count": 2546,
+    "open_issues_count": 263,
+    "forks_count": 300
   },
   {
     "full_name": "ocornut/imgui",
-    "stargazers_count": 73863,
-    "open_issues_count": 1237,
-    "forks_count": 11816
+    "stargazers_count": 73931,
+    "open_issues_count": 1236,
+    "forks_count": 11831
   },
   {
     "full_name": "openslide/openslide",
     "stargazers_count": 505,
     "open_issues_count": 98,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "thesysdev/openui",
-    "stargazers_count": 7012,
-    "open_issues_count": 63,
-    "forks_count": 530
+    "stargazers_count": 7059,
+    "open_issues_count": 64,
+    "forks_count": 531
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanVideo-1.5",
-    "stargazers_count": 4485,
-    "open_issues_count": 33,
+    "stargazers_count": 4488,
+    "open_issues_count": 34,
     "forks_count": 229
   },
   {
     "full_name": "meituan-longcat/LongCat-Video",
-    "stargazers_count": 4328,
+    "stargazers_count": 4363,
     "open_issues_count": 67,
-    "forks_count": 685
+    "forks_count": 692
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 107926,
-    "open_issues_count": 1435,
-    "forks_count": 3701
+    "stargazers_count": 108055,
+    "open_issues_count": 1428,
+    "forks_count": 3708
   },
   {
     "full_name": "nexu-io/open-design",
-    "stargazers_count": 65522,
-    "open_issues_count": 402,
-    "forks_count": 7345
+    "stargazers_count": 67487,
+    "open_issues_count": 436,
+    "forks_count": 7569
   },
   {
     "full_name": "NadirRouter/NadirClaw",
-    "stargazers_count": 532,
+    "stargazers_count": 536,
     "open_issues_count": 5,
     "forks_count": 66
   },
   {
     "full_name": "anthropics/cwc-workshops",
-    "stargazers_count": 1076,
+    "stargazers_count": 1101,
     "open_issues_count": 5,
-    "forks_count": 283
+    "forks_count": 299
   },
   {
     "full_name": "AI-Hypercomputer/tpu-recipes",
-    "stargazers_count": 106,
-    "open_issues_count": 28,
+    "stargazers_count": 108,
+    "open_issues_count": 29,
     "forks_count": 65
   },
   {
     "full_name": "vllm-project/tpu-inference",
-    "stargazers_count": 352,
-    "open_issues_count": 306,
-    "forks_count": 213
+    "stargazers_count": 357,
+    "open_issues_count": 303,
+    "forks_count": 215
   },
   {
     "full_name": "angelos-p/llm-from-scratch",
-    "stargazers_count": 3057,
+    "stargazers_count": 3072,
     "open_issues_count": 1,
-    "forks_count": 307
+    "forks_count": 310
   },
   {
     "full_name": "godotengine/godot-demo-projects",
-    "stargazers_count": 8972,
-    "open_issues_count": 89,
-    "forks_count": 2148
-  },
-  {
-    "full_name": "HKUDS/CLI-Anything",
-    "stargazers_count": 43144,
-    "open_issues_count": 55,
-    "forks_count": 4043
-  },
-  {
-    "full_name": "openai/symphony",
-    "stargazers_count": 25357,
-    "open_issues_count": 8,
-    "forks_count": 2570
+    "stargazers_count": 9006,
+    "open_issues_count": 90,
+    "forks_count": 2154
   }
 ]
