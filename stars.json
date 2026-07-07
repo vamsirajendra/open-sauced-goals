@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "AniruddhaChattopadhyay/Books",
+    "stargazers_count": 1649,
+    "open_issues_count": 0,
+    "forks_count": 265
+  },
+  {
+    "full_name": "webbrain-one/webbrain",
+    "stargazers_count": 257,
+    "open_issues_count": 16,
+    "forks_count": 30
+  },
+  {
     "full_name": "facebook/astryx",
-    "stargazers_count": 3703,
-    "open_issues_count": 201,
-    "forks_count": 206
+    "stargazers_count": 6561,
+    "open_issues_count": 243,
+    "forks_count": 423
   },
   {
     "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
-    "stargazers_count": 711,
-    "open_issues_count": 11,
-    "forks_count": 278
+    "stargazers_count": 723,
+    "open_issues_count": 12,
+    "forks_count": 286
   },
   {
     "full_name": "verselang/book",
-    "stargazers_count": 215,
+    "stargazers_count": 220,
     "open_issues_count": 5,
-    "forks_count": 32
+    "forks_count": 34
   },
   {
     "full_name": "ratatui/ratatui",
-    "stargazers_count": 21369,
-    "open_issues_count": 202,
-    "forks_count": 698
+    "stargazers_count": 21550,
+    "open_issues_count": 206,
+    "forks_count": 705
   },
   {
     "full_name": "AchetaGames/egs-api-rs",
@@ -37,63 +49,63 @@
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 37092,
-    "open_issues_count": 515,
-    "forks_count": 4460
+    "stargazers_count": 38323,
+    "open_issues_count": 522,
+    "forks_count": 4615
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 7578,
-    "open_issues_count": 78,
-    "forks_count": 330
+    "stargazers_count": 7730,
+    "open_issues_count": 81,
+    "forks_count": 341
   },
   {
     "full_name": "nexu-io/html-anything",
-    "stargazers_count": 7479,
-    "open_issues_count": 55,
-    "forks_count": 735
+    "stargazers_count": 7576,
+    "open_issues_count": 53,
+    "forks_count": 741
   },
   {
     "full_name": "nexu-io/html-video",
-    "stargazers_count": 3726,
-    "open_issues_count": 47,
-    "forks_count": 471
+    "stargazers_count": 3860,
+    "open_issues_count": 50,
+    "forks_count": 485
   },
   {
     "full_name": "op7418/guizang-ppt-skill",
-    "stargazers_count": 19844,
-    "open_issues_count": 25,
-    "forks_count": 1441
+    "stargazers_count": 20386,
+    "open_issues_count": 26,
+    "forks_count": 1468
   },
   {
     "full_name": "jamiewilson/form-to-google-sheets",
-    "stargazers_count": 4742,
+    "stargazers_count": 4740,
     "open_issues_count": 48,
-    "forks_count": 831
+    "forks_count": 829
   },
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 14473,
-    "open_issues_count": 3360,
-    "forks_count": 1480
+    "stargazers_count": 14649,
+    "open_issues_count": 3380,
+    "forks_count": 1486
   },
   {
     "full_name": "aaif-goose/goose",
-    "stargazers_count": 50579,
-    "open_issues_count": 250,
-    "forks_count": 5429
+    "stargazers_count": 50756,
+    "open_issues_count": 266,
+    "forks_count": 5465
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 225231,
-    "open_issues_count": 88,
-    "forks_count": 34460
+    "stargazers_count": 226738,
+    "open_issues_count": 73,
+    "forks_count": 34671
   },
   {
     "full_name": "nesquena/hermes-webui",
-    "stargazers_count": 15349,
-    "open_issues_count": 200,
-    "forks_count": 1997
+    "stargazers_count": 15595,
+    "open_issues_count": 222,
+    "forks_count": 2047
   },
   {
     "full_name": "RedHaloStudio/Sketchup_Importer",
@@ -109,74 +121,62 @@
   },
   {
     "full_name": "NVIDIA-Medtech/NV-Generate-CTMR",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 6,
     "forks_count": 29
   },
   {
     "full_name": "google/tunix",
-    "stargazers_count": 2359,
-    "open_issues_count": 239,
+    "stargazers_count": 2363,
+    "open_issues_count": 237,
     "forks_count": 316
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 34654,
-    "open_issues_count": 957,
-    "forks_count": 4933
+    "stargazers_count": 34727,
+    "open_issues_count": 945,
+    "forks_count": 4979
   },
   {
     "full_name": "intellicia-public/parastore",
-    "stargazers_count": 603,
+    "stargazers_count": 601,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "MoonshotAI/kimi-code",
-    "stargazers_count": 2931,
-    "open_issues_count": 420,
-    "forks_count": 372
+    "stargazers_count": 3000,
+    "open_issues_count": 461,
+    "forks_count": 395
   },
   {
     "full_name": "ocornut/imgui",
-    "stargazers_count": 74243,
-    "open_issues_count": 1233,
-    "forks_count": 11841
+    "stargazers_count": 74323,
+    "open_issues_count": 1235,
+    "forks_count": 11849
   },
   {
     "full_name": "openslide/openslide",
     "stargazers_count": 506,
     "open_issues_count": 98,
-    "forks_count": 267
+    "forks_count": 268
   },
   {
     "full_name": "thesysdev/openui",
-    "stargazers_count": 7640,
-    "open_issues_count": 82,
-    "forks_count": 564
+    "stargazers_count": 7806,
+    "open_issues_count": 92,
+    "forks_count": 570
   },
   {
     "full_name": "Tencent-Hunyuan/HunyuanVideo-1.5",
-    "stargazers_count": 4504,
+    "stargazers_count": 4513,
     "open_issues_count": 34,
     "forks_count": 231
   },
   {
     "full_name": "meituan-longcat/LongCat-Video",
-    "stargazers_count": 4596,
-    "open_issues_count": 70,
-    "forks_count": 739
-  },
-  {
-    "full_name": "tauri-apps/tauri",
-    "stargazers_count": 108596,
-    "open_issues_count": 1444,
-    "forks_count": 3745
-  },
-  {
-    "full_name": "nexu-io/open-design",
-    "stargazers_count": 74319,
-    "open_issues_count": 493,
-    "forks_count": 8472
+    "stargazers_count": 4670,
+    "open_issues_count": 72,
+    "forks_count": 754
   }
 ]
