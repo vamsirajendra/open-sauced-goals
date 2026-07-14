@@ -1,57 +1,93 @@
 [
   {
+    "full_name": "3b1b/manim",
+    "stargazers_count": 88497,
+    "open_issues_count": 495,
+    "forks_count": 7380
+  },
+  {
+    "full_name": "get-gah/gah",
+    "stargazers_count": 329,
+    "open_issues_count": 0,
+    "forks_count": 12
+  },
+  {
+    "full_name": "Egonex-AI/Understand-Anything",
+    "stargazers_count": 73851,
+    "open_issues_count": 256,
+    "forks_count": 6151
+  },
+  {
+    "full_name": "Google-Cloud-AI/alphaevolve-on-googlecloud",
+    "stargazers_count": 55,
+    "open_issues_count": 4,
+    "forks_count": 12
+  },
+  {
+    "full_name": "google/gvisor",
+    "stargazers_count": 18853,
+    "open_issues_count": 707,
+    "forks_count": 1830
+  },
+  {
+    "full_name": "argoproj/argo-cd",
+    "stargazers_count": 23683,
+    "open_issues_count": 4254,
+    "forks_count": 7613
+  },
+  {
     "full_name": "alejandrobalderas/claude-code-from-source",
-    "stargazers_count": 2608,
+    "stargazers_count": 2708,
     "open_issues_count": 3,
-    "forks_count": 724
+    "forks_count": 741
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 29558,
-    "open_issues_count": 127,
-    "forks_count": 1710
+    "stargazers_count": 29672,
+    "open_issues_count": 126,
+    "forks_count": 1724
   },
   {
     "full_name": "nasa/spacewasm",
-    "stargazers_count": 286,
-    "open_issues_count": 6,
-    "forks_count": 9
+    "stargazers_count": 1175,
+    "open_issues_count": 13,
+    "forks_count": 29
   },
   {
     "full_name": "AniruddhaChattopadhyay/Books",
-    "stargazers_count": 1705,
+    "stargazers_count": 1802,
     "open_issues_count": 0,
-    "forks_count": 275
+    "forks_count": 293
   },
   {
     "full_name": "webbrain-one/webbrain",
-    "stargazers_count": 313,
-    "open_issues_count": 18,
-    "forks_count": 38
+    "stargazers_count": 355,
+    "open_issues_count": 16,
+    "forks_count": 41
   },
   {
     "full_name": "facebook/astryx",
-    "stargazers_count": 7512,
-    "open_issues_count": 195,
-    "forks_count": 520
+    "stargazers_count": 8754,
+    "open_issues_count": 193,
+    "forks_count": 730
   },
   {
     "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
-    "stargazers_count": 729,
+    "stargazers_count": 748,
     "open_issues_count": 12,
-    "forks_count": 286
+    "forks_count": 292
   },
   {
     "full_name": "verselang/book",
-    "stargazers_count": 224,
-    "open_issues_count": 5,
+    "stargazers_count": 225,
+    "open_issues_count": 4,
     "forks_count": 34
   },
   {
     "full_name": "ratatui/ratatui",
-    "stargazers_count": 21587,
-    "open_issues_count": 205,
-    "forks_count": 710
+    "stargazers_count": 21665,
+    "open_issues_count": 209,
+    "forks_count": 713
   },
   {
     "full_name": "AchetaGames/egs-api-rs",
@@ -67,33 +103,33 @@
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 40105,
-    "open_issues_count": 538,
-    "forks_count": 4838
+    "stargazers_count": 41076,
+    "open_issues_count": 554,
+    "forks_count": 4969
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 7804,
-    "open_issues_count": 82,
-    "forks_count": 347
+    "stargazers_count": 7877,
+    "open_issues_count": 86,
+    "forks_count": 353
   },
   {
     "full_name": "nexu-io/html-anything",
-    "stargazers_count": 7661,
-    "open_issues_count": 53,
-    "forks_count": 745
+    "stargazers_count": 7744,
+    "open_issues_count": 51,
+    "forks_count": 752
   },
   {
     "full_name": "nexu-io/html-video",
-    "stargazers_count": 3905,
-    "open_issues_count": 53,
-    "forks_count": 494
+    "stargazers_count": 3966,
+    "open_issues_count": 51,
+    "forks_count": 499
   },
   {
     "full_name": "op7418/guizang-ppt-skill",
-    "stargazers_count": 20834,
+    "stargazers_count": 21223,
     "open_issues_count": 27,
-    "forks_count": 1492
+    "forks_count": 1511
   },
   {
     "full_name": "jamiewilson/form-to-google-sheets",
@@ -103,31 +139,31 @@
   },
   {
     "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 14686,
-    "open_issues_count": 3388,
-    "forks_count": 1489
+    "stargazers_count": 14724,
+    "open_issues_count": 3389,
+    "forks_count": 1495
   },
   {
     "full_name": "aaif-goose/goose",
-    "stargazers_count": 50943,
-    "open_issues_count": 284,
-    "forks_count": 5530
+    "stargazers_count": 51185,
+    "open_issues_count": 317,
+    "forks_count": 5680
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 227952,
-    "open_issues_count": 85,
-    "forks_count": 34863
+    "stargazers_count": 229331,
+    "open_issues_count": 103,
+    "forks_count": 35134
   },
   {
     "full_name": "nesquena/hermes-webui",
-    "stargazers_count": 15732,
-    "open_issues_count": 234,
-    "forks_count": 2075
+    "stargazers_count": 16003,
+    "open_issues_count": 250,
+    "forks_count": 2135
   },
   {
     "full_name": "RedHaloStudio/Sketchup_Importer",
-    "stargazers_count": 602,
+    "stargazers_count": 603,
     "open_issues_count": 3,
     "forks_count": 64
   },
@@ -141,42 +177,6 @@
     "full_name": "NVIDIA-Medtech/NV-Generate-CTMR",
     "stargazers_count": 195,
     "open_issues_count": 6,
-    "forks_count": 29
-  },
-  {
-    "full_name": "google/tunix",
-    "stargazers_count": 2367,
-    "open_issues_count": 240,
-    "forks_count": 315
-  },
-  {
-    "full_name": "continuedev/continue",
-    "stargazers_count": 34773,
-    "open_issues_count": 942,
-    "forks_count": 5006
-  },
-  {
-    "full_name": "intellicia-public/parastore",
-    "stargazers_count": 602,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "MoonshotAI/kimi-code",
-    "stargazers_count": 3037,
-    "open_issues_count": 464,
-    "forks_count": 409
-  },
-  {
-    "full_name": "ocornut/imgui",
-    "stargazers_count": 74393,
-    "open_issues_count": 1233,
-    "forks_count": 11887
-  },
-  {
-    "full_name": "openslide/openslide",
-    "stargazers_count": 507,
-    "open_issues_count": 98,
-    "forks_count": 268
+    "forks_count": 30
   }
 ]
