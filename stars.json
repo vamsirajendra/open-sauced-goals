@@ -1,33 +1,63 @@
 [
   {
+    "full_name": "giannisanni/pulsar",
+    "stargazers_count": 162,
+    "open_issues_count": 4,
+    "forks_count": 19
+  },
+  {
+    "full_name": "lyogavin/airllm",
+    "stargazers_count": 27408,
+    "open_issues_count": 123,
+    "forks_count": 2990
+  },
+  {
+    "full_name": "withastro/flue",
+    "stargazers_count": 7663,
+    "open_issues_count": 7,
+    "forks_count": 447
+  },
+  {
+    "full_name": "microsoft/WSL",
+    "stargazers_count": 33292,
+    "open_issues_count": 970,
+    "forks_count": 1795
+  },
+  {
+    "full_name": "starling-build/starling",
+    "stargazers_count": 279,
+    "open_issues_count": 9,
+    "forks_count": 16
+  },
+  {
     "full_name": "NVIDIA/skills",
-    "stargazers_count": 2743,
-    "open_issues_count": 15,
-    "forks_count": 319
+    "stargazers_count": 2784,
+    "open_issues_count": 17,
+    "forks_count": 323
   },
   {
     "full_name": "vercel-labs/skills",
-    "stargazers_count": 27654,
-    "open_issues_count": 953,
-    "forks_count": 2332
+    "stargazers_count": 27964,
+    "open_issues_count": 982,
+    "forks_count": 2355
   },
   {
     "full_name": "xai-org/grok-build",
-    "stargazers_count": 23595,
+    "stargazers_count": 24056,
     "open_issues_count": 0,
-    "forks_count": 4484
+    "forks_count": 4561
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 81048,
-    "open_issues_count": 135,
-    "forks_count": 8744
+    "stargazers_count": 81493,
+    "open_issues_count": 141,
+    "forks_count": 8784
   },
   {
     "full_name": "3b1b/manim",
-    "stargazers_count": 89028,
-    "open_issues_count": 493,
-    "forks_count": 7419
+    "stargazers_count": 89112,
+    "open_issues_count": 494,
+    "forks_count": 7420
   },
   {
     "full_name": "get-gah/gah",
@@ -37,81 +67,81 @@
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 76877,
-    "open_issues_count": 259,
-    "forks_count": 6436
+    "stargazers_count": 77375,
+    "open_issues_count": 260,
+    "forks_count": 6488
   },
   {
     "full_name": "Google-Cloud-AI/alphaevolve-on-googlecloud",
-    "stargazers_count": 84,
-    "open_issues_count": 9,
+    "stargazers_count": 83,
+    "open_issues_count": 8,
     "forks_count": 19
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 18925,
-    "open_issues_count": 748,
-    "forks_count": 1819
+    "stargazers_count": 18972,
+    "open_issues_count": 751,
+    "forks_count": 1877
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 23789,
-    "open_issues_count": 4306,
-    "forks_count": 7617
+    "stargazers_count": 23829,
+    "open_issues_count": 4327,
+    "forks_count": 7686
   },
   {
     "full_name": "alejandrobalderas/claude-code-from-source",
-    "stargazers_count": 2736,
+    "stargazers_count": 2741,
     "open_issues_count": 3,
     "forks_count": 747
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 30085,
-    "open_issues_count": 120,
-    "forks_count": 1757
+    "stargazers_count": 30183,
+    "open_issues_count": 119,
+    "forks_count": 1764
   },
   {
     "full_name": "nasa/spacewasm",
-    "stargazers_count": 1447,
-    "open_issues_count": 12,
-    "forks_count": 47
+    "stargazers_count": 1458,
+    "open_issues_count": 13,
+    "forks_count": 48
   },
   {
     "full_name": "AniruddhaChattopadhyay/Books",
     "stargazers_count": 1821,
     "open_issues_count": 0,
-    "forks_count": 300
+    "forks_count": 301
   },
   {
     "full_name": "webbrain-one/webbrain",
-    "stargazers_count": 560,
+    "stargazers_count": 609,
     "open_issues_count": 16,
-    "forks_count": 71
+    "forks_count": 77
   },
   {
     "full_name": "facebook/astryx",
-    "stargazers_count": 11172,
-    "open_issues_count": 326,
-    "forks_count": 905
+    "stargazers_count": 11475,
+    "open_issues_count": 340,
+    "forks_count": 975
   },
   {
     "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
-    "stargazers_count": 772,
+    "stargazers_count": 784,
     "open_issues_count": 12,
-    "forks_count": 312
+    "forks_count": 317
   },
   {
     "full_name": "verselang/book",
-    "stargazers_count": 251,
+    "stargazers_count": 253,
     "open_issues_count": 1,
     "forks_count": 34
   },
   {
     "full_name": "ratatui/ratatui",
-    "stargazers_count": 21975,
-    "open_issues_count": 224,
-    "forks_count": 729
+    "stargazers_count": 22052,
+    "open_issues_count": 218,
+    "forks_count": 730
   },
   {
     "full_name": "AchetaGames/egs-api-rs",
@@ -127,56 +157,26 @@
   },
   {
     "full_name": "jamiepine/voicebox",
-    "stargazers_count": 47543,
-    "open_issues_count": 569,
-    "forks_count": 5834
+    "stargazers_count": 48816,
+    "open_issues_count": 578,
+    "forks_count": 5999
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 8239,
-    "open_issues_count": 104,
-    "forks_count": 387
+    "stargazers_count": 8283,
+    "open_issues_count": 107,
+    "forks_count": 392
   },
   {
     "full_name": "nexu-io/html-anything",
-    "stargazers_count": 8022,
+    "stargazers_count": 8076,
     "open_issues_count": 57,
-    "forks_count": 787
+    "forks_count": 790
   },
   {
     "full_name": "nexu-io/html-video",
-    "stargazers_count": 4224,
+    "stargazers_count": 4247,
     "open_issues_count": 51,
-    "forks_count": 528
-  },
-  {
-    "full_name": "op7418/guizang-ppt-skill",
-    "stargazers_count": 22821,
-    "open_issues_count": 33,
-    "forks_count": 1653
-  },
-  {
-    "full_name": "jamiewilson/form-to-google-sheets",
-    "stargazers_count": 4753,
-    "open_issues_count": 47,
-    "forks_count": 829
-  },
-  {
-    "full_name": "organicmaps/organicmaps",
-    "stargazers_count": 14915,
-    "open_issues_count": 3420,
-    "forks_count": 1517
-  },
-  {
-    "full_name": "aaif-goose/goose",
-    "stargazers_count": 51995,
-    "open_issues_count": 371,
-    "forks_count": 5816
-  },
-  {
-    "full_name": "affaan-m/ECC",
-    "stargazers_count": 236321,
-    "open_issues_count": 107,
-    "forks_count": 35938
+    "forks_count": 535
   }
 ]
