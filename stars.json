@@ -1,75 +1,93 @@
 [
   {
+    "full_name": "lollipopkit/flutter_server_box",
+    "stargazers_count": 8497,
+    "open_issues_count": 14,
+    "forks_count": 531
+  },
+  {
+    "full_name": "ToolJet/ToolJet",
+    "stargazers_count": 38697,
+    "open_issues_count": 1120,
+    "forks_count": 5232
+  },
+  {
+    "full_name": "slavingia/skills",
+    "stargazers_count": 9880,
+    "open_issues_count": 3,
+    "forks_count": 1034
+  },
+  {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 4808,
+    "stargazers_count": 4873,
     "open_issues_count": 0,
-    "forks_count": 595
+    "forks_count": 600
   },
   {
     "full_name": "ashishps1/awesome-system-design-resources",
-    "stargazers_count": 40446,
+    "stargazers_count": 40562,
     "open_issues_count": 15,
-    "forks_count": 8608
+    "forks_count": 8623
   },
   {
     "full_name": "giannisanni/pulsar",
-    "stargazers_count": 202,
-    "open_issues_count": 5,
+    "stargazers_count": 205,
+    "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 30605,
-    "open_issues_count": 135,
-    "forks_count": 3257
+    "stargazers_count": 31051,
+    "open_issues_count": 136,
+    "forks_count": 3302
   },
   {
     "full_name": "withastro/flue",
-    "stargazers_count": 7794,
-    "open_issues_count": 17,
-    "forks_count": 452
+    "stargazers_count": 7866,
+    "open_issues_count": 27,
+    "forks_count": 461
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 33363,
-    "open_issues_count": 970,
-    "forks_count": 1800
+    "stargazers_count": 33395,
+    "open_issues_count": 972,
+    "forks_count": 1803
   },
   {
     "full_name": "starling-build/starling",
-    "stargazers_count": 306,
-    "open_issues_count": 9,
-    "forks_count": 17
+    "stargazers_count": 314,
+    "open_issues_count": 10,
+    "forks_count": 18
   },
   {
     "full_name": "NVIDIA/skills",
-    "stargazers_count": 2844,
-    "open_issues_count": 16,
-    "forks_count": 331
+    "stargazers_count": 2923,
+    "open_issues_count": 14,
+    "forks_count": 337
   },
   {
     "full_name": "vercel-labs/skills",
-    "stargazers_count": 28602,
-    "open_issues_count": 1009,
-    "forks_count": 2423
+    "stargazers_count": 28850,
+    "open_issues_count": 1043,
+    "forks_count": 2445
   },
   {
     "full_name": "xai-org/grok-build",
-    "stargazers_count": 24620,
+    "stargazers_count": 25086,
     "open_issues_count": 0,
-    "forks_count": 4684
+    "forks_count": 4748
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 85825,
-    "open_issues_count": 107,
-    "forks_count": 9236
+    "stargazers_count": 87019,
+    "open_issues_count": 113,
+    "forks_count": 9347
   },
   {
     "full_name": "3b1b/manim",
-    "stargazers_count": 89878,
-    "open_issues_count": 485,
-    "forks_count": 7459
+    "stargazers_count": 90935,
+    "open_issues_count": 492,
+    "forks_count": 7535
   },
   {
     "full_name": "get-gah/gah",
@@ -79,104 +97,86 @@
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 78848,
-    "open_issues_count": 274,
-    "forks_count": 6615
+    "stargazers_count": 79250,
+    "open_issues_count": 278,
+    "forks_count": 6654
   },
   {
     "full_name": "Google-Cloud-AI/alphaevolve-on-googlecloud",
-    "stargazers_count": 94,
-    "open_issues_count": 10,
+    "stargazers_count": 95,
+    "open_issues_count": 11,
     "forks_count": 22
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 19050,
-    "open_issues_count": 770,
-    "forks_count": 1902
+    "stargazers_count": 19076,
+    "open_issues_count": 776,
+    "forks_count": 1913
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 23886,
-    "open_issues_count": 4334,
-    "forks_count": 7723
+    "stargazers_count": 23918,
+    "open_issues_count": 4360,
+    "forks_count": 7735
   },
   {
     "full_name": "alejandrobalderas/claude-code-from-source",
-    "stargazers_count": 2749,
+    "stargazers_count": 2750,
     "open_issues_count": 3,
-    "forks_count": 748
+    "forks_count": 749
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 30306,
-    "open_issues_count": 118,
-    "forks_count": 1774
+    "stargazers_count": 30380,
+    "open_issues_count": 119,
+    "forks_count": 1779
   },
   {
     "full_name": "nasa/spacewasm",
-    "stargazers_count": 1467,
+    "stargazers_count": 1475,
     "open_issues_count": 18,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "AniruddhaChattopadhyay/Books",
-    "stargazers_count": 1820,
+    "stargazers_count": 1824,
     "open_issues_count": 0,
     "forks_count": 299
   },
   {
     "full_name": "webbrain-one/webbrain",
-    "stargazers_count": 704,
-    "open_issues_count": 18,
-    "forks_count": 86
+    "stargazers_count": 748,
+    "open_issues_count": 14,
+    "forks_count": 91
   },
   {
     "full_name": "facebook/astryx",
-    "stargazers_count": 11902,
-    "open_issues_count": 361,
-    "forks_count": 1017
+    "stargazers_count": 11986,
+    "open_issues_count": 373,
+    "forks_count": 1029
   },
   {
     "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
-    "stargazers_count": 798,
+    "stargazers_count": 800,
     "open_issues_count": 12,
-    "forks_count": 322
+    "forks_count": 324
   },
   {
     "full_name": "verselang/book",
-    "stargazers_count": 265,
+    "stargazers_count": 272,
     "open_issues_count": 1,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "ratatui/ratatui",
-    "stargazers_count": 22176,
-    "open_issues_count": 224,
-    "forks_count": 736
+    "stargazers_count": 22213,
+    "open_issues_count": 225,
+    "forks_count": 738
   },
   {
     "full_name": "AchetaGames/egs-api-rs",
     "stargazers_count": 14,
     "open_issues_count": 2,
     "forks_count": 5
-  },
-  {
-    "full_name": "LaurentOngaro/egs-api-py",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jamiepine/voicebox",
-    "stargazers_count": 50014,
-    "open_issues_count": 627,
-    "forks_count": 6191
-  },
-  {
-    "full_name": "EpicGames/lore",
-    "stargazers_count": 8360,
-    "open_issues_count": 103,
-    "forks_count": 394
   }
 ]
