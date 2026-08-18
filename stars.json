@@ -1,105 +1,111 @@
 [
   {
+    "full_name": "patchy631/time-to-first-token",
+    "stargazers_count": 724,
+    "open_issues_count": 3,
+    "forks_count": 90
+  },
+  {
     "full_name": "lollipopkit/flutter_server_box",
-    "stargazers_count": 8497,
-    "open_issues_count": 14,
-    "forks_count": 531
+    "stargazers_count": 8543,
+    "open_issues_count": 16,
+    "forks_count": 536
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 38697,
-    "open_issues_count": 1120,
-    "forks_count": 5232
+    "stargazers_count": 40405,
+    "open_issues_count": 1143,
+    "forks_count": 5351
   },
   {
     "full_name": "slavingia/skills",
-    "stargazers_count": 9880,
+    "stargazers_count": 9903,
     "open_issues_count": 3,
-    "forks_count": 1034
+    "forks_count": 1033
   },
   {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 4873,
+    "stargazers_count": 4991,
     "open_issues_count": 0,
-    "forks_count": 600
+    "forks_count": 611
   },
   {
     "full_name": "ashishps1/awesome-system-design-resources",
-    "stargazers_count": 40562,
+    "stargazers_count": 40715,
     "open_issues_count": 15,
-    "forks_count": 8623
+    "forks_count": 8654
   },
   {
     "full_name": "giannisanni/pulsar",
-    "stargazers_count": 205,
+    "stargazers_count": 206,
     "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 31051,
+    "stargazers_count": 31484,
     "open_issues_count": 136,
-    "forks_count": 3302
+    "forks_count": 3343
   },
   {
     "full_name": "withastro/flue",
-    "stargazers_count": 7866,
+    "stargazers_count": 7927,
     "open_issues_count": 27,
-    "forks_count": 461
+    "forks_count": 468
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 33395,
-    "open_issues_count": 972,
-    "forks_count": 1803
+    "stargazers_count": 33430,
+    "open_issues_count": 968,
+    "forks_count": 1801
   },
   {
     "full_name": "starling-build/starling",
-    "stargazers_count": 314,
+    "stargazers_count": 320,
     "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "NVIDIA/skills",
-    "stargazers_count": 2923,
-    "open_issues_count": 14,
-    "forks_count": 337
+    "stargazers_count": 2988,
+    "open_issues_count": 13,
+    "forks_count": 348
   },
   {
     "full_name": "vercel-labs/skills",
-    "stargazers_count": 28850,
-    "open_issues_count": 1043,
-    "forks_count": 2445
+    "stargazers_count": 29114,
+    "open_issues_count": 1076,
+    "forks_count": 2478
   },
   {
     "full_name": "xai-org/grok-build",
-    "stargazers_count": 25086,
+    "stargazers_count": 25545,
     "open_issues_count": 0,
-    "forks_count": 4748
+    "forks_count": 4813
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 87019,
-    "open_issues_count": 113,
-    "forks_count": 9347
+    "stargazers_count": 88074,
+    "open_issues_count": 109,
+    "forks_count": 9441
   },
   {
     "full_name": "3b1b/manim",
-    "stargazers_count": 90935,
-    "open_issues_count": 492,
-    "forks_count": 7535
+    "stargazers_count": 91507,
+    "open_issues_count": 485,
+    "forks_count": 7560
   },
   {
     "full_name": "get-gah/gah",
-    "stargazers_count": 333,
+    "stargazers_count": 336,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 79250,
-    "open_issues_count": 278,
-    "forks_count": 6654
+    "stargazers_count": 79632,
+    "open_issues_count": 284,
+    "forks_count": 6685
   },
   {
     "full_name": "Google-Cloud-AI/alphaevolve-on-googlecloud",
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 19076,
-    "open_issues_count": 776,
-    "forks_count": 1913
+    "stargazers_count": 19103,
+    "open_issues_count": 770,
+    "forks_count": 1920
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 23918,
-    "open_issues_count": 4360,
-    "forks_count": 7735
+    "stargazers_count": 23938,
+    "open_issues_count": 4358,
+    "forks_count": 7739
   },
   {
     "full_name": "alejandrobalderas/claude-code-from-source",
-    "stargazers_count": 2750,
+    "stargazers_count": 2754,
     "open_issues_count": 3,
-    "forks_count": 749
+    "forks_count": 750
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 30380,
+    "stargazers_count": 30415,
     "open_issues_count": 119,
-    "forks_count": 1779
+    "forks_count": 1780
   },
   {
     "full_name": "nasa/spacewasm",
-    "stargazers_count": 1475,
-    "open_issues_count": 18,
-    "forks_count": 50
+    "stargazers_count": 1482,
+    "open_issues_count": 20,
+    "forks_count": 49
   },
   {
     "full_name": "AniruddhaChattopadhyay/Books",
-    "stargazers_count": 1824,
+    "stargazers_count": 1826,
     "open_issues_count": 0,
-    "forks_count": 299
+    "forks_count": 300
   },
   {
     "full_name": "webbrain-one/webbrain",
-    "stargazers_count": 748,
+    "stargazers_count": 791,
     "open_issues_count": 14,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "facebook/astryx",
-    "stargazers_count": 11986,
-    "open_issues_count": 373,
-    "forks_count": 1029
+    "stargazers_count": 12079,
+    "open_issues_count": 381,
+    "forks_count": 1037
   },
   {
     "full_name": "PacktPublishing/30-Agents-Every-AI-Engineer-Must-Build",
-    "stargazers_count": 800,
+    "stargazers_count": 804,
     "open_issues_count": 12,
-    "forks_count": 324
+    "forks_count": 328
   },
   {
     "full_name": "verselang/book",
-    "stargazers_count": 272,
+    "stargazers_count": 277,
     "open_issues_count": 1,
-    "forks_count": 37
+    "forks_count": 36
   },
   {
     "full_name": "ratatui/ratatui",
-    "stargazers_count": 22213,
-    "open_issues_count": 225,
-    "forks_count": 738
-  },
-  {
-    "full_name": "AchetaGames/egs-api-rs",
-    "stargazers_count": 14,
-    "open_issues_count": 2,
-    "forks_count": 5
+    "stargazers_count": 22261,
+    "open_issues_count": 234,
+    "forks_count": 742
   }
 ]
