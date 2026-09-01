@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "stargazers_count": 41001,
+    "open_issues_count": 25,
+    "forks_count": 3787
+  },
+  {
     "full_name": "makerspet/oomwoo-install",
-    "stargazers_count": 68,
+    "stargazers_count": 73,
     "open_issues_count": 0,
-    "forks_count": 13
+    "forks_count": 17
   },
   {
     "full_name": "makerspet/oomwoo",
-    "stargazers_count": 9720,
-    "open_issues_count": 4,
-    "forks_count": 548
+    "stargazers_count": 10007,
+    "open_issues_count": 3,
+    "forks_count": 594
   },
   {
     "full_name": "laike9m/Python-Type-Challenges",
-    "stargazers_count": 627,
+    "stargazers_count": 628,
     "open_issues_count": 10,
     "forks_count": 36
   },
   {
     "full_name": "patchy631/time-to-first-token",
-    "stargazers_count": 773,
+    "stargazers_count": 856,
     "open_issues_count": 3,
-    "forks_count": 95
+    "forks_count": 101
   },
   {
     "full_name": "lollipopkit/flutter_server_box",
-    "stargazers_count": 8608,
-    "open_issues_count": 16,
+    "stargazers_count": 8624,
+    "open_issues_count": 15,
     "forks_count": 546
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 40785,
-    "open_issues_count": 1173,
-    "forks_count": 5420
+    "stargazers_count": 40805,
+    "open_issues_count": 1177,
+    "forks_count": 5423
   },
   {
     "full_name": "slavingia/skills",
-    "stargazers_count": 9933,
+    "stargazers_count": 9948,
     "open_issues_count": 3,
     "forks_count": 1031
   },
   {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 5090,
+    "stargazers_count": 5118,
     "open_issues_count": 0,
-    "forks_count": 624
+    "forks_count": 627
   },
   {
     "full_name": "ashishps1/awesome-system-design-resources",
-    "stargazers_count": 41003,
+    "stargazers_count": 41080,
     "open_issues_count": 16,
-    "forks_count": 8692
+    "forks_count": 8697
   },
   {
     "full_name": "giannisanni/pulsar",
@@ -61,122 +67,116 @@
   },
   {
     "full_name": "lyogavin/airllm",
-    "stargazers_count": 32911,
-    "open_issues_count": 144,
-    "forks_count": 3469
+    "stargazers_count": 33385,
+    "open_issues_count": 146,
+    "forks_count": 3500
   },
   {
     "full_name": "withastro/flue",
-    "stargazers_count": 8052,
-    "open_issues_count": 38,
-    "forks_count": 473
+    "stargazers_count": 8106,
+    "open_issues_count": 42,
+    "forks_count": 477
   },
   {
     "full_name": "microsoft/WSL",
-    "stargazers_count": 33546,
-    "open_issues_count": 983,
+    "stargazers_count": 33587,
+    "open_issues_count": 990,
     "forks_count": 1809
   },
   {
     "full_name": "starling-build/starling",
-    "stargazers_count": 332,
+    "stargazers_count": 335,
     "open_issues_count": 10,
     "forks_count": 18
   },
   {
     "full_name": "NVIDIA/skills",
-    "stargazers_count": 3121,
-    "open_issues_count": 15,
-    "forks_count": 362
+    "stargazers_count": 3168,
+    "open_issues_count": 19,
+    "forks_count": 369
   },
   {
     "full_name": "vercel-labs/skills",
-    "stargazers_count": 29865,
-    "open_issues_count": 1136,
-    "forks_count": 2549
+    "stargazers_count": 30139,
+    "open_issues_count": 1167,
+    "forks_count": 2580
   },
   {
     "full_name": "xai-org/grok-build",
-    "stargazers_count": 26179,
+    "stargazers_count": 26306,
     "open_issues_count": 0,
-    "forks_count": 4916
+    "forks_count": 4947
   },
   {
     "full_name": "addyosmani/agent-skills",
-    "stargazers_count": 90428,
-    "open_issues_count": 121,
-    "forks_count": 9671
+    "stargazers_count": 91273,
+    "open_issues_count": 130,
+    "forks_count": 9753
   },
   {
     "full_name": "3b1b/manim",
-    "stargazers_count": 92138,
-    "open_issues_count": 490,
-    "forks_count": 7592
+    "stargazers_count": 92349,
+    "open_issues_count": 491,
+    "forks_count": 7610
   },
   {
     "full_name": "get-gah/gah",
-    "stargazers_count": 338,
-    "open_issues_count": 0,
+    "stargazers_count": 340,
+    "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 80836,
-    "open_issues_count": 292,
-    "forks_count": 6799
+    "stargazers_count": 81217,
+    "open_issues_count": 300,
+    "forks_count": 6830
   },
   {
     "full_name": "Google-Cloud-AI/alphaevolve-on-googlecloud",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 14,
     "forks_count": 25
   },
   {
     "full_name": "google/gvisor",
-    "stargazers_count": 19181,
-    "open_issues_count": 836,
-    "forks_count": 1943
+    "stargazers_count": 19208,
+    "open_issues_count": 856,
+    "forks_count": 1971
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 24021,
-    "open_issues_count": 4411,
-    "forks_count": 7798
+    "stargazers_count": 24046,
+    "open_issues_count": 4436,
+    "forks_count": 7826
   },
   {
     "full_name": "alejandrobalderas/claude-code-from-source",
-    "stargazers_count": 2776,
+    "stargazers_count": 2781,
     "open_issues_count": 3,
     "forks_count": 755
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 30614,
-    "open_issues_count": 128,
-    "forks_count": 1797
+    "stargazers_count": 30671,
+    "open_issues_count": 126,
+    "forks_count": 1799
   },
   {
     "full_name": "nasa/spacewasm",
-    "stargazers_count": 1493,
+    "stargazers_count": 1514,
     "open_issues_count": 20,
     "forks_count": 54
   },
   {
     "full_name": "AniruddhaChattopadhyay/Books",
-    "stargazers_count": 1862,
+    "stargazers_count": 1861,
     "open_issues_count": 0,
-    "forks_count": 308
+    "forks_count": 310
   },
   {
     "full_name": "webbrain-one/webbrain",
-    "stargazers_count": 956,
+    "stargazers_count": 990,
     "open_issues_count": 8,
-    "forks_count": 115
-  },
-  {
-    "full_name": "facebook/astryx",
-    "stargazers_count": 12534,
-    "open_issues_count": 422,
-    "forks_count": 1068
+    "forks_count": 119
   }
 ]
