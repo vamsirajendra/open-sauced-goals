@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "legendary-gl/legendary",
+    "stargazers_count": 5319,
+    "open_issues_count": 117,
+    "forks_count": 205
+  },
+  {
+    "full_name": "Allar/ue4-mp-downloader",
+    "stargazers_count": 193,
+    "open_issues_count": 10,
+    "forks_count": 33
+  },
+  {
+    "full_name": "goabiaryan/awesome-gpu-engineering",
+    "stargazers_count": 602,
+    "open_issues_count": 5,
+    "forks_count": 73
+  },
+  {
+    "full_name": "linuxmint/cinnamon",
+    "stargazers_count": 5609,
+    "open_issues_count": 874,
+    "forks_count": 925
+  },
+  {
     "full_name": "3b1b/videos",
-    "stargazers_count": 11311,
-    "open_issues_count": 48,
-    "forks_count": 2095
+    "stargazers_count": 11327,
+    "open_issues_count": 49,
+    "forks_count": 2098
   },
   {
     "full_name": "mitmath/1806",
@@ -13,27 +37,27 @@
   },
   {
     "full_name": "earendil-works/pi",
-    "stargazers_count": 112817,
-    "open_issues_count": 274,
-    "forks_count": 14318
+    "stargazers_count": 113656,
+    "open_issues_count": 312,
+    "forks_count": 14450
   },
   {
     "full_name": "ingelibre/ingetrazo",
-    "stargazers_count": 636,
-    "open_issues_count": 183,
-    "forks_count": 96
+    "stargazers_count": 763,
+    "open_issues_count": 232,
+    "forks_count": 110
   },
   {
     "full_name": "modal-labs/gpu-glossary",
-    "stargazers_count": 739,
+    "stargazers_count": 743,
     "open_issues_count": 20,
     "forks_count": 96
   },
   {
     "full_name": "oblien/openship",
-    "stargazers_count": 14552,
-    "open_issues_count": 131,
-    "forks_count": 1294
+    "stargazers_count": 14620,
+    "open_issues_count": 136,
+    "forks_count": 1300
   },
   {
     "full_name": "aousd/specifications-public",
@@ -43,9 +67,9 @@
   },
   {
     "full_name": "ARISE-Initiative/robosuite",
-    "stargazers_count": 2642,
-    "open_issues_count": 117,
-    "forks_count": 780
+    "stargazers_count": 2645,
+    "open_issues_count": 118,
+    "forks_count": 779
   },
   {
     "full_name": "NVIDIA-Omniverse/usd-convert-gsplat",
@@ -67,61 +91,61 @@
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 56427,
-    "open_issues_count": 1295,
-    "forks_count": 1739
+    "stargazers_count": 56500,
+    "open_issues_count": 1303,
+    "forks_count": 1745
   },
   {
     "full_name": "alam00000/bentopdf",
-    "stargazers_count": 15843,
-    "open_issues_count": 170,
-    "forks_count": 1378
+    "stargazers_count": 15898,
+    "open_issues_count": 173,
+    "forks_count": 1384
   },
   {
     "full_name": "openstreetmap/iD",
-    "stargazers_count": 3890,
-    "open_issues_count": 1018,
+    "stargazers_count": 3893,
+    "open_issues_count": 1020,
     "forks_count": 1494
   },
   {
     "full_name": "armory3d/armorpaint",
-    "stargazers_count": 5316,
-    "open_issues_count": 103,
-    "forks_count": 609
+    "stargazers_count": 5339,
+    "open_issues_count": 96,
+    "forks_count": 613
   },
   {
     "full_name": "yutohw/Learning-Architecture-With-Reinforcement",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "neka-nat/freecad-mcp",
-    "stargazers_count": 2703,
-    "open_issues_count": 53,
-    "forks_count": 333
+    "stargazers_count": 2754,
+    "open_issues_count": 52,
+    "forks_count": 339
   },
   {
     "full_name": "vercel-labs/agent-skills",
-    "stargazers_count": 31980,
-    "open_issues_count": 179,
-    "forks_count": 2804
+    "stargazers_count": 32103,
+    "open_issues_count": 178,
+    "forks_count": 2812
   },
   {
     "full_name": "agentskills/agentskills",
-    "stargazers_count": 25929,
-    "open_issues_count": 96,
-    "forks_count": 1945
+    "stargazers_count": 25983,
+    "open_issues_count": 97,
+    "forks_count": 1955
   },
   {
     "full_name": "marp-team/marp-cli",
-    "stargazers_count": 3853,
+    "stargazers_count": 3861,
     "open_issues_count": 19,
     "forks_count": 194
   },
   {
     "full_name": "marp-team/marp",
-    "stargazers_count": 12598,
+    "stargazers_count": 12611,
     "open_issues_count": 1,
     "forks_count": 300
   },
@@ -133,15 +157,15 @@
   },
   {
     "full_name": "Heroic-Games-Launcher/HeroicGamesLauncher",
-    "stargazers_count": 12358,
-    "open_issues_count": 917,
-    "forks_count": 693
+    "stargazers_count": 12365,
+    "open_issues_count": 920,
+    "forks_count": 694
   },
   {
     "full_name": "slideflow/slideflow",
     "stargazers_count": 376,
     "open_issues_count": 47,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "numanaral/mermaid-toolkit-for-google-docs",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "bilawalsidhu/gods-eye-view",
-    "stargazers_count": 48087,
-    "open_issues_count": 300,
-    "forks_count": 9789
-  },
-  {
-    "full_name": "K-Dense-AI/scientific-agent-skills",
-    "stargazers_count": 47724,
-    "open_issues_count": 21,
-    "forks_count": 4313
-  },
-  {
-    "full_name": "makerspet/oomwoo-install",
-    "stargazers_count": 100,
-    "open_issues_count": 0,
-    "forks_count": 25
-  },
-  {
-    "full_name": "makerspet/oomwoo",
-    "stargazers_count": 11373,
-    "open_issues_count": 2,
-    "forks_count": 719
-  },
-  {
-    "full_name": "laike9m/Python-Type-Challenges",
-    "stargazers_count": 628,
-    "open_issues_count": 10,
-    "forks_count": 36
+    "stargazers_count": 49329,
+    "open_issues_count": 291,
+    "forks_count": 9986
   }
 ]
