@@ -1,45 +1,69 @@
 [
   {
+    "full_name": "mattpocock/skills",
+    "stargazers_count": 315841,
+    "open_issues_count": 216,
+    "forks_count": 26433
+  },
+  {
+    "full_name": "oracle/opengrok",
+    "stargazers_count": 5028,
+    "open_issues_count": 551,
+    "forks_count": 845
+  },
+  {
+    "full_name": "browserslist/browserslist",
+    "stargazers_count": 13583,
+    "open_issues_count": 43,
+    "forks_count": 796
+  },
+  {
+    "full_name": "l0ng-ai/openidea",
+    "stargazers_count": 7056,
+    "open_issues_count": 277,
+    "forks_count": 599
+  },
+  {
     "full_name": "runtimerobotics/ros2_gui_installer",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "IPedrax/BIMCraft",
-    "stargazers_count": 889,
-    "open_issues_count": 43,
-    "forks_count": 141
+    "stargazers_count": 957,
+    "open_issues_count": 19,
+    "forks_count": 158
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 51102,
-    "open_issues_count": 7,
-    "forks_count": 2549
+    "stargazers_count": 51352,
+    "open_issues_count": 9,
+    "forks_count": 2575
   },
   {
     "full_name": "DavidHDev/canvas-ui",
-    "stargazers_count": 5311,
+    "stargazers_count": 5342,
     "open_issues_count": 4,
-    "forks_count": 272
+    "forks_count": 274
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 125344,
+    "stargazers_count": 125832,
     "open_issues_count": 311,
-    "forks_count": 13896
+    "forks_count": 13936
   },
   {
     "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 144471,
-    "open_issues_count": 87,
-    "forks_count": 15288
+    "stargazers_count": 145886,
+    "open_issues_count": 90,
+    "forks_count": 15435
   },
   {
     "full_name": "viettranx/3dviz-pro-max",
-    "stargazers_count": 1007,
+    "stargazers_count": 1047,
     "open_issues_count": 2,
-    "forks_count": 119
+    "forks_count": 123
   },
   {
     "full_name": "ishitham-labs/ishika-core",
@@ -49,75 +73,75 @@
   },
   {
     "full_name": "fragever/FragmentsUnreal",
-    "stargazers_count": 20,
+    "stargazers_count": 37,
     "open_issues_count": 5,
-    "forks_count": 3
+    "forks_count": 8
   },
   {
     "full_name": "google/flatbuffers",
-    "stargazers_count": 26607,
-    "open_issues_count": 337,
-    "forks_count": 3719
+    "stargazers_count": 26612,
+    "open_issues_count": 343,
+    "forks_count": 3723
   },
   {
     "full_name": "ThatOpen/engine_fragment",
-    "stargazers_count": 226,
-    "open_issues_count": 40,
+    "stargazers_count": 228,
+    "open_issues_count": 43,
     "forks_count": 76
   },
   {
     "full_name": "waydroid/waydroid",
-    "stargazers_count": 12485,
-    "open_issues_count": 976,
-    "forks_count": 561
+    "stargazers_count": 12495,
+    "open_issues_count": 978,
+    "forks_count": 560
   },
   {
     "full_name": "TokisanGames/Terrain3D",
-    "stargazers_count": 4677,
-    "open_issues_count": 91,
-    "forks_count": 358
+    "stargazers_count": 4729,
+    "open_issues_count": 94,
+    "forks_count": 366
   },
   {
     "full_name": "tangency-labs/solidcraft",
-    "stargazers_count": 13258,
-    "open_issues_count": 5351,
-    "forks_count": 1745
+    "stargazers_count": 14317,
+    "open_issues_count": 5696,
+    "forks_count": 1904
   },
   {
     "full_name": "farbrausch/fr_public",
-    "stargazers_count": 3826,
+    "stargazers_count": 3829,
     "open_issues_count": 28,
-    "forks_count": 402
+    "forks_count": 403
   },
   {
     "full_name": "NVIDIA-Omniverse/usd-brep",
-    "stargazers_count": 1973,
-    "open_issues_count": 25,
-    "forks_count": 295
+    "stargazers_count": 2009,
+    "open_issues_count": 33,
+    "forks_count": 305
   },
   {
     "full_name": "pinokiocomputer/pinokio",
-    "stargazers_count": 8354,
-    "open_issues_count": 476,
-    "forks_count": 849
+    "stargazers_count": 8366,
+    "open_issues_count": 475,
+    "forks_count": 851
   },
   {
     "full_name": "AppImage/AppImageKit",
-    "stargazers_count": 9462,
+    "stargazers_count": 9460,
     "open_issues_count": 238,
     "forks_count": 585
   },
   {
     "full_name": "warpdotdev/warp",
-    "stargazers_count": 65846,
-    "open_issues_count": 5521,
-    "forks_count": 5752
+    "stargazers_count": 65887,
+    "open_issues_count": 5542,
+    "forks_count": 5756
   },
   {
     "full_name": "rui314/mold",
-    "stargazers_count": 17722,
+    "stargazers_count": 17735,
     "open_issues_count": 207,
-    "forks_count": 585
+    "forks_count": 587
   },
   {
     "full_name": "godot-rust/demo-projects",
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "godot-rust/gdext",
-    "stargazers_count": 5355,
+    "stargazers_count": 5364,
     "open_issues_count": 65,
-    "forks_count": 324
+    "forks_count": 325
   },
   {
     "full_name": "ingelibre/ingecad",
-    "stargazers_count": 134,
-    "open_issues_count": 37,
-    "forks_count": 30
+    "stargazers_count": 144,
+    "open_issues_count": 41,
+    "forks_count": 33
   },
   {
     "full_name": "ingelibre/ingepresupuestos",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 22,
     "forks_count": 21
   },
   {
     "full_name": "storytold/artcraft",
-    "stargazers_count": 38426,
-    "open_issues_count": 629,
-    "forks_count": 6063
+    "stargazers_count": 39051,
+    "open_issues_count": 661,
+    "forks_count": 6165
   },
   {
     "full_name": "storytold/pdfcraft",
-    "stargazers_count": 19305,
-    "open_issues_count": 2926,
-    "forks_count": 7235
-  },
-  {
-    "full_name": "storytold/cadcraft",
-    "stargazers_count": 7510,
-    "open_issues_count": 1122,
-    "forks_count": 3211
-  },
-  {
-    "full_name": "mkturkcan/valdrada",
-    "stargazers_count": 255,
-    "open_issues_count": 2,
-    "forks_count": 37
-  },
-  {
-    "full_name": "legendary-gl/legendary",
-    "stargazers_count": 5349,
-    "open_issues_count": 121,
-    "forks_count": 207
-  },
-  {
-    "full_name": "Allar/ue4-mp-downloader",
-    "stargazers_count": 193,
-    "open_issues_count": 10,
-    "forks_count": 33
+    "stargazers_count": 19740,
+    "open_issues_count": 3240,
+    "forks_count": 7376
   }
 ]
