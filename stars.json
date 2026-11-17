@@ -1,81 +1,87 @@
 [
   {
+    "full_name": "simoarpe/ziggity",
+    "stargazers_count": 436,
+    "open_issues_count": 1,
+    "forks_count": 17
+  },
+  {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 67103,
+    "stargazers_count": 67168,
     "open_issues_count": 344,
-    "forks_count": 3211
+    "forks_count": 3214
   },
   {
     "full_name": "comet-ml/opik",
-    "stargazers_count": 23375,
-    "open_issues_count": 212,
-    "forks_count": 1948
+    "stargazers_count": 23444,
+    "open_issues_count": 211,
+    "forks_count": 1961
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 323286,
-    "open_issues_count": 240,
-    "forks_count": 27127
+    "stargazers_count": 326258,
+    "open_issues_count": 249,
+    "forks_count": 27401
   },
   {
     "full_name": "oracle/opengrok",
-    "stargazers_count": 5029,
-    "open_issues_count": 557,
-    "forks_count": 843
+    "stargazers_count": 5031,
+    "open_issues_count": 558,
+    "forks_count": 844
   },
   {
     "full_name": "browserslist/browserslist",
     "stargazers_count": 13588,
-    "open_issues_count": 44,
-    "forks_count": 797
+    "open_issues_count": 42,
+    "forks_count": 796
   },
   {
     "full_name": "l0ng-ai/openidea",
-    "stargazers_count": 8835,
-    "open_issues_count": 177,
-    "forks_count": 795
+    "stargazers_count": 9242,
+    "open_issues_count": 178,
+    "forks_count": 850
   },
   {
     "full_name": "runtimerobotics/ros2_gui_installer",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "IPedrax/BIMCraft",
-    "stargazers_count": 1062,
-    "open_issues_count": 35,
-    "forks_count": 181
+    "stargazers_count": 1116,
+    "open_issues_count": 77,
+    "forks_count": 195
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 51848,
-    "open_issues_count": 2,
-    "forks_count": 2608
+    "stargazers_count": 52159,
+    "open_issues_count": 1,
+    "forks_count": 2636
   },
   {
     "full_name": "DavidHDev/canvas-ui",
-    "stargazers_count": 5411,
+    "stargazers_count": 5462,
     "open_issues_count": 2,
-    "forks_count": 279
+    "forks_count": 284
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 127312,
+    "stargazers_count": 127885,
     "open_issues_count": 303,
-    "forks_count": 14095
+    "forks_count": 14148
   },
   {
     "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
-    "stargazers_count": 148853,
-    "open_issues_count": 82,
-    "forks_count": 15746
+    "stargazers_count": 150624,
+    "open_issues_count": 83,
+    "forks_count": 15919
   },
   {
     "full_name": "viettranx/3dviz-pro-max",
-    "stargazers_count": 1264,
+    "stargazers_count": 1380,
     "open_issues_count": 1,
-    "forks_count": 142
+    "forks_count": 159
   },
   {
     "full_name": "ishitham-labs/ishika-core",
@@ -85,57 +91,57 @@
   },
   {
     "full_name": "fragever/FragmentsUnreal",
-    "stargazers_count": 52,
+    "stargazers_count": 53,
     "open_issues_count": 11,
     "forks_count": 11
   },
   {
     "full_name": "google/flatbuffers",
-    "stargazers_count": 26630,
-    "open_issues_count": 341,
-    "forks_count": 3729
+    "stargazers_count": 26640,
+    "open_issues_count": 339,
+    "forks_count": 3734
   },
   {
     "full_name": "ThatOpen/engine_fragment",
-    "stargazers_count": 231,
-    "open_issues_count": 50,
-    "forks_count": 77
+    "stargazers_count": 232,
+    "open_issues_count": 54,
+    "forks_count": 78
   },
   {
     "full_name": "waydroid/waydroid",
-    "stargazers_count": 12517,
-    "open_issues_count": 987,
-    "forks_count": 561
+    "stargazers_count": 12545,
+    "open_issues_count": 986,
+    "forks_count": 563
   },
   {
     "full_name": "TokisanGames/Terrain3D",
-    "stargazers_count": 4764,
-    "open_issues_count": 96,
-    "forks_count": 367
+    "stargazers_count": 4770,
+    "open_issues_count": 97,
+    "forks_count": 371
   },
   {
     "full_name": "tangency-labs/solidcraft",
-    "stargazers_count": 16053,
-    "open_issues_count": 6865,
-    "forks_count": 2197
+    "stargazers_count": 16753,
+    "open_issues_count": 7314,
+    "forks_count": 2319
   },
   {
     "full_name": "farbrausch/fr_public",
-    "stargazers_count": 3837,
+    "stargazers_count": 3843,
     "open_issues_count": 28,
     "forks_count": 407
   },
   {
     "full_name": "NVIDIA-Omniverse/usd-brep",
-    "stargazers_count": 2074,
-    "open_issues_count": 55,
-    "forks_count": 311
+    "stargazers_count": 2093,
+    "open_issues_count": 56,
+    "forks_count": 316
   },
   {
     "full_name": "pinokiocomputer/pinokio",
-    "stargazers_count": 8398,
-    "open_issues_count": 475,
-    "forks_count": 854
+    "stargazers_count": 8408,
+    "open_issues_count": 474,
+    "forks_count": 856
   },
   {
     "full_name": "AppImage/AppImageKit",
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "warpdotdev/warp",
-    "stargazers_count": 66003,
-    "open_issues_count": 5563,
-    "forks_count": 5778
+    "stargazers_count": 66037,
+    "open_issues_count": 5570,
+    "forks_count": 5790
   },
   {
     "full_name": "rui314/mold",
-    "stargazers_count": 17749,
-    "open_issues_count": 214,
-    "forks_count": 586
+    "stargazers_count": 17755,
+    "open_issues_count": 216,
+    "forks_count": 588
   },
   {
     "full_name": "godot-rust/demo-projects",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "godot-rust/gdext",
-    "stargazers_count": 5391,
-    "open_issues_count": 65,
-    "forks_count": 324
+    "stargazers_count": 5406,
+    "open_issues_count": 70,
+    "forks_count": 325
   },
   {
     "full_name": "ingelibre/ingecad",
-    "stargazers_count": 150,
-    "open_issues_count": 44,
+    "stargazers_count": 158,
+    "open_issues_count": 46,
     "forks_count": 34
-  },
-  {
-    "full_name": "ingelibre/ingepresupuestos",
-    "stargazers_count": 62,
-    "open_issues_count": 32,
-    "forks_count": 22
   }
 ]
